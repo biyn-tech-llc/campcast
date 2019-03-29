@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>___TITLE___</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>___TITLE___</description>
+    <googleplay:image href="https://enenum.github.io/machanehcast/love_and_the_mega_church/love_and_the_mega_church.jpg"/>
+    <language>en-us</language>
+    <!--link>https://enenum.github.io/machanehcast/love_and_the_mega_church/</link-->
+    <link>___LINK___/</link>
+    <item>
+___ITEMS___
+  </channel>
+</rss>

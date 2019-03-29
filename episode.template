@@ -1,0 +1,10 @@
+    <item>
+      <title>___EPISODE___</title>
+      <description>___EPISODE___</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="___URL___"
+                 type="audio/mpeg" length="851843"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">___URL___</guid>
+    </item>
+
