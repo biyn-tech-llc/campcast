@@ -15,13 +15,12 @@ episode = '''
       <description>___EPISODE___</description>
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="___URL___"
-                 type="audio/mpeg" length="851843"/>
+                 type="audio/mpeg"/>
       <itunes:duration>30:00</itunes:duration>
       <guid isPermaLink="false">___URL___</guid>
     </item>
 '''
-pod_header = '''
-<?xml version="1.0" encoding="UTF-8"?>
+pod_header = '''<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
@@ -31,6 +30,13 @@ pod_header = '''
     <googleplay:image href="___IMAGE___"/>
     <language>en-us</language>
     <link>___LINK___/</link>
+    <image>
+        <url>
+            ___IMAGE___
+        </url>
+        <width>144</width>
+        <height>144</height>
+    </image>
 '''
 
 pod_footer = '''

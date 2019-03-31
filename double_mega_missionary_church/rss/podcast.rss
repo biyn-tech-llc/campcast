@@ -8,13 +8,20 @@
     <googleplay:image href="https://biyn-tech-llc.github.io/campcast/DAG.jpg"/>
     <language>en-us</language>
     <link>https://biyn-tech-llc.github.io/campcast/double_mega_missionary_church/</link>
+    <image>
+        <url>
+            https://biyn-tech-llc.github.io/campcast/DAG.jpg
+        </url>
+        <width>144</width>
+        <height>144</height>
+    </image>
 
     <item>
       <title>00 Intro - Double Mega Missionary Church</title>
       <description>00 Intro - Double Mega Missionary Church</description>
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C4_00%20Intro%20-%20Double%20Mega%20Missionary%20Church.mp3"
-                 type="audio/mpeg" length="851843"/>
+                 type="audio/mpeg"/>
       <itunes:duration>30:00</itunes:duration>
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C4_00%20Intro%20-%20Double%20Mega%20Missionary%20Church.mp3</guid>
     </item>
@@ -24,7 +31,7 @@
       <description>01 Reasons for a Double Mega  </description>
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C4_01%20Reasons%20for%20a%20Double%20Mega%20%20.mp3"
-                 type="audio/mpeg" length="851843"/>
+                 type="audio/mpeg"/>
       <itunes:duration>30:00</itunes:duration>
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C4_01%20Reasons%20for%20a%20Double%20Mega%20%20.mp3</guid>
     </item>
@@ -34,7 +41,7 @@
       <description>02 8 Reasons for a Missionary Church</description>
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C4_02%208%20Reasons%20for%20a%20Missionary%20Church.mp3"
-                 type="audio/mpeg" length="851843"/>
+                 type="audio/mpeg"/>
       <itunes:duration>30:00</itunes:duration>
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C4_02%208%20Reasons%20for%20a%20Missionary%20Church.mp3</guid>
     </item>
@@ -44,7 +51,7 @@
       <description>03 25 Reasons why we must have a Mega Church</description>
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C4_03%2025%20Reasons%20why%20we%20must%20have%20a%20Mega%20Church.mp3"
-                 type="audio/mpeg" length="851843"/>
+                 type="audio/mpeg"/>
       <itunes:duration>30:00</itunes:duration>
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C4_03%2025%20Reasons%20why%20we%20must%20have%20a%20Mega%20Church.mp3</guid>
     </item>
@@ -54,7 +61,7 @@
       <description>04 Reasons why we must aim for a Double Portion</description>
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C4_04%20Reasons%20why%20we%20must%20aim%20for%20a%20Double%20Portion.mp3"
-                 type="audio/mpeg" length="851843"/>
+                 type="audio/mpeg"/>
       <itunes:duration>30:00</itunes:duration>
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C4_04%20Reasons%20why%20we%20must%20aim%20for%20a%20Double%20Portion.mp3</guid>
     </item>
@@ -64,7 +71,7 @@
       <description>05 The Principle of Immediate Response</description>
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C4_05%20The%20Principle%20of%20Immediate%20Response.mp3"
-                 type="audio/mpeg" length="851843"/>
+                 type="audio/mpeg"/>
       <itunes:duration>30:00</itunes:duration>
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C4_05%20The%20Principle%20of%20Immediate%20Response.mp3</guid>
     </item>
@@ -74,7 +81,7 @@
       <description>06 The Principle of Sacrifice</description>
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C4_06%20The%20Principle%20of%20Sacrifice.mp3"
-                 type="audio/mpeg" length="851843"/>
+                 type="audio/mpeg"/>
       <itunes:duration>30:00</itunes:duration>
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C4_06%20The%20Principle%20of%20Sacrifice.mp3</guid>
     </item>
@@ -84,7 +91,7 @@
       <description>07 Principle of Following</description>
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C4_07%20Principle%20of%20Following.mp3"
-                 type="audio/mpeg" length="851843"/>
+                 type="audio/mpeg"/>
       <itunes:duration>30:00</itunes:duration>
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C4_07%20Principle%20of%20Following.mp3</guid>
     </item>
@@ -94,7 +101,7 @@
       <description>08 Principle of Ministering to the one you are Following</description>
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C4_08%20Principle%20of%20Ministering%20to%20the%20one%20you%20are%20Following.mp3"
-                 type="audio/mpeg" length="851843"/>
+                 type="audio/mpeg"/>
       <itunes:duration>30:00</itunes:duration>
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C4_08%20Principle%20of%20Ministering%20to%20the%20one%20you%20are%20Following.mp3</guid>
     </item>
@@ -104,7 +111,7 @@
       <description>09 The Principle of Knowing How and When to round up in the World</description>
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C4_09%20The%20Principle%20of%20Knowing%20How%20and%20When%20to%20round%20up%20in%20the%20World.mp3"
-                 type="audio/mpeg" length="851843"/>
+                 type="audio/mpeg"/>
       <itunes:duration>30:00</itunes:duration>
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C4_09%20The%20Principle%20of%20Knowing%20How%20and%20When%20to%20round%20up%20in%20the%20World.mp3</guid>
     </item>
@@ -114,7 +121,7 @@
       <description>10 The Principle of Progressive Mantling</description>
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C4_10%20The%20Principle%20of%20Progressive%20Mantling.mp3"
-                 type="audio/mpeg" length="851843"/>
+                 type="audio/mpeg"/>
       <itunes:duration>30:00</itunes:duration>
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C4_10%20The%20Principle%20of%20Progressive%20Mantling.mp3</guid>
     </item>
@@ -124,7 +131,7 @@
       <description>11 The Mystery of the 51 Unanointed prophets</description>
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C4_11%20The%20Mystery%20of%20the%2051%20Unanointed%20prophets.mp3"
-                 type="audio/mpeg" length="851843"/>
+                 type="audio/mpeg"/>
       <itunes:duration>30:00</itunes:duration>
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C4_11%20The%20Mystery%20of%20the%2051%20Unanointed%20prophets.mp3</guid>
     </item>
@@ -134,7 +141,7 @@
       <description>12 Signs of Disloyalty</description>
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C4_12%20Signs%20of%20Disloyalty.mp3"
-                 type="audio/mpeg" length="851843"/>
+                 type="audio/mpeg"/>
       <itunes:duration>30:00</itunes:duration>
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C4_12%20Signs%20of%20Disloyalty.mp3</guid>
     </item>
@@ -144,7 +151,7 @@
       <description>13 10 Principles of s Double Mega Anointing Receiver</description>
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C4_13%2010%20Principles%20of%20s%20Double%20Mega%20Anointing%20Receiver.mp3"
-                 type="audio/mpeg" length="851843"/>
+                 type="audio/mpeg"/>
       <itunes:duration>30:00</itunes:duration>
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C4_13%2010%20Principles%20of%20s%20Double%20Mega%20Anointing%20Receiver.mp3</guid>
     </item>
@@ -154,7 +161,7 @@
       <description>14 Closing Session</description>
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C4_14%20Closing%20Session.mp3"
-                 type="audio/mpeg" length="851843"/>
+                 type="audio/mpeg"/>
       <itunes:duration>30:00</itunes:duration>
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C4_14%20Closing%20Session.mp3</guid>
     </item>
