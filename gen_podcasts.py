@@ -2,6 +2,8 @@
 
 import subprocess
 import os
+import re
+import requests
 
 camps = [
     ('Strive Lawfully For A Mega Church',   'C3_'),
@@ -9,6 +11,7 @@ camps = [
 ]
 FILES_URL="http://daghewardmillsaudio.org/songs/"
 LINK_URL="https://biyn-tech-llc.github.io/campcast/"
+IMAGES_URL="http://daghewardmillsaudio.org/images/albums/"
 episode = '''
     <item>
       <title>___EPISODE___</title>
@@ -34,7 +37,7 @@ pod_header = '''<?xml version="1.0" encoding="UTF-8"?>
         <url>
             ___IMAGE___
         </url>
-        <width>144</width>
+        <width>192</width>
         <height>144</height>
     </image>
 '''
@@ -64,10 +67,23 @@ for camp in camps:
     #print cmd
     ssns = subprocess.check_output(cmd.split())
     #print ssns
+    cmd = "grep -i " + name.replace(' ', '.*') + " images.html"
+    image = LINK_URL + 'DAG.jpg'
+    try:
+        image_line = subprocess.check_output(cmd.split())
+        image_file = re.search(r'(?<=href=").*jpg', image_line).group(0)
+        image = IMAGES_URL + image_file
+        print image
+        if requests.get(image).status_code != 200:
+            image = LINK_URL + 'DAG.jpg'
+    except subprocess.CalledProcessError, e:
+        print str(e) 
+
+    cmd = "sed -ne s/^.*href=\"\(" + expr + ".*jpg\).*$/\\1/p allsongs.html" 
     folder = name.lower().replace(' ', '_')
     podcast = pod_header.replace('___TITLE___', name) \
                 .replace('___LINK___', LINK_URL + folder) \
-                .replace('___IMAGE___', LINK_URL + 'DAG.jpg')
+                .replace('___IMAGE___', image)
     for ssn in ssns.split():
         #print FILES_URL + ssn
         ssnTitle = ssn.split('.mp3')[0].split(expr)[1].replace('%20', ' ')

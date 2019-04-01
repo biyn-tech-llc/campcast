@@ -5,14 +5,14 @@
     <title>Strive Lawfully For A Mega Church</title>
     <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
     <description>Strive Lawfully For A Mega Church</description>
-    <googleplay:image href="https://biyn-tech-llc.github.io/campcast/DAG.jpg"/>
+    <googleplay:image href="http://daghewardmillsaudio.org/images/albums/STRIVE%20LAWFULLY%20FOR%20A%20MEGACHURCH.jpg"/>
     <language>en-us</language>
     <link>https://biyn-tech-llc.github.io/campcast/strive_lawfully_for_a_mega_church/</link>
     <image>
         <url>
-            https://biyn-tech-llc.github.io/campcast/DAG.jpg
+            http://daghewardmillsaudio.org/images/albums/STRIVE%20LAWFULLY%20FOR%20A%20MEGACHURCH.jpg
         </url>
-        <width>144</width>
+        <width>192</width>
         <height>144</height>
     </image>
 
