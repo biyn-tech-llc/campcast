@@ -22,7 +22,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C18_00%20Intro-%20Grace%20n%20peace.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C18_00%20Intro-%20Grace%20n%20peace.mp3</guid>
     </item>
 
@@ -32,7 +32,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C18_01%20Grace%20and%20Peace.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C18_01%20Grace%20and%20Peace.mp3</guid>
     </item>
 
@@ -42,7 +42,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C18_02%20%20Desire%20the%20Best%20Gifts.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C18_02%20%20Desire%20the%20Best%20Gifts.mp3</guid>
     </item>
 
@@ -52,7 +52,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C18_03%20God%20is%20giving%20you%20a%20Gift.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C18_03%20God%20is%20giving%20you%20a%20Gift.mp3</guid>
     </item>
 
@@ -62,7 +62,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C18_04%20The%20Road%20to%20the%20Gift.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C18_04%20The%20Road%20to%20the%20Gift.mp3</guid>
     </item>
 
@@ -72,7 +72,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C18_05%20The%20Helps%20Ministry.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C18_05%20The%20Helps%20Ministry.mp3</guid>
     </item>
 
@@ -82,7 +82,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C18_06%20Steps%20to%20receiving%20the%20Holy%20Ghost.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C18_06%20Steps%20to%20receiving%20the%20Holy%20Ghost.mp3</guid>
     </item>
 
@@ -92,7 +92,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C18_07%20Walking%20Worthy.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C18_07%20Walking%20Worthy.mp3</guid>
     </item>
 

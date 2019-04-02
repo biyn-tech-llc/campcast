@@ -22,7 +22,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C1_00%20Intro%20-%20Building%20a%20Multiple%20Mega%20Church.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C1_00%20Intro%20-%20Building%20a%20Multiple%20Mega%20Church.mp3</guid>
     </item>
 
@@ -32,7 +32,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C1_01%20Sharing%20the%20Burden.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C1_01%20Sharing%20the%20Burden.mp3</guid>
     </item>
 
@@ -42,7 +42,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C1_02%20How%20to%20do%20the%20Work%20of%20the%20Ministry.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C1_02%20How%20to%20do%20the%20Work%20of%20the%20Ministry.mp3</guid>
     </item>
 
@@ -52,7 +52,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C1_03%203%20Classes%20of%20the%20Anointing%20.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C1_03%203%20Classes%20of%20the%20Anointing%20.mp3</guid>
     </item>
 
@@ -62,7 +62,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C1_04%20Ladies%20doing%20the%20Work%20of%20the%20Ministry.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C1_04%20Ladies%20doing%20the%20Work%20of%20the%20Ministry.mp3</guid>
     </item>
 
@@ -72,7 +72,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C1_05%2015%20Reasons%20why%20you%20must%20Number%20your%20Members.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C1_05%2015%20Reasons%20why%20you%20must%20Number%20your%20Members.mp3</guid>
     </item>
 
@@ -82,7 +82,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C1_06%20Important%20Shepherdorial%20Numbers%20.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C1_06%20Important%20Shepherdorial%20Numbers%20.mp3</guid>
     </item>
 
@@ -92,7 +92,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C1_07%20Shepherdorial%20Close-Marking%201.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C1_07%20Shepherdorial%20Close-Marking%201.mp3</guid>
     </item>
 
@@ -102,7 +102,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C1_08%20Shepherdorial%20Close-Marking%202.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C1_08%20Shepherdorial%20Close-Marking%202.mp3</guid>
     </item>
 
@@ -112,7 +112,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C1_09%2025%20Reasons%20for%20a%20Mega%20Church.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C1_09%2025%20Reasons%20for%20a%20Mega%20Church.mp3</guid>
     </item>
 
@@ -122,7 +122,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C1_10%20Reasons%20for%20a%20Multiple%20Mega%20Church.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C1_10%20Reasons%20for%20a%20Multiple%20Mega%20Church.mp3</guid>
     </item>
 
@@ -132,7 +132,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C1_11%20Different%20Classes%20of%20Shepherds%20.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C1_11%20Different%20Classes%20of%20Shepherds%20.mp3</guid>
     </item>
 
@@ -142,7 +142,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C1_12%20The%20Anointing%201.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C1_12%20The%20Anointing%201.mp3</guid>
     </item>
 
@@ -152,7 +152,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C1_13%20The%20Anointing%202%20-%20Sevanthood.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C1_13%20The%20Anointing%202%20-%20Sevanthood.mp3</guid>
     </item>
 
@@ -162,7 +162,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C1_14%20Shepherdorial%20Keys%201.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C1_14%20Shepherdorial%20Keys%201.mp3</guid>
     </item>
 
@@ -172,7 +172,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C1_15%20Shepherdorial%20Keys%202.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C1_15%20Shepherdorial%20Keys%202.mp3</guid>
     </item>
 

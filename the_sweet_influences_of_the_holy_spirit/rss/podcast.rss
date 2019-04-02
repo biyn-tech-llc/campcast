@@ -22,7 +22,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C78_00%20Intro%20-%20The%20Sweet%20influences%20of%20The%20Holy%20Spirit.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C78_00%20Intro%20-%20The%20Sweet%20influences%20of%20The%20Holy%20Spirit.mp3</guid>
     </item>
 
@@ -32,7 +32,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C78_01%20Sweet%20influences%20of%20the%20Holy%20Spirit%20on%20your%20destiny.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C78_01%20Sweet%20influences%20of%20the%20Holy%20Spirit%20on%20your%20destiny.mp3</guid>
     </item>
 
@@ -42,7 +42,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C78_02%20Sweet%20influences%20of%20the%20Holy%20Spirit%20on%20your%20ministry,%20emphasis%20and%20priority.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C78_02%20Sweet%20influences%20of%20the%20Holy%20Spirit%20on%20your%20ministry,%20emphasis%20and%20priority.mp3</guid>
     </item>
 
@@ -52,7 +52,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C78_03%20Sweet%20influences%20of%20the%20Holy%20Spirit%20on%20your%20level%20of%20honesty.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C78_03%20Sweet%20influences%20of%20the%20Holy%20Spirit%20on%20your%20level%20of%20honesty.mp3</guid>
     </item>
 
@@ -62,7 +62,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C78_04%20Sweet%20influences%20of%20the%20Holy%20Spirit%20on%20your%20life.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C78_04%20Sweet%20influences%20of%20the%20Holy%20Spirit%20on%20your%20life.mp3</guid>
     </item>
 
@@ -72,7 +72,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C78_05%20Sweet%20influences%20of%20the%20Holy%20Spirit%20on%20your%20relationship.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C78_05%20Sweet%20influences%20of%20the%20Holy%20Spirit%20on%20your%20relationship.mp3</guid>
     </item>
 
@@ -82,7 +82,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C78_06%20Sweet%20influences%20of%20the%20Holy%20Spirit%20on%20what%20you%20are%20able%20to%20accomplish.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C78_06%20Sweet%20influences%20of%20the%20Holy%20Spirit%20on%20what%20you%20are%20able%20to%20accomplish.mp3</guid>
     </item>
 
@@ -92,7 +92,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C78_07%20Sweet%20influences%20of%20the%20Holy%20Spirit%20on%20your%20level%20of%20production.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C78_07%20Sweet%20influences%20of%20the%20Holy%20Spirit%20on%20your%20level%20of%20production.mp3</guid>
     </item>
 
@@ -102,7 +102,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C78_08%20Sweet%20influences%20of%20the%20Holy%20Spirit%20on%20your%20talents.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C78_08%20Sweet%20influences%20of%20the%20Holy%20Spirit%20on%20your%20talents.mp3</guid>
     </item>
 
@@ -112,7 +112,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C78_09%20Sweet%20influences%20of%20the%20Holy%20Spirit%20on%20your%20level%20of%20obedience.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C78_09%20Sweet%20influences%20of%20the%20Holy%20Spirit%20on%20your%20level%20of%20obedience.mp3</guid>
     </item>
 
@@ -122,7 +122,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C78_10%20Sweet%20influences%20of%20the%20Holy%20Spirit%20on%20your%20Charisma.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C78_10%20Sweet%20influences%20of%20the%20Holy%20Spirit%20on%20your%20Charisma.mp3</guid>
     </item>
 
@@ -132,7 +132,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C78_11%20Sweet%20influences%20of%20the%20Holy%20Spirit%20on%20your%20Pastoral%20destiny.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C78_11%20Sweet%20influences%20of%20the%20Holy%20Spirit%20on%20your%20Pastoral%20destiny.mp3</guid>
     </item>
 
@@ -142,7 +142,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C78_12%20Sweet%20influnces%20of%20the%20Holy%20Spirit%20on%20your%20heart.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C78_12%20Sweet%20influnces%20of%20the%20Holy%20Spirit%20on%20your%20heart.mp3</guid>
     </item>
 
@@ -152,7 +152,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C78_13%20Sweet%20influnces%20of%20the%20Holy%20Spirit%20on%20your%20inspiration.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C78_13%20Sweet%20influnces%20of%20the%20Holy%20Spirit%20on%20your%20inspiration.mp3</guid>
     </item>
 
@@ -162,7 +162,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C78_14%20Sweet%20influences%20of%20the%20Holy%20Spirit%20on%20your%20love.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C78_14%20Sweet%20influences%20of%20the%20Holy%20Spirit%20on%20your%20love.mp3</guid>
     </item>
 
@@ -172,7 +172,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C78_15%20How%20to%20multiply%20the%20influences%20of%20the%20Holy%20Spirit.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C78_15%20How%20to%20multiply%20the%20influences%20of%20the%20Holy%20Spirit.mp3</guid>
     </item>
 

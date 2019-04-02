@@ -22,7 +22,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C44_00%20Intro%20-%20Apocalypse.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C44_00%20Intro%20-%20Apocalypse.mp3</guid>
     </item>
 
@@ -32,7 +32,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C44_01%20Apocalypse%201-Revelations%2010.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C44_01%20Apocalypse%201-Revelations%2010.mp3</guid>
     </item>
 
@@ -42,7 +42,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C44_02%20Apocalypse%202-%20Revelations%2011.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C44_02%20Apocalypse%202-%20Revelations%2011.mp3</guid>
     </item>
 
@@ -52,7 +52,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C44_03%20Apocalypse%203%20-Revelations%2012.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C44_03%20Apocalypse%203%20-Revelations%2012.mp3</guid>
     </item>
 
@@ -62,7 +62,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C44_04%20Apocalypse%204%20-%20Revelations%2013.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C44_04%20Apocalypse%204%20-%20Revelations%2013.mp3</guid>
     </item>
 
@@ -72,7 +72,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C44_05%20Apocalypse%205-%20Revelations%2014,15.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C44_05%20Apocalypse%205-%20Revelations%2014,15.mp3</guid>
     </item>
 
@@ -82,7 +82,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C44_06%20Apocalypse%206-%20Revelations%2016.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C44_06%20Apocalypse%206-%20Revelations%2016.mp3</guid>
     </item>
 
@@ -92,7 +92,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C44_07%20Apocalypse%207%20-%20Revelations%2017.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C44_07%20Apocalypse%207%20-%20Revelations%2017.mp3</guid>
     </item>
 

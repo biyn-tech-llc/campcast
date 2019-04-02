@@ -5,12 +5,12 @@
     <title>The Lord's Anointed</title>
     <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
     <description>The Lord's Anointed</description>
-    <googleplay:image href="https://biyn-tech-llc.github.io/campcast/DAG.jpg"/>
+    <googleplay:image href="http://daghewardmillsaudio.org/images/albums/THE%20LORD'S%20ANOINTED.jpg"/>
     <language>en-us</language>
     <link>https://biyn-tech-llc.github.io/campcast/the_lord's_anointed/</link>
     <image>
         <url>
-            https://biyn-tech-llc.github.io/campcast/DAG.jpg
+            http://daghewardmillsaudio.org/images/albums/THE%20LORD'S%20ANOINTED.jpg
         </url>
         <width>192</width>
         <height>144</height>
@@ -22,7 +22,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C45_00%20Intro%20-%20The%20Lord's%20Anointed.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C45_00%20Intro%20-%20The%20Lord's%20Anointed.mp3</guid>
     </item>
 
@@ -32,7 +32,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C45_01%20Activity%20Anywhere%20and%20Everywh.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C45_01%20Activity%20Anywhere%20and%20Everywh.mp3</guid>
     </item>
 
@@ -42,7 +42,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C45_02%20The%20Lord's%20Anointed.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C45_02%20The%20Lord's%20Anointed.mp3</guid>
     </item>
 
@@ -52,7 +52,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C45_03%20Adventures%20In%20Christianity.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C45_03%20Adventures%20In%20Christianity.mp3</guid>
     </item>
 
@@ -62,7 +62,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C45_04%20The%20Heart%20-%20Your%20Heart.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C45_04%20The%20Heart%20-%20Your%20Heart.mp3</guid>
     </item>
 
@@ -72,7 +72,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C45_05%20The%20Lord's%20Anointed%201.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C45_05%20The%20Lord's%20Anointed%201.mp3</guid>
     </item>
 
@@ -82,7 +82,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C45_06%20The%20Lord's%20Anointed%202.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C45_06%20The%20Lord's%20Anointed%202.mp3</guid>
     </item>
 
@@ -92,7 +92,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C45_07%20The%20Anointings%20Journey%201.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C45_07%20The%20Anointings%20Journey%201.mp3</guid>
     </item>
 
@@ -102,7 +102,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C45_08%20The%20Anointing's%20Journey%202.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C45_08%20The%20Anointing's%20Journey%202.mp3</guid>
     </item>
 
@@ -112,7 +112,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C45_09%20Psalm%202.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C45_09%20Psalm%202.mp3</guid>
     </item>
 

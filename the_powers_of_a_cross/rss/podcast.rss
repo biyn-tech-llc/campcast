@@ -22,7 +22,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_00%20Intro%20-%20The%20Powers%20of%20a%20Cross.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_00%20Intro%20-%20The%20Powers%20of%20a%20Cross.mp3</guid>
     </item>
 
@@ -32,7 +32,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_01%20Introduction-%20Powers%20of%20a%20Cross.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_01%20Introduction-%20Powers%20of%20a%20Cross.mp3</guid>
     </item>
 
@@ -42,7 +42,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_02%20The%203%20Goals%20of%20a%20Shepherd.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_02%20The%203%20Goals%20of%20a%20Shepherd.mp3</guid>
     </item>
 
@@ -52,7 +52,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_03%20Song-%20Shepherd%20of%20my%20Soul.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_03%20Song-%20Shepherd%20of%20my%20Soul.mp3</guid>
     </item>
 
@@ -62,7 +62,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_04%20Types%20of%20Shepherding%20Relationships%201.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_04%20Types%20of%20Shepherding%20Relationships%201.mp3</guid>
     </item>
 
@@ -72,7 +72,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_05%20Types%20of%20Shepherding%20Relationships%202.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_05%20Types%20of%20Shepherding%20Relationships%202.mp3</guid>
     </item>
 
@@ -82,7 +82,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_06%20Types%20of%20Shepherding%20Relationships%203.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_06%20Types%20of%20Shepherding%20Relationships%203.mp3</guid>
     </item>
 
@@ -92,7 +92,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_07%20Types%20of%20Shepherding%20Relationships%204.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_07%20Types%20of%20Shepherding%20Relationships%204.mp3</guid>
     </item>
 
@@ -102,7 +102,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_08%20Song%20by%20Grace.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_08%20Song%20by%20Grace.mp3</guid>
     </item>
 
@@ -112,7 +112,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_09%20Hireling%20Shepherds.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_09%20Hireling%20Shepherds.mp3</guid>
     </item>
 
@@ -122,7 +122,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_10%20Songs%20&amp;%20Prayer%20by%20Bishop.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_10%20Songs%20&amp;%20Prayer%20by%20Bishop.mp3</guid>
     </item>
 
@@ -132,7 +132,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_11%20The%20Importance%20of%20the%20Cross-%20Everyone%20has%20a%20different%20Cross.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_11%20The%20Importance%20of%20the%20Cross-%20Everyone%20has%20a%20different%20Cross.mp3</guid>
     </item>
 
@@ -142,7 +142,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_12%20The%20Wisdom%20of%20the%20Cross.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_12%20The%20Wisdom%20of%20the%20Cross.mp3</guid>
     </item>
 
@@ -152,7 +152,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_13%20The%20Mystery%20of%20Spiritual%20Accomplishment-%20Introduction.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_13%20The%20Mystery%20of%20Spiritual%20Accomplishment-%20Introduction.mp3</guid>
     </item>
 
@@ -162,7 +162,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_14%20The%20Mystery%20of%20Spiritual%20Accomplishment.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_14%20The%20Mystery%20of%20Spiritual%20Accomplishment.mp3</guid>
     </item>
 
@@ -172,7 +172,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_15%20A%20Cross%20Releases%20Power%20to%20Christian%20Ministry.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_15%20A%20Cross%20Releases%20Power%20to%20Christian%20Ministry.mp3</guid>
     </item>
 
@@ -182,7 +182,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_16%20Power%20to%20Release%20a%20Priest.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_16%20Power%20to%20Release%20a%20Priest.mp3</guid>
     </item>
 
@@ -192,7 +192,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_17%20Power%20to%20put%20away%20Sins.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_17%20Power%20to%20put%20away%20Sins.mp3</guid>
     </item>
 
@@ -202,7 +202,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_18%20The%20Power%20to%20Take%20Away%20Sin.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_18%20The%20Power%20to%20Take%20Away%20Sin.mp3</guid>
     </item>
 
@@ -212,7 +212,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_19%20The%20Ability%20to%20Make%20a%20Pastor%20Sympathetic%20&amp;%20Kind.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_19%20The%20Ability%20to%20Make%20a%20Pastor%20Sympathetic%20&amp;%20Kind.mp3</guid>
     </item>
 
@@ -222,7 +222,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_20%20The%20Power%20to%20Free%20you%20from%20your%20Useless%20Way%20of%20Doing%20Things.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_20%20The%20Power%20to%20Free%20you%20from%20your%20Useless%20Way%20of%20Doing%20Things.mp3</guid>
     </item>
 
@@ -232,7 +232,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_21%20The%20Power%20to%20Release%20Us%20from%20Slavery%20&amp;%20Bonage%20to%20Sin.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_21%20The%20Power%20to%20Release%20Us%20from%20Slavery%20&amp;%20Bonage%20to%20Sin.mp3</guid>
     </item>
 
@@ -242,7 +242,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_22%20Power%20to%20Sanctify%20People.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_22%20Power%20to%20Sanctify%20People.mp3</guid>
     </item>
 
@@ -252,7 +252,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_23%20Die%20to%20Sin%20and%20Live%20to%20Righteousness.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_23%20Die%20to%20Sin%20and%20Live%20to%20Righteousness.mp3</guid>
     </item>
 
@@ -262,7 +262,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_24%20Sacrife%20of%20Christ%20Make%20you%20Bring%20Forth%20Fruits.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_24%20Sacrife%20of%20Christ%20Make%20you%20Bring%20Forth%20Fruits.mp3</guid>
     </item>
 
@@ -272,7 +272,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_25%20Power%20to%20Bring%20Us%20Back%20form%20Going%20Astray.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_25%20Power%20to%20Bring%20Us%20Back%20form%20Going%20Astray.mp3</guid>
     </item>
 
@@ -282,7 +282,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_26%20The%20Power%20not%20to%20Live%20for%20Yourself.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_26%20The%20Power%20not%20to%20Live%20for%20Yourself.mp3</guid>
     </item>
 
@@ -292,7 +292,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_27%20The%20Power%20Which%20Enables%20you%20to%20Crucify%20the%20World.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_27%20The%20Power%20Which%20Enables%20you%20to%20Crucify%20the%20World.mp3</guid>
     </item>
 
@@ -302,7 +302,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_28%20The%20Power%20that%20Enables%20You%20to%20Enter%20Into%20a%20New%20Life%20of%20Faith.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_28%20The%20Power%20that%20Enables%20You%20to%20Enter%20Into%20a%20New%20Life%20of%20Faith.mp3</guid>
     </item>
 
@@ -312,7 +312,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_29%20The%20Power%20that%20Enables%20Husbands%20to%20Love%20thier%20Wives.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_29%20The%20Power%20that%20Enables%20Husbands%20to%20Love%20thier%20Wives.mp3</guid>
     </item>
 
@@ -322,7 +322,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_30%20The%20Power%20to%20Create%20Unusual%20Group%20of%20People%20Full%20of%20Zeal%20Unto%20Good%20Works.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_30%20The%20Power%20to%20Create%20Unusual%20Group%20of%20People%20Full%20of%20Zeal%20Unto%20Good%20Works.mp3</guid>
     </item>
 
@@ -332,7 +332,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_31%20It%20Releases%20the%20Most%20Powerful%20Example%20to%20Follow.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_31%20It%20Releases%20the%20Most%20Powerful%20Example%20to%20Follow.mp3</guid>
     </item>
 
@@ -342,7 +342,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_32%20It%20Is%20The%20Power%20that%20will%20Enable%20You%20to%20Endure%20Contradictions.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_32%20It%20Is%20The%20Power%20that%20will%20Enable%20You%20to%20Endure%20Contradictions.mp3</guid>
     </item>
 
@@ -352,7 +352,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_33%20The%20Power%20that%20defines%20The%20Standard%20&amp;%20The%20Level.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_33%20The%20Power%20that%20defines%20The%20Standard%20&amp;%20The%20Level.mp3</guid>
     </item>
 
@@ -362,7 +362,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_34%20The%20Power%20to%20Set%20You%20Free%20from%20the%20Fear%20of%20Death.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_34%20The%20Power%20to%20Set%20You%20Free%20from%20the%20Fear%20of%20Death.mp3</guid>
     </item>
 
@@ -372,7 +372,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_35%20The%20Powers%20of%20a%20Cross%201.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_35%20The%20Powers%20of%20a%20Cross%201.mp3</guid>
     </item>
 
@@ -382,7 +382,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_36%20The%20Powers%20of%20a%20Cross%202.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_36%20The%20Powers%20of%20a%20Cross%202.mp3</guid>
     </item>
 
@@ -392,7 +392,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_37%20The%20Wisdom%20of%20the%20Cross.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_37%20The%20Wisdom%20of%20the%20Cross.mp3</guid>
     </item>
 
@@ -402,7 +402,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_38%20Shepherding%20Skills.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_38%20Shepherding%20Skills.mp3</guid>
     </item>
 
@@ -412,7 +412,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_39%20The%20Powers%20of%20a%20Cross%203.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_39%20The%20Powers%20of%20a%20Cross%203.mp3</guid>
     </item>
 
@@ -422,7 +422,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_40%20The%20Powers%20of%20a%20Cross%204.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_40%20The%20Powers%20of%20a%20Cross%204.mp3</guid>
     </item>
 
@@ -432,7 +432,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_41%20The%20Powers%20of%20a%20Cross%205.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_41%20The%20Powers%20of%20a%20Cross%205.mp3</guid>
     </item>
 
@@ -442,7 +442,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C53_42%20Avoiding%20The%20Cross%20will%20Prevent%20You%20from%20Becoming%20Precious%20to%20God.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C53_42%20Avoiding%20The%20Cross%20will%20Prevent%20You%20from%20Becoming%20Precious%20to%20God.mp3</guid>
     </item>
 

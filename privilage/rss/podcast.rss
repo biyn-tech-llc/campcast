@@ -22,7 +22,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C65_00%20Intro%20Privilage.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_00%20Intro%20Privilage.mp3</guid>
     </item>
 
@@ -32,7 +32,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C65_01%20The%20Privilege%20of%20Being%20a%20Shepherd.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_01%20The%20Privilege%20of%20Being%20a%20Shepherd.mp3</guid>
     </item>
 
@@ -42,7 +42,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C65_02%20What%20it%20Means%20to%20be%20Called%20a%20Shepherd%201.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_02%20What%20it%20Means%20to%20be%20Called%20a%20Shepherd%201.mp3</guid>
     </item>
 
@@ -52,7 +52,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C65_03%20What%20it%20Means%20to%20be%20Called%20a%20Shepherd%202.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_03%20What%20it%20Means%20to%20be%20Called%20a%20Shepherd%202.mp3</guid>
     </item>
 
@@ -62,7 +62,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C65_04%20What%20it%20Means%20to%20Have%20the%20Privilege%20of%20Being%20a%20Shepherd.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_04%20What%20it%20Means%20to%20Have%20the%20Privilege%20of%20Being%20a%20Shepherd.mp3</guid>
     </item>
 
@@ -72,7 +72,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C65_05%20Song%20Ministration.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_05%20Song%20Ministration.mp3</guid>
     </item>
 
@@ -82,7 +82,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C65_06%20The%20Privilege%20of%20The%20High%20Ranking%20Job%20of%20Being%20a%20Shepherd.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_06%20The%20Privilege%20of%20The%20High%20Ranking%20Job%20of%20Being%20a%20Shepherd.mp3</guid>
     </item>
 
@@ -92,7 +92,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C65_07%207%20Reasons%20Why%20Shepherding%20is%20a%20High%20Ranking%20Job.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_07%207%20Reasons%20Why%20Shepherding%20is%20a%20High%20Ranking%20Job.mp3</guid>
     </item>
 
@@ -102,7 +102,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C65_08%2010%20Things%20that%20it%20Means%20to%20Have%20a%20High%20Calling.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_08%2010%20Things%20that%20it%20Means%20to%20Have%20a%20High%20Calling.mp3</guid>
     </item>
 
@@ -112,7 +112,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C65_09%2035%20Qualities%20of%20Becoming%20a%20Shepherd%201.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_09%2035%20Qualities%20of%20Becoming%20a%20Shepherd%201.mp3</guid>
     </item>
 
@@ -122,7 +122,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C65_10%2035%20Qualities%20of%20Beocming%20a%20Shepherd%202.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_10%2035%20Qualities%20of%20Beocming%20a%20Shepherd%202.mp3</guid>
     </item>
 
@@ -132,7 +132,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C65_11%2035%20Qualities%20of%20Becoming%20a%20Shepherd%203.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_11%2035%20Qualities%20of%20Becoming%20a%20Shepherd%203.mp3</guid>
     </item>
 
@@ -142,7 +142,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C65_12%2035%20Qualities%20of%20Becoming%20a%20Shepherd%204.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_12%2035%20Qualities%20of%20Becoming%20a%20Shepherd%204.mp3</guid>
     </item>
 
@@ -152,7 +152,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C65_13%2035%20Qualities%20of%20Becoming%20a%20Shepherd%205.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_13%2035%20Qualities%20of%20Becoming%20a%20Shepherd%205.mp3</guid>
     </item>
 
@@ -162,7 +162,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C65_14%2035%20Qualities%20of%20Becoming%20a%20Shepherd%206.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_14%2035%20Qualities%20of%20Becoming%20a%20Shepherd%206.mp3</guid>
     </item>
 
@@ -172,7 +172,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C65_15%2029%20Ways%20to%20Preach%20Well%201.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_15%2029%20Ways%20to%20Preach%20Well%201.mp3</guid>
     </item>
 
@@ -182,7 +182,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C65_16%2029%20Ways%20to%20Preach%20Well%202.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_16%2029%20Ways%20to%20Preach%20Well%202.mp3</guid>
     </item>
 
@@ -192,7 +192,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C65_17%2012%20Reasons%20Why%20Judas%20Came%20Into%20the%20World%201.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_17%2012%20Reasons%20Why%20Judas%20Came%20Into%20the%20World%201.mp3</guid>
     </item>
 
@@ -202,7 +202,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C65_18%2012%20Reasons%20Why%20Judas%20Came%20Into%20the%20World%202.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_18%2012%20Reasons%20Why%20Judas%20Came%20Into%20the%20World%202.mp3</guid>
     </item>
 
@@ -212,7 +212,7 @@
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C65_19%2015%20Reasons%20Why%20You%20Must%20Take%20Shepherding%20to%20the%20Highest.mp3"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_19%2015%20Reasons%20Why%20You%20Must%20Take%20Shepherding%20to%20the%20Highest.mp3</guid>
     </item>
 

@@ -88,7 +88,7 @@ episode = '''
       <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
       <enclosure url="___URL___"
                  type="audio/mpeg"/>
-      <itunes:duration>30:00</itunes:duration>
+      <!--itunes:duration>30:00</itunes:duration-->
       <guid isPermaLink="false">___URL___</guid>
     </item>
 '''
@@ -129,6 +129,123 @@ pod_page = '''
 </html>
 '''
 
+list_page_header = '''
+<!DOCTYPE html>
+<html>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.header {
+  text-align: center;
+  padding: 32px;
+}
+
+.row {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+  -ms-flex: 25%; /* IE10 */
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+  .column {
+    -ms-flex: 50%;
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    -ms-flex: 100%;
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+</style>
+<body>
+
+<!-- Header -->
+<div class="header">
+  <h1>Responsive Image Grid</h1>
+  <p>Resize the browser window to see the responsive effect.</p>
+</div>
+
+<!-- Photo Grid -->
+<div class="row"> 
+'''
+
+list_page_footer = '''
+</div>
+
+<script>
+function fallbackCopyTextToClipboard(text) {
+  var textArea = document.createElement("textarea");
+  textArea.value = text;
+  document.body.appendChild(textArea);
+  textArea.focus();
+  textArea.select();
+
+  try {
+    var successful = document.execCommand('copy');
+    var msg = successful ? 'successful' : 'unsuccessful';
+    console.log('Fallback: Copying text command was ' + msg);
+  } catch (err) {
+    console.error('Fallback: Oops, unable to copy', err);
+  }
+
+  document.body.removeChild(textArea);
+}
+function copyTextToClipboard(text) {
+  if (!navigator.clipboard) {
+    fallbackCopyTextToClipboard(text);
+    return;
+  }
+  navigator.clipboard.writeText(text).then(function() {
+    console.log('Async: Copying to clipboard was successful!');
+  }, function(err) {
+    console.error('Async: Could not copy text: ', err);
+  });
+}
+</script>
+
+</body>
+</html>
+'''
+column_h = '  <div class="column">'
+column_f = '  </div>'
+
+fig = '''
+    <figure onclick="copyTextToClipboard('___PODCASTRSS___')">
+      <img src="___IMAGE___" style="width:100%">
+      <figcaption>___TITLE___</figcaption>
+    </figure>
+'''
+max_cols = 4
+col_len = len(camps) / max_cols + (1 if len(camps) % max_cols else 0)
 for camp in camps:
     name = camp[0]
     expr = camp[1]
@@ -136,11 +253,11 @@ for camp in camps:
     #print cmd
     ssns = subprocess.check_output(cmd.split())
     #print "sessions are: " + ssns
-    cmd = "grep -i " + name.replace(' ', '.*') + " images.html"
+    cmd = "grep -i -m 1 " + name.replace(' ', '.*') + " images.html"
     image = LINK_URL + 'DAG.jpg'
     try:
         image_line = subprocess.check_output(cmd.split())
-        image_file = re.search(r'(?<=href=").*jpg', image_line).group(0)
+        image_file = re.search(r'(?<=href=").*jpg(?=">)', image_line).group(0)
         image = IMAGES_URL + image_file
         #print image
         if requests.get(image).status_code != 200:
@@ -170,6 +287,6 @@ for camp in camps:
     with open(os.path.join(pod_dir, "podcast.rss"), "w") as rss_file:
         rss_file.write(podcast)
     with open(os.path.join(folder, 'index.html'), 'w') as html_file:
-        html_file.write(pod_page.replace('___PODCASTRSS___', LINK_URL + folder + '/index.html') \
+        html_file.write(pod_page.replace('___PODCASTRSS___', LINK_URL + podfile) \
             .replace('___TITLE___', name))
 
