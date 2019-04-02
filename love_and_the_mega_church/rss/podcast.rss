@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Love and The Mega Church</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Love and The Mega Church</description>
+    <googleplay:image href="http://daghewardmillsaudio.org/images/albums/1544746436_love%20and%20the%20mega%20church.jpg"/>
+    <language>en-us</language>
+    <link>https://biyn-tech-llc.github.io/campcast/love_and_the_mega_church/</link>
+    <image>
+        <url>
+            http://daghewardmillsaudio.org/images/albums/1544746436_love%20and%20the%20mega%20church.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>00 Intro - Love and The Mega Church</title>
+      <description>00 Intro - Love and The Mega Church</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C6_00%20Intro%20-%20Love%20and%20The%20Mega%20Church.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C6_00%20Intro%20-%20Love%20and%20The%20Mega%20Church.mp3</guid>
+    </item>
+
+    <item>
+      <title>01 Draw Near</title>
+      <description>01 Draw Near</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C6_01%20Draw%20Near.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C6_01%20Draw%20Near.mp3</guid>
+    </item>
+
+    <item>
+      <title>02 25 Reasons for a Mega Church</title>
+      <description>02 25 Reasons for a Mega Church</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C6_02%2025%20Reasons%20for%20a%20Mega%20Church.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C6_02%2025%20Reasons%20for%20a%20Mega%20Church.mp3</guid>
+    </item>
+
+    <item>
+      <title>03 The Holy Spirit as Rain</title>
+      <description>03 The Holy Spirit as Rain</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C6_03%20The%20Holy%20Spirit%20as%20Rain.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C6_03%20The%20Holy%20Spirit%20as%20Rain.mp3</guid>
+    </item>
+
+    <item>
+      <title>04 The Offices of the Ministry</title>
+      <description>04 The Offices of the Ministry</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C6_04%20The%20Offices%20of%20the%20Ministry.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C6_04%20The%20Offices%20of%20the%20Ministry.mp3</guid>
+    </item>
+
+    <item>
+      <title>05 Effects of the Holy Spirit - Love</title>
+      <description>05 Effects of the Holy Spirit - Love</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C6_05%20Effects%20of%20the%20Holy%20Spirit%20-%20Love.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C6_05%20Effects%20of%20the%20Holy%20Spirit%20-%20Love.mp3</guid>
+    </item>
+
+    <item>
+      <title>06 Effects of the Holy Spirit - Care for the sheep</title>
+      <description>06 Effects of the Holy Spirit - Care for the sheep</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C6_06%20Effects%20of%20the%20Holy%20Spirit%20-%20Care%20for%20the%20sheep.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C6_06%20Effects%20of%20the%20Holy%20Spirit%20-%20Care%20for%20the%20sheep.mp3</guid>
+    </item>
+
+    <item>
+      <title>07 Effects of the Holy Spirit - Love for God 1</title>
+      <description>07 Effects of the Holy Spirit - Love for God 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C6_07%20Effects%20of%20the%20Holy%20Spirit%20-%20Love%20for%20God%201.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C6_07%20Effects%20of%20the%20Holy%20Spirit%20-%20Love%20for%20God%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>08 Effects of the Holy Spirit - Love for God 2</title>
+      <description>08 Effects of the Holy Spirit - Love for God 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C6_08%20Effects%20of%20the%20Holy%20Spirit%20-%20Love%20for%20God%202.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C6_08%20Effects%20of%20the%20Holy%20Spirit%20-%20Love%20for%20God%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>09 Effects of the Holy Spirit - Bridal Love 1</title>
+      <description>09 Effects of the Holy Spirit - Bridal Love 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C6_09%20Effects%20of%20the%20Holy%20Spirit%20-%20Bridal%20Love%201.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C6_09%20Effects%20of%20the%20Holy%20Spirit%20-%20Bridal%20Love%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>10 Effects of the Holy Spirit - Bridal Love 2</title>
+      <description>10 Effects of the Holy Spirit - Bridal Love 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C6_10%20Effects%20of%20the%20Holy%20Spirit%20-%20Bridal%20Love%202.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C6_10%20Effects%20of%20the%20Holy%20Spirit%20-%20Bridal%20Love%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>11 Effects of the Holy Spirit - Fervent Prayer</title>
+      <description>11 Effects of the Holy Spirit - Fervent Prayer</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C6_11%20Effects%20of%20the%20Holy%20Spirit%20-%20Fervent%20Prayer.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C6_11%20Effects%20of%20the%20Holy%20Spirit%20-%20Fervent%20Prayer.mp3</guid>
+    </item>
+
+    <item>
+      <title>12 Love Covers</title>
+      <description>12 Love Covers</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C6_12%20Love%20Covers.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C6_12%20Love%20Covers.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

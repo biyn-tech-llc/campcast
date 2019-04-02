@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Barrenness and Fruitfulness</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Barrenness and Fruitfulness</description>
+    <googleplay:image href="http://daghewardmillsaudio.org/images/albums/BARRENNESS%20AND%20FRUITFULNESS.jpg"/>
+    <language>en-us</language>
+    <link>https://biyn-tech-llc.github.io/campcast/barrenness_and_fruitfulness/</link>
+    <image>
+        <url>
+            http://daghewardmillsaudio.org/images/albums/BARRENNESS%20AND%20FRUITFULNESS.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>00 Intro - Barrenness and Fruitfulness</title>
+      <description>00 Intro - Barrenness and Fruitfulness</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C30_00%20Intro%20-%20Barrenness%20and%20Fruitfulness.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C30_00%20Intro%20-%20Barrenness%20and%20Fruitfulness.mp3</guid>
+    </item>
+
+    <item>
+      <title>01 Barrenness</title>
+      <description>01 Barrenness</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C30_01%20Barrenness.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C30_01%20Barrenness.mp3</guid>
+    </item>
+
+    <item>
+      <title>02 Blindness and Barrenness</title>
+      <description>02 Blindness and Barrenness</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C30_02%20Blindness%20and%20Barrenness.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C30_02%20Blindness%20and%20Barrenness.mp3</guid>
+    </item>
+
+    <item>
+      <title>03 Forgetfulness and Barrenness</title>
+      <description>03 Forgetfulness and Barrenness</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C30_03%20Forgetfulness%20and%20Barrenness.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C30_03%20Forgetfulness%20and%20Barrenness.mp3</guid>
+    </item>
+
+    <item>
+      <title>04 Fruitfulness</title>
+      <description>04 Fruitfulness</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C30_04%20Fruitfulness.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C30_04%20Fruitfulness.mp3</guid>
+    </item>
+
+    <item>
+      <title>05 Overcoming Confusion</title>
+      <description>05 Overcoming Confusion</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C30_05%20Overcoming%20Confusion.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C30_05%20Overcoming%20Confusion.mp3</guid>
+    </item>
+
+    <item>
+      <title>06 This I know - Ungreatfulness</title>
+      <description>06 This I know - Ungreatfulness</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C30_06%20This%20I%20know%20-%20Ungreatfulness.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C30_06%20This%20I%20know%20-%20Ungreatfulness.mp3</guid>
+    </item>
+
+    <item>
+      <title>07 Becoming a Company</title>
+      <description>07 Becoming a Company</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C30_07%20Becoming%20a%20Company.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C30_07%20Becoming%20a%20Company.mp3</guid>
+    </item>
+
+    <item>
+      <title>08 Why God has Called You</title>
+      <description>08 Why God has Called You</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C30_08%20Why%20God%20has%20Called%20You.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C30_08%20Why%20God%20has%20Called%20You.mp3</guid>
+    </item>
+
+    <item>
+      <title>09 Why People do not Obey The Call</title>
+      <description>09 Why People do not Obey The Call</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C30_09%20Why%20People%20do%20not%20Obey%20The%20Call.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C30_09%20Why%20People%20do%20not%20Obey%20The%20Call.mp3</guid>
+    </item>
+
+    <item>
+      <title>10 Why People do not Obey The Call - The Talent is too Small</title>
+      <description>10 Why People do not Obey The Call - The Talent is too Small</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C30_10%20Why%20People%20do%20not%20Obey%20The%20Call%20-%20The%20Talent%20is%20too%20Small.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C30_10%20Why%20People%20do%20not%20Obey%20The%20Call%20-%20The%20Talent%20is%20too%20Small.mp3</guid>
+    </item>
+
+    <item>
+      <title>11 Why People do not Obey The Call - Slothful</title>
+      <description>11 Why People do not Obey The Call - Slothful</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C30_11%20Why%20People%20do%20not%20Obey%20The%20Call%20-%20Slothful.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C30_11%20Why%20People%20do%20not%20Obey%20The%20Call%20-%20Slothful.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

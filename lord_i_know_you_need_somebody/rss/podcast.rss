@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Lord I know you need somebody</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Lord I know you need somebody</description>
+    <googleplay:image href="http://daghewardmillsaudio.org/images/albums/72%20-%20LORD%20I%20KNOW%20YOU%20NEED%20SOMEBODY.jpg"/>
+    <language>en-us</language>
+    <link>https://biyn-tech-llc.github.io/campcast/lord_i_know_you_need_somebody/</link>
+    <image>
+        <url>
+            http://daghewardmillsaudio.org/images/albums/72%20-%20LORD%20I%20KNOW%20YOU%20NEED%20SOMEBODY.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>00 Intro - Lord I know you need somebody</title>
+      <description>00 Intro - Lord I know you need somebody</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C72_00%20Intro%20-%20Lord%20I%20know%20you%20need%20somebody.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C72_00%20Intro%20-%20Lord%20I%20know%20you%20need%20somebody.mp3</guid>
+    </item>
+
+    <item>
+      <title>01 God is looking for somebody - 1 </title>
+      <description>01 God is looking for somebody - 1 </description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C72_01%20God%20is%20looking%20for%20somebody%20-%201%20.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C72_01%20God%20is%20looking%20for%20somebody%20-%201%20.mp3</guid>
+    </item>
+
+    <item>
+      <title>02 God is looking for somebody - 3</title>
+      <description>02 God is looking for somebody - 3</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C72_02%20God%20is%20looking%20for%20somebody%20-%203.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C72_02%20God%20is%20looking%20for%20somebody%20-%203.mp3</guid>
+    </item>
+
+    <item>
+      <title>03 4 Reasons why your greatness is hidden</title>
+      <description>03 4 Reasons why your greatness is hidden</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C72_03%204%20Reasons%20why%20your%20greatness%20is%20hidden.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C72_03%204%20Reasons%20why%20your%20greatness%20is%20hidden.mp3</guid>
+    </item>
+
+    <item>
+      <title>04 The surprising things that God sees in you</title>
+      <description>04 The surprising things that God sees in you</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C72_04%20The%20surprising%20things%20that%20God%20sees%20in%20you.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C72_04%20The%20surprising%20things%20that%20God%20sees%20in%20you.mp3</guid>
+    </item>
+
+    <item>
+      <title>05 Reasons why you must redeem the time</title>
+      <description>05 Reasons why you must redeem the time</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C72_05%20Reasons%20why%20you%20must%20redeem%20the%20time.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C72_05%20Reasons%20why%20you%20must%20redeem%20the%20time.mp3</guid>
+    </item>
+
+    <item>
+      <title>06 Reasons why God can depend on you</title>
+      <description>06 Reasons why God can depend on you</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C72_06%20Reasons%20why%20God%20can%20depend%20on%20you.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C72_06%20Reasons%20why%20God%20can%20depend%20on%20you.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Agree on the Way</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Agree on the Way</description>
+    <googleplay:image href="http://daghewardmillsaudio.org/images/albums/1544747764_agree%20on%20the%20way.jpg"/>
+    <language>en-us</language>
+    <link>https://biyn-tech-llc.github.io/campcast/agree_on_the_way/</link>
+    <image>
+        <url>
+            http://daghewardmillsaudio.org/images/albums/1544747764_agree%20on%20the%20way.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>00 Intro - Agree on the Way</title>
+      <description>00 Intro - Agree on the Way</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C23_00%20Intro%20-%20Agree%20on%20the%20Way.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C23_00%20Intro%20-%20Agree%20on%20the%20Way.mp3</guid>
+    </item>
+
+    <item>
+      <title>01 Agree on the Way- Serve Your Generation</title>
+      <description>01 Agree on the Way- Serve Your Generation</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C23_01%20Agree%20on%20the%20Way-%20Serve%20Your%20Generation.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C23_01%20Agree%20on%20the%20Way-%20Serve%20Your%20Generation.mp3</guid>
+    </item>
+
+    <item>
+      <title>02 Agree on the Way- Wisdom Statement 1-All Things are Full of Labour</title>
+      <description>02 Agree on the Way- Wisdom Statement 1-All Things are Full of Labour</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C23_02%20Agree%20on%20the%20Way-%20Wisdom%20Statement%201-All%20Things%20are%20Full%20of%20Labour.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C23_02%20Agree%20on%20the%20Way-%20Wisdom%20Statement%201-All%20Things%20are%20Full%20of%20Labour.mp3</guid>
+    </item>
+
+    <item>
+      <title>03 Agree on the Way- Wisdom Statement 2</title>
+      <description>03 Agree on the Way- Wisdom Statement 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C23_03%20Agree%20on%20the%20Way-%20Wisdom%20Statement%202.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C23_03%20Agree%20on%20the%20Way-%20Wisdom%20Statement%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>04 Agree on the Way- Wisdom Statement 3</title>
+      <description>04 Agree on the Way- Wisdom Statement 3</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C23_04%20Agree%20on%20the%20Way-%20Wisdom%20Statement%203.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C23_04%20Agree%20on%20the%20Way-%20Wisdom%20Statement%203.mp3</guid>
+    </item>
+
+    <item>
+      <title>05 Agree on the Way- Wisdom Statement 4</title>
+      <description>05 Agree on the Way- Wisdom Statement 4</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C23_05%20Agree%20on%20the%20Way-%20Wisdom%20Statement%204.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C23_05%20Agree%20on%20the%20Way-%20Wisdom%20Statement%204.mp3</guid>
+    </item>
+
+    <item>
+      <title>06 Agree on the Way - Wisdom Statement 5</title>
+      <description>06 Agree on the Way - Wisdom Statement 5</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C23_06%20Agree%20on%20the%20Way%20-%20Wisdom%20Statement%205.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C23_06%20Agree%20on%20the%20Way%20-%20Wisdom%20Statement%205.mp3</guid>
+    </item>
+
+    <item>
+      <title>07 Agree on the Way - Wisdom Statement 6</title>
+      <description>07 Agree on the Way - Wisdom Statement 6</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C23_07%20Agree%20on%20the%20Way%20-%20Wisdom%20Statement%206.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C23_07%20Agree%20on%20the%20Way%20-%20Wisdom%20Statement%206.mp3</guid>
+    </item>
+
+    <item>
+      <title>08  Agree on the Way - Wisdom Statement 7</title>
+      <description>08  Agree on the Way - Wisdom Statement 7</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C23_08%20%20Agree%20on%20the%20Way%20-%20Wisdom%20Statement%207.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C23_08%20%20Agree%20on%20the%20Way%20-%20Wisdom%20Statement%207.mp3</guid>
+    </item>
+
+    <item>
+      <title>09 Agree on the Way - Wisdom Statement 9</title>
+      <description>09 Agree on the Way - Wisdom Statement 9</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C23_09%20Agree%20on%20the%20Way%20-%20Wisdom%20Statement%209.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C23_09%20Agree%20on%20the%20Way%20-%20Wisdom%20Statement%209.mp3</guid>
+    </item>
+
+    <item>
+      <title>10 Agree on the Way - Wisdom Statement 10</title>
+      <description>10 Agree on the Way - Wisdom Statement 10</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C23_10%20Agree%20on%20the%20Way%20-%20Wisdom%20Statement%2010.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C23_10%20Agree%20on%20the%20Way%20-%20Wisdom%20Statement%2010.mp3</guid>
+    </item>
+
+    <item>
+      <title>11 Agree on the Way - Wisdom Statement 11</title>
+      <description>11 Agree on the Way - Wisdom Statement 11</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C23_11%20Agree%20on%20the%20Way%20-%20Wisdom%20Statement%2011.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C23_11%20Agree%20on%20the%20Way%20-%20Wisdom%20Statement%2011.mp3</guid>
+    </item>
+
+    <item>
+      <title>12 Agree on the Way - Wisdom Statement 12</title>
+      <description>12 Agree on the Way - Wisdom Statement 12</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C23_12%20Agree%20on%20the%20Way%20-%20Wisdom%20Statement%2012.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C23_12%20Agree%20on%20the%20Way%20-%20Wisdom%20Statement%2012.mp3</guid>
+    </item>
+
+    <item>
+      <title>13 Agree on the Way - Wisdom Statement 13</title>
+      <description>13 Agree on the Way - Wisdom Statement 13</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C23_13%20Agree%20on%20the%20Way%20-%20Wisdom%20Statement%2013.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C23_13%20Agree%20on%20the%20Way%20-%20Wisdom%20Statement%2013.mp3</guid>
+    </item>
+
+    <item>
+      <title>14 Be not Over-righteous</title>
+      <description>14 Be not Over-righteous</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C23_14%20Be%20not%20Over-righteous.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C23_14%20Be%20not%20Over-righteous.mp3</guid>
+    </item>
+
+    <item>
+      <title>15 The Five Crowns</title>
+      <description>15 The Five Crowns</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C23_15%20The%20Five%20Crowns.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C23_15%20The%20Five%20Crowns.mp3</guid>
+    </item>
+
+    <item>
+      <title>16 Living Under Authority</title>
+      <description>16 Living Under Authority</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C23_16%20Living%20Under%20Authority.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C23_16%20Living%20Under%20Authority.mp3</guid>
+    </item>
+
+    <item>
+      <title>17 Question Time</title>
+      <description>17 Question Time</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C23_17%20Question%20Time.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C23_17%20Question%20Time.mp3</guid>
+    </item>
+
+    <item>
+      <title>18 Dying to Self </title>
+      <description>18 Dying to Self </description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C23_18%20Dying%20to%20Self%20.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C23_18%20Dying%20to%20Self%20.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

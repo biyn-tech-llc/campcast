@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The Sufferings of Christ</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>The Sufferings of Christ</description>
+    <googleplay:image href="http://daghewardmillsaudio.org/images/albums/THE%20SUFFERINGS%20OF%20CHRIST.jpg"/>
+    <language>en-us</language>
+    <link>https://biyn-tech-llc.github.io/campcast/the_sufferings_of_christ/</link>
+    <image>
+        <url>
+            http://daghewardmillsaudio.org/images/albums/THE%20SUFFERINGS%20OF%20CHRIST.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>00 Intro - The Sufferings of Christ</title>
+      <description>00 Intro - The Sufferings of Christ</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C52_00%20Intro%20-%20The%20Sufferings%20of%20Christ.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C52_00%20Intro%20-%20The%20Sufferings%20of%20Christ.mp3</guid>
+    </item>
+
+    <item>
+      <title>01 Sufferings of Christ... Introduction</title>
+      <description>01 Sufferings of Christ... Introduction</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C52_01%20Sufferings%20of%20Christ...%20Introduction.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C52_01%20Sufferings%20of%20Christ...%20Introduction.mp3</guid>
+    </item>
+
+    <item>
+      <title>02 Know That You Are Going To Suffer</title>
+      <description>02 Know That You Are Going To Suffer</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C52_02%20Know%20That%20You%20Are%20Going%20To%20Suffer.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C52_02%20Know%20That%20You%20Are%20Going%20To%20Suffer.mp3</guid>
+    </item>
+
+    <item>
+      <title>03 The Sufferings of Christ-the calling 1</title>
+      <description>03 The Sufferings of Christ-the calling 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C52_03%20The%20Sufferings%20of%20Christ-the%20calling%201.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C52_03%20The%20Sufferings%20of%20Christ-the%20calling%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>04 The Sufferings of Christ-the calling 2</title>
+      <description>04 The Sufferings of Christ-the calling 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C52_04%20The%20Sufferings%20of%20Christ-the%20calling%202.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C52_04%20The%20Sufferings%20of%20Christ-the%20calling%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>05 The Sufferings of Christ-the calling 3</title>
+      <description>05 The Sufferings of Christ-the calling 3</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C52_05%20The%20Sufferings%20of%20Christ-the%20calling%203.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C52_05%20The%20Sufferings%20of%20Christ-the%20calling%203.mp3</guid>
+    </item>
+
+    <item>
+      <title>06 The Sufferings of Christ-the calling 4</title>
+      <description>06 The Sufferings of Christ-the calling 4</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C52_06%20The%20Sufferings%20of%20Christ-the%20calling%204.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C52_06%20The%20Sufferings%20of%20Christ-the%20calling%204.mp3</guid>
+    </item>
+
+    <item>
+      <title>07 Recap by Dr. Ogoe</title>
+      <description>07 Recap by Dr. Ogoe</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C52_07%20Recap%20by%20Dr.%20Ogoe.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C52_07%20Recap%20by%20Dr.%20Ogoe.mp3</guid>
+    </item>
+
+    <item>
+      <title>08 Experiencing Suffering Wh</title>
+      <description>08 Experiencing Suffering Wh</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C52_08%20Experiencing%20Suffering%20Wh.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C52_08%20Experiencing%20Suffering%20Wh.mp3</guid>
+    </item>
+
+    <item>
+      <title>09 Song - Into the Sea of Forg</title>
+      <description>09 Song - Into the Sea of Forg</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C52_09%20Song%20-%20Into%20the%20Sea%20of%20Forg.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C52_09%20Song%20-%20Into%20the%20Sea%20of%20Forg.mp3</guid>
+    </item>
+
+    <item>
+      <title>10 Experiencing Suffering 1</title>
+      <description>10 Experiencing Suffering 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C52_10%20Experiencing%20Suffering%201.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C52_10%20Experiencing%20Suffering%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>11 A song by Sister Grace</title>
+      <description>11 A song by Sister Grace</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C52_11%20A%20song%20by%20Sister%20Grace.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C52_11%20A%20song%20by%20Sister%20Grace.mp3</guid>
+    </item>
+
+    <item>
+      <title>12 Experiencing The Sufferin</title>
+      <description>12 Experiencing The Sufferin</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C52_12%20Experiencing%20The%20Sufferin.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C52_12%20Experiencing%20The%20Sufferin.mp3</guid>
+    </item>
+
+    <item>
+      <title>13 A song by Sister Grace</title>
+      <description>13 A song by Sister Grace</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C52_13%20A%20song%20by%20Sister%20Grace.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C52_13%20A%20song%20by%20Sister%20Grace.mp3</guid>
+    </item>
+
+    <item>
+      <title>14 Experiencing Suffering 3</title>
+      <description>14 Experiencing Suffering 3</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C52_14%20Experiencing%20Suffering%203.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C52_14%20Experiencing%20Suffering%203.mp3</guid>
+    </item>
+
+    <item>
+      <title>15 Accusation</title>
+      <description>15 Accusation</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C52_15%20Accusation.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C52_15%20Accusation.mp3</guid>
+    </item>
+
+    <item>
+      <title>16 You will be Stripped</title>
+      <description>16 You will be Stripped</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C52_16%20You%20will%20be%20Stripped.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C52_16%20You%20will%20be%20Stripped.mp3</guid>
+    </item>
+
+    <item>
+      <title>17 Prayer Time Prior to final</title>
+      <description>17 Prayer Time Prior to final</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C52_17%20Prayer%20Time%20Prior%20to%20final.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C52_17%20Prayer%20Time%20Prior%20to%20final.mp3</guid>
+    </item>
+
+    <item>
+      <title>18 Bishop Thanking HJC Team</title>
+      <description>18 Bishop Thanking HJC Team</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C52_18%20Bishop%20Thanking%20HJC%20Team.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C52_18%20Bishop%20Thanking%20HJC%20Team.mp3</guid>
+    </item>
+
+    <item>
+      <title>19 The pain of being Forsake</title>
+      <description>19 The pain of being Forsake</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C52_19%20The%20pain%20of%20being%20Forsake.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C52_19%20The%20pain%20of%20being%20Forsake.mp3</guid>
+    </item>
+
+    <item>
+      <title>20 The Pain of Death</title>
+      <description>20 The Pain of Death</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C52_20%20The%20Pain%20of%20Death.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C52_20%20The%20Pain%20of%20Death.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The Mega Church</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>The Mega Church</description>
+    <googleplay:image href="http://daghewardmillsaudio.org/images/albums/1544746436_love%20and%20the%20mega%20church.jpg"/>
+    <language>en-us</language>
+    <link>https://biyn-tech-llc.github.io/campcast/the_mega_church/</link>
+    <image>
+        <url>
+            http://daghewardmillsaudio.org/images/albums/1544746436_love%20and%20the%20mega%20church.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>00 Intro - The Mega Church</title>
+      <description>00 Intro - The Mega Church</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C20_00%20Intro%20-%20The%20Mega%20Church.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C20_00%20Intro%20-%20The%20Mega%20Church.mp3</guid>
+    </item>
+
+    <item>
+      <title>01 The Vision for the Mega Church</title>
+      <description>01 The Vision for the Mega Church</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C20_01%20The%20Vision%20for%20the%20Mega%20Church.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C20_01%20The%20Vision%20for%20the%20Mega%20Church.mp3</guid>
+    </item>
+
+    <item>
+      <title>02 The Reason for the Mega Church</title>
+      <description>02 The Reason for the Mega Church</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C20_02%20The%20Reason%20for%20the%20Mega%20Church.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C20_02%20The%20Reason%20for%20the%20Mega%20Church.mp3</guid>
+    </item>
+
+    <item>
+      <title>03 Keys to the Anointing</title>
+      <description>03 Keys to the Anointing</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C20_03%20Keys%20to%20the%20Anointing.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C20_03%20Keys%20to%20the%20Anointing.mp3</guid>
+    </item>
+
+    <item>
+      <title>04 Steps to the Anointing</title>
+      <description>04 Steps to the Anointing</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C20_04%20Steps%20to%20the%20Anointing.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C20_04%20Steps%20to%20the%20Anointing.mp3</guid>
+    </item>
+
+    <item>
+      <title>05 Becoming a Servant</title>
+      <description>05 Becoming a Servant</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C20_05%20Becoming%20a%20Servant.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C20_05%20Becoming%20a%20Servant.mp3</guid>
+    </item>
+
+    <item>
+      <title>06 Receiving a Father</title>
+      <description>06 Receiving a Father</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C20_06%20Receiving%20a%20Father.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C20_06%20Receiving%20a%20Father.mp3</guid>
+    </item>
+
+    <item>
+      <title>07 Laying on of hands</title>
+      <description>07 Laying on of hands</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C20_07%20Laying%20on%20of%20hands.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C20_07%20Laying%20on%20of%20hands.mp3</guid>
+    </item>
+
+    <item>
+      <title>08 Loyalty</title>
+      <description>08 Loyalty</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C20_08%20Loyalty.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C20_08%20Loyalty.mp3</guid>
+    </item>
+
+    <item>
+      <title>09 Obedience</title>
+      <description>09 Obedience</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C20_09%20Obedience.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C20_09%20Obedience.mp3</guid>
+    </item>
+
+    <item>
+      <title>10 Summary of 1-9</title>
+      <description>10 Summary of 1-9</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C20_10%20Summary%20of%201-9.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C20_10%20Summary%20of%201-9.mp3</guid>
+    </item>
+
+    <item>
+      <title>11 Sacrifice</title>
+      <description>11 Sacrifice</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C20_11%20Sacrifice.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C20_11%20Sacrifice.mp3</guid>
+    </item>
+
+    <item>
+      <title>12 More things about Sacrifice 1</title>
+      <description>12 More things about Sacrifice 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C20_12%20More%20things%20about%20Sacrifice%201.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C20_12%20More%20things%20about%20Sacrifice%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>13 More things about Sacrifice 2</title>
+      <description>13 More things about Sacrifice 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C20_13%20More%20things%20about%20Sacrifice%202.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C20_13%20More%20things%20about%20Sacrifice%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>14 More things about Sacrifice 3</title>
+      <description>14 More things about Sacrifice 3</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C20_14%20More%20things%20about%20Sacrifice%203.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C20_14%20More%20things%20about%20Sacrifice%203.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

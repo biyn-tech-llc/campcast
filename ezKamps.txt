@@ -1,0 +1,10 @@
+    ('Strive Lawfully for a Mega Church', 'C3_'),
+    ('Double Mega Missionary Church', 'C4_'),
+    ('Bema', 'C28_'),">C28_00 Intro Bema.mp3
+    ('1', 'C80_'),">C80_00 Intro-1.mp3
+    ('1', 'C81_'),">C81_00  Intro-1.mp3
+    ('', 'C84_'),">C84_00 Intro.mp3
+    ('', 'C85_'),">C85_00 Intro.mp3
+    ('', 'C92_'),">C92_00 Intro.mp3
+    ('HOW CAN I SAY THANKS', 'C93_'),
+    ('How can I say thanks', 'C93_'),

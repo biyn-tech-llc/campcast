@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>That my house may be filled</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>That my house may be filled</description>
+    <googleplay:image href="http://daghewardmillsaudio.org/images/albums/THAT%20MY%20HOUSE%20MAY%20BE%20FILLED.jpg"/>
+    <language>en-us</language>
+    <link>https://biyn-tech-llc.github.io/campcast/that_my_house_may_be_filled/</link>
+    <image>
+        <url>
+            http://daghewardmillsaudio.org/images/albums/THAT%20MY%20HOUSE%20MAY%20BE%20FILLED.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>00 Intro - That my house may be filled</title>
+      <description>00 Intro - That my house may be filled</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C68_00%20Intro%20-%20That%20my%20house%20may%20be%20filled.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C68_00%20Intro%20-%20That%20my%20house%20may%20be%20filled.mp3</guid>
+    </item>
+
+    <item>
+      <title>01 REASONS WHY WE MUST HAVE A LARGER  CHURCH</title>
+      <description>01 REASONS WHY WE MUST HAVE A LARGER  CHURCH</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C68_01%20REASONS%20WHY%20WE%20MUST%20HAVE%20A%20LARGER%20%20CHURCH.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C68_01%20REASONS%20WHY%20WE%20MUST%20HAVE%20A%20LARGER%20%20CHURCH.mp3</guid>
+    </item>
+
+    <item>
+      <title>02 TYPES OF COUNTING</title>
+      <description>02 TYPES OF COUNTING</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C68_02%20TYPES%20OF%20COUNTING.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C68_02%20TYPES%20OF%20COUNTING.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

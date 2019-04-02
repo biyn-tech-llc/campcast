@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>church planting</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>church planting</description>
+    <googleplay:image href="https://biyn-tech-llc.github.io/campcast/DAG.jpg"/>
+    <language>en-us</language>
+    <link>https://biyn-tech-llc.github.io/campcast/church_planting/</link>
+    <image>
+        <url>
+            https://biyn-tech-llc.github.io/campcast/DAG.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>00 Intro- church planting</title>
+      <description>00 Intro- church planting</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C34_00%20Intro-%20church%20planting.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C34_00%20Intro-%20church%20planting.mp3</guid>
+    </item>
+
+    <item>
+      <title>01 Focusing on Eternity</title>
+      <description>01 Focusing on Eternity</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C34_01%20Focusing%20on%20Eternity.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C34_01%20Focusing%20on%20Eternity.mp3</guid>
+    </item>
+
+    <item>
+      <title>02 Church Planting</title>
+      <description>02 Church Planting</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C34_02%20Church%20Planting.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C34_02%20Church%20Planting.mp3</guid>
+    </item>
+
+    <item>
+      <title>03 Tent Ministry</title>
+      <description>03 Tent Ministry</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C34_03%20Tent%20Ministry.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C34_03%20Tent%20Ministry.mp3</guid>
+    </item>
+
+    <item>
+      <title>04 Eternal Judgment</title>
+      <description>04 Eternal Judgment</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C34_04%20Eternal%20Judgment.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C34_04%20Eternal%20Judgment.mp3</guid>
+    </item>
+
+    <item>
+      <title>05 PVCI- Ministry is Work</title>
+      <description>05 PVCI- Ministry is Work</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C34_05%20PVCI-%20Ministry%20is%20Work.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C34_05%20PVCI-%20Ministry%20is%20Work.mp3</guid>
+    </item>
+
+    <item>
+      <title>06 Loyalty- Catching the Spirit of the house</title>
+      <description>06 Loyalty- Catching the Spirit of the house</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C34_06%20Loyalty-%20Catching%20the%20Spirit%20of%20the%20house.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C34_06%20Loyalty-%20Catching%20the%20Spirit%20of%20the%20house.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

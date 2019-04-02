@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Kruptos Man</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Kruptos Man</description>
+    <googleplay:image href="http://daghewardmillsaudio.org/images/albums/1504183235_Kruptos%20Man.jpg"/>
+    <language>en-us</language>
+    <link>https://biyn-tech-llc.github.io/campcast/kruptos_man/</link>
+    <image>
+        <url>
+            http://daghewardmillsaudio.org/images/albums/1504183235_Kruptos%20Man.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>00 Intro Kruptos Man</title>
+      <description>00 Intro Kruptos Man</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C26_00%20Intro%20Kruptos%20Man.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C26_00%20Intro%20Kruptos%20Man.mp3</guid>
+    </item>
+
+    <item>
+      <title>01 The Highly Esteemed is An Abomination to God</title>
+      <description>01 The Highly Esteemed is An Abomination to God</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C26_01%20The%20Highly%20Esteemed%20is%20An%20Abomination%20to%20God.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C26_01%20The%20Highly%20Esteemed%20is%20An%20Abomination%20to%20God.mp3</guid>
+    </item>
+
+    <item>
+      <title>02 Turning your Attention</title>
+      <description>02 Turning your Attention</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C26_02%20Turning%20your%20Attention.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C26_02%20Turning%20your%20Attention.mp3</guid>
+    </item>
+
+    <item>
+      <title>03 Ye are they which Justify Yourselves</title>
+      <description>03 Ye are they which Justify Yourselves</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C26_03%20Ye%20are%20they%20which%20Justify%20Yourselves.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C26_03%20Ye%20are%20they%20which%20Justify%20Yourselves.mp3</guid>
+    </item>
+
+    <item>
+      <title>04 Turning your Affections</title>
+      <description>04 Turning your Affections</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C26_04%20Turning%20your%20Affections.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C26_04%20Turning%20your%20Affections.mp3</guid>
+    </item>
+
+    <item>
+      <title>05 20 Things you should know</title>
+      <description>05 20 Things you should know</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C26_05%2020%20Things%20you%20should%20know.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C26_05%2020%20Things%20you%20should%20know.mp3</guid>
+    </item>
+
+    <item>
+      <title>06 20 Things you should know</title>
+      <description>06 20 Things you should know</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C26_06%2020%20Things%20you%20should%20know.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C26_06%2020%20Things%20you%20should%20know.mp3</guid>
+    </item>
+
+    <item>
+      <title>07 20 Things you should know</title>
+      <description>07 20 Things you should know</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C26_07%2020%20Things%20you%20should%20know.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C26_07%2020%20Things%20you%20should%20know.mp3</guid>
+    </item>
+
+    <item>
+      <title>08 20 Things you should know</title>
+      <description>08 20 Things you should know</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C26_08%2020%20Things%20you%20should%20know.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C26_08%2020%20Things%20you%20should%20know.mp3</guid>
+    </item>
+
+    <item>
+      <title>09 20 Things you should know</title>
+      <description>09 20 Things you should know</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C26_09%2020%20Things%20you%20should%20know.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C26_09%2020%20Things%20you%20should%20know.mp3</guid>
+    </item>
+
+    <item>
+      <title>10 20 Things you should know about the Kruptos Man 6</title>
+      <description>10 20 Things you should know about the Kruptos Man 6</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C26_10%2020%20Things%20you%20should%20know%20about%20the%20Kruptos%20Man%206.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C26_10%2020%20Things%20you%20should%20know%20about%20the%20Kruptos%20Man%206.mp3</guid>
+    </item>
+
+    <item>
+      <title>11 Who Controls</title>
+      <description>11 Who Controls</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C26_11%20Who%20Controls.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C26_11%20Who%20Controls.mp3</guid>
+    </item>
+
+    <item>
+      <title>12 Three Things the Kruptos Man determines in your Life</title>
+      <description>12 Three Things the Kruptos Man determines in your Life</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C26_12%20Three%20Things%20the%20Kruptos%20Man%20determines%20in%20your%20Life.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C26_12%20Three%20Things%20the%20Kruptos%20Man%20determines%20in%20your%20Life.mp3</guid>
+    </item>
+
+    <item>
+      <title>14 The Importance of Spirituality 1</title>
+      <description>14 The Importance of Spirituality 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C26_14%20The%20Importance%20of%20Spirituality%201.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C26_14%20The%20Importance%20of%20Spirituality%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>15 The Importance of Spirituality 2</title>
+      <description>15 The Importance of Spirituality 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C26_15%20The%20Importance%20of%20Spirituality%202.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C26_15%20The%20Importance%20of%20Spirituality%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>16 Steps to Keeping Your Heart</title>
+      <description>16 Steps to Keeping Your Heart</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C26_16%20Steps%20to%20Keeping%20Your%20Heart.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C26_16%20Steps%20to%20Keeping%20Your%20Heart.mp3</guid>
+    </item>
+
+    <item>
+      <title>17 Spiritual Discernment</title>
+      <description>17 Spiritual Discernment</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C26_17%20Spiritual%20Discernment.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C26_17%20Spiritual%20Discernment.mp3</guid>
+    </item>
+
+    <item>
+      <title>18 Marks of Spirituality 1</title>
+      <description>18 Marks of Spirituality 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C26_18%20Marks%20of%20Spirituality%201.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C26_18%20Marks%20of%20Spirituality%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>19 Marks of Spirituality 2</title>
+      <description>19 Marks of Spirituality 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C26_19%20Marks%20of%20Spirituality%202.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C26_19%20Marks%20of%20Spirituality%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>20 How to develop Your Kruptos Man</title>
+      <description>20 How to develop Your Kruptos Man</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C26_20%20How%20to%20develop%20Your%20Kruptos%20Man.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C26_20%20How%20to%20develop%20Your%20Kruptos%20Man.mp3</guid>
+    </item>
+
+    <item>
+      <title>21 Spiritual vrs Carnal-Alleigh!</title>
+      <description>21 Spiritual vrs Carnal-Alleigh!</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C26_21%20Spiritual%20vrs%20Carnal-Alleigh!.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C26_21%20Spiritual%20vrs%20Carnal-Alleigh!.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

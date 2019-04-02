@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Finish What You Started</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Finish What You Started</description>
+    <googleplay:image href="http://daghewardmillsaudio.org/images/albums/FINISH%20WHAT%20YOU%20STARTED.jpg"/>
+    <language>en-us</language>
+    <link>https://biyn-tech-llc.github.io/campcast/finish_what_you_started/</link>
+    <image>
+        <url>
+            http://daghewardmillsaudio.org/images/albums/FINISH%20WHAT%20YOU%20STARTED.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>00 Intro - Finish What You Started</title>
+      <description>00 Intro - Finish What You Started</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C56_00%20Intro%20-%20Finish%20What%20You%20Started.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C56_00%20Intro%20-%20Finish%20What%20You%20Started.mp3</guid>
+    </item>
+
+    <item>
+      <title>01 Sons and the Anointing 1- Rev Jake Godwyll</title>
+      <description>01 Sons and the Anointing 1- Rev Jake Godwyll</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C56_01%20Sons%20and%20the%20Anointing%201-%20Rev%20Jake%20Godwyll.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C56_01%20Sons%20and%20the%20Anointing%201-%20Rev%20Jake%20Godwyll.mp3</guid>
+    </item>
+
+    <item>
+      <title>02 Sons And The Anointing 2- Rev Jake Godwyll</title>
+      <description>02 Sons And The Anointing 2- Rev Jake Godwyll</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C56_02%20Sons%20And%20The%20Anointing%202-%20Rev%20Jake%20Godwyll.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C56_02%20Sons%20And%20The%20Anointing%202-%20Rev%20Jake%20Godwyll.mp3</guid>
+    </item>
+
+    <item>
+      <title>03 Laws of Loyalty 1- Rev Richard Aryee</title>
+      <description>03 Laws of Loyalty 1- Rev Richard Aryee</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C56_03%20Laws%20of%20Loyalty%201-%20Rev%20Richard%20Aryee.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C56_03%20Laws%20of%20Loyalty%201-%20Rev%20Richard%20Aryee.mp3</guid>
+    </item>
+
+    <item>
+      <title>04 Laws of Loyalty 2- Rev Richard Aryee</title>
+      <description>04 Laws of Loyalty 2- Rev Richard Aryee</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C56_04%20Laws%20of%20Loyalty%202-%20Rev%20Richard%20Aryee.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C56_04%20Laws%20of%20Loyalty%202-%20Rev%20Richard%20Aryee.mp3</guid>
+    </item>
+
+    <item>
+      <title>05 Laws of Loyalty 2 cont.- Rev Richard Aryee</title>
+      <description>05 Laws of Loyalty 2 cont.- Rev Richard Aryee</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C56_05%20Laws%20of%20Loyalty%202%20cont.-%20Rev%20Richard%20Aryee.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C56_05%20Laws%20of%20Loyalty%202%20cont.-%20Rev%20Richard%20Aryee.mp3</guid>
+    </item>
+
+    <item>
+      <title>06 24 Reasons Why You Must Finish What You Started 1</title>
+      <description>06 24 Reasons Why You Must Finish What You Started 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C56_06%2024%20Reasons%20Why%20You%20Must%20Finish%20What%20You%20Started%201.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C56_06%2024%20Reasons%20Why%20You%20Must%20Finish%20What%20You%20Started%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>07 24 Reasons Why You Must Finish What You Started 2</title>
+      <description>07 24 Reasons Why You Must Finish What You Started 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C56_07%2024%20Reasons%20Why%20You%20Must%20Finish%20What%20You%20Started%202.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C56_07%2024%20Reasons%20Why%20You%20Must%20Finish%20What%20You%20Started%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>08 24 Reasons Why You Must Finish What You Started 3</title>
+      <description>08 24 Reasons Why You Must Finish What You Started 3</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C56_08%2024%20Reasons%20Why%20You%20Must%20Finish%20What%20You%20Started%203.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C56_08%2024%20Reasons%20Why%20You%20Must%20Finish%20What%20You%20Started%203.mp3</guid>
+    </item>
+
+    <item>
+      <title>09 24 Reasons Why You Must Finish What You Started 4</title>
+      <description>09 24 Reasons Why You Must Finish What You Started 4</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C56_09%2024%20Reasons%20Why%20You%20Must%20Finish%20What%20You%20Started%204.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C56_09%2024%20Reasons%20Why%20You%20Must%20Finish%20What%20You%20Started%204.mp3</guid>
+    </item>
+
+    <item>
+      <title>10 24 Reasons Why You Must Finish What You Started 5</title>
+      <description>10 24 Reasons Why You Must Finish What You Started 5</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C56_10%2024%20Reasons%20Why%20You%20Must%20Finish%20What%20You%20Started%205.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C56_10%2024%20Reasons%20Why%20You%20Must%20Finish%20What%20You%20Started%205.mp3</guid>
+    </item>
+
+    <item>
+      <title>11 24 Reasons Why You Must Finish What You Started 6</title>
+      <description>11 24 Reasons Why You Must Finish What You Started 6</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C56_11%2024%20Reasons%20Why%20You%20Must%20Finish%20What%20You%20Started%206.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C56_11%2024%20Reasons%20Why%20You%20Must%20Finish%20What%20You%20Started%206.mp3</guid>
+    </item>
+
+    <item>
+      <title>12 24 Reasons Why You Must Finish What You Started 7</title>
+      <description>12 24 Reasons Why You Must Finish What You Started 7</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C56_12%2024%20Reasons%20Why%20You%20Must%20Finish%20What%20You%20Started%207.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C56_12%2024%20Reasons%20Why%20You%20Must%20Finish%20What%20You%20Started%207.mp3</guid>
+    </item>
+
+    <item>
+      <title>13 24 Reasons Why You Must Finish What You Started 8</title>
+      <description>13 24 Reasons Why You Must Finish What You Started 8</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C56_13%2024%20Reasons%20Why%20You%20Must%20Finish%20What%20You%20Started%208.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C56_13%2024%20Reasons%20Why%20You%20Must%20Finish%20What%20You%20Started%208.mp3</guid>
+    </item>
+
+    <item>
+      <title>14 24 Reasons Why You Must Finish What You Started 9</title>
+      <description>14 24 Reasons Why You Must Finish What You Started 9</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C56_14%2024%20Reasons%20Why%20You%20Must%20Finish%20What%20You%20Started%209.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C56_14%2024%20Reasons%20Why%20You%20Must%20Finish%20What%20You%20Started%209.mp3</guid>
+    </item>
+
+    <item>
+      <title>15 7 Spirits that Stop People from Finishing 1</title>
+      <description>15 7 Spirits that Stop People from Finishing 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C56_15%207%20Spirits%20that%20Stop%20People%20from%20Finishing%201.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C56_15%207%20Spirits%20that%20Stop%20People%20from%20Finishing%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>16 7 Spirits that Stop People from Finishing 2</title>
+      <description>16 7 Spirits that Stop People from Finishing 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C56_16%207%20Spirits%20that%20Stop%20People%20from%20Finishing%202.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C56_16%207%20Spirits%20that%20Stop%20People%20from%20Finishing%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>17 People that Don't Finish 1</title>
+      <description>17 People that Don't Finish 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C56_17%20People%20that%20Don't%20Finish%201.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C56_17%20People%20that%20Don't%20Finish%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>18 Examples of People Who Did Not Finish</title>
+      <description>18 Examples of People Who Did Not Finish</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C56_18%20Examples%20of%20People%20Who%20Did%20Not%20Finish.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C56_18%20Examples%20of%20People%20Who%20Did%20Not%20Finish.mp3</guid>
+    </item>
+
+    <item>
+      <title>19 Characteristics of a Disloyal Assistant 1</title>
+      <description>19 Characteristics of a Disloyal Assistant 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C56_19%20Characteristics%20of%20a%20Disloyal%20Assistant%201.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C56_19%20Characteristics%20of%20a%20Disloyal%20Assistant%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>20 Characteristics of a Disloyal Assistant 2</title>
+      <description>20 Characteristics of a Disloyal Assistant 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C56_20%20Characteristics%20of%20a%20Disloyal%20Assistant%202.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C56_20%20Characteristics%20of%20a%20Disloyal%20Assistant%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>21 Lessons on Loyalty 1</title>
+      <description>21 Lessons on Loyalty 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C56_21%20Lessons%20on%20Loyalty%201.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C56_21%20Lessons%20on%20Loyalty%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>22 Lessons on Loyalty 2</title>
+      <description>22 Lessons on Loyalty 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C56_22%20Lessons%20on%20Loyalty%202.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C56_22%20Lessons%20on%20Loyalty%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>23 Lessons on Loyalty 3</title>
+      <description>23 Lessons on Loyalty 3</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C56_23%20Lessons%20on%20Loyalty%203.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C56_23%20Lessons%20on%20Loyalty%203.mp3</guid>
+    </item>
+
+    <item>
+      <title>24 Lessons on Loyalty 4</title>
+      <description>24 Lessons on Loyalty 4</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C56_24%20Lessons%20on%20Loyalty%204.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C56_24%20Lessons%20on%20Loyalty%204.mp3</guid>
+    </item>
+
+    <item>
+      <title>25 Nine Fathers of Your Life 1</title>
+      <description>25 Nine Fathers of Your Life 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C56_25%20Nine%20Fathers%20of%20Your%20Life%201.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C56_25%20Nine%20Fathers%20of%20Your%20Life%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>26 Nine Fathers of Your Life 2</title>
+      <description>26 Nine Fathers of Your Life 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C56_26%20Nine%20Fathers%20of%20Your%20Life%202.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C56_26%20Nine%20Fathers%20of%20Your%20Life%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>27 Revision- Types of Sons- Rev E.A Klufio</title>
+      <description>27 Revision- Types of Sons- Rev E.A Klufio</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C56_27%20Revision-%20Types%20of%20Sons-%20Rev%20E.A%20Klufio.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C56_27%20Revision-%20Types%20of%20Sons-%20Rev%20E.A%20Klufio.mp3</guid>
+    </item>
+
+    <item>
+      <title>28 Powers of a Father</title>
+      <description>28 Powers of a Father</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C56_28%20Powers%20of%20a%20Father.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C56_28%20Powers%20of%20a%20Father.mp3</guid>
+    </item>
+
+    <item>
+      <title>29 People Who Did Not Finish 2</title>
+      <description>29 People Who Did Not Finish 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C56_29%20People%20Who%20Did%20Not%20Finish%202.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C56_29%20People%20Who%20Did%20Not%20Finish%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>30 People Who Did Not Finish 3</title>
+      <description>30 People Who Did Not Finish 3</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C56_30%20People%20Who%20Did%20Not%20Finish%203.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C56_30%20People%20Who%20Did%20Not%20Finish%203.mp3</guid>
+    </item>
+
+    <item>
+      <title>31 10 People Who Did Not Finish</title>
+      <description>31 10 People Who Did Not Finish</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C56_31%2010%20People%20Who%20Did%20Not%20Finish.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C56_31%2010%20People%20Who%20Did%20Not%20Finish.mp3</guid>
+    </item>
+
+    <item>
+      <title>32 Examples of People Who Made It</title>
+      <description>32 Examples of People Who Made It</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C56_32%20Examples%20of%20People%20Who%20Made%20It.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C56_32%20Examples%20of%20People%20Who%20Made%20It.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

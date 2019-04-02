@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Pastors of Thousands</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Pastors of Thousands</description>
+    <googleplay:image href="http://daghewardmillsaudio.org/images/albums/%20PASTORS%20OF%20THOUSANDS.jpg"/>
+    <language>en-us</language>
+    <link>https://biyn-tech-llc.github.io/campcast/pastors_of_thousands/</link>
+    <image>
+        <url>
+            http://daghewardmillsaudio.org/images/albums/%20PASTORS%20OF%20THOUSANDS.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>00 Intro - Pastors of Thousands</title>
+      <description>00 Intro - Pastors of Thousands</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C12_00%20Intro%20-%20Pastors%20of%20Thousands.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C12_00%20Intro%20-%20Pastors%20of%20Thousands.mp3</guid>
+    </item>
+
+    <item>
+      <title>1 The Power of a Father 1</title>
+      <description>1 The Power of a Father 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C12_1%20The%20Power%20of%20a%20Father%201.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C12_1%20The%20Power%20of%20a%20Father%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>2 The Power of a Father 2</title>
+      <description>2 The Power of a Father 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C12_2%20The%20Power%20of%20a%20Father%202.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C12_2%20The%20Power%20of%20a%20Father%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>3 How to start a Church 1</title>
+      <description>3 How to start a Church 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C12_3%20How%20to%20start%20a%20Church%201.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C12_3%20How%20to%20start%20a%20Church%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>4 How to start a Church 2</title>
+      <description>4 How to start a Church 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C12_4%20How%20to%20start%20a%20Church%202.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C12_4%20How%20to%20start%20a%20Church%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>5 Marriage and the Ministry</title>
+      <description>5 Marriage and the Ministry</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C12_5%20Marriage%20and%20the%20Ministry.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C12_5%20Marriage%20and%20the%20Ministry.mp3</guid>
+    </item>
+
+    <item>
+      <title>6 How to move out of Barrenness</title>
+      <description>6 How to move out of Barrenness</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C12_6%20How%20to%20move%20out%20of%20Barrenness.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C12_6%20How%20to%20move%20out%20of%20Barrenness.mp3</guid>
+    </item>
+
+    <item>
+      <title>8 20 Reasons why every Pastor</title>
+      <description>8 20 Reasons why every Pastor</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C12_8%2020%20Reasons%20why%20every%20Pastor.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C12_8%2020%20Reasons%20why%20every%20Pastor.mp3</guid>
+    </item>
+
+    <item>
+      <title>9 Things you need to interceed Against 1</title>
+      <description>9 Things you need to interceed Against 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C12_9%20Things%20you%20need%20to%20interceed%20Against%201.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C12_9%20Things%20you%20need%20to%20interceed%20Against%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>10 Things you need to interceed Against 2</title>
+      <description>10 Things you need to interceed Against 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C12_10%20Things%20you%20need%20to%20interceed%20Against%202.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C12_10%20Things%20you%20need%20to%20interceed%20Against%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>11 Symptoms of Barrenness</title>
+      <description>11 Symptoms of Barrenness</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C12_11%20Symptoms%20of%20Barrenness.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C12_11%20Symptoms%20of%20Barrenness.mp3</guid>
+    </item>
+
+    <item>
+      <title>12 4 Keys which took LP.Sarah out of Barrenness</title>
+      <description>12 4 Keys which took LP.Sarah out of Barrenness</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C12_12%204%20Keys%20which%20took%20LP.Sarah%20out%20of%20Barrenness.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C12_12%204%20Keys%20which%20took%20LP.Sarah%20out%20of%20Barrenness.mp3</guid>
+    </item>
+
+    <item>
+      <title>13 Pastor Jacob and LP.Leah</title>
+      <description>13 Pastor Jacob and LP.Leah</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C12_13%20Pastor%20Jacob%20and%20LP.Leah.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C12_13%20Pastor%20Jacob%20and%20LP.Leah.mp3</guid>
+    </item>
+
+    <item>
+      <title>14 The Tent Ministry</title>
+      <description>14 The Tent Ministry</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C12_14%20The%20Tent%20Ministry.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C12_14%20The%20Tent%20Ministry.mp3</guid>
+    </item>
+
+    <item>
+      <title>15 Barrenness - Recap</title>
+      <description>15 Barrenness - Recap</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C12_15%20Barrenness%20-%20Recap.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C12_15%20Barrenness%20-%20Recap.mp3</guid>
+    </item>
+
+    <item>
+      <title>16 Why Obedience is better than Sacrifice</title>
+      <description>16 Why Obedience is better than Sacrifice</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C12_16%20Why%20Obedience%20is%20better%20than%20Sacrifice.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C12_16%20Why%20Obedience%20is%20better%20than%20Sacrifice.mp3</guid>
+    </item>
+
+    <item>
+      <title>17 10 Reasons why Obedience is better than Sacrifice</title>
+      <description>17 10 Reasons why Obedience is better than Sacrifice</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C12_17%2010%20Reasons%20why%20Obedience%20is%20better%20than%20Sacrifice.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C12_17%2010%20Reasons%20why%20Obedience%20is%20better%20than%20Sacrifice.mp3</guid>
+    </item>
+
+    <item>
+      <title>18 Obedience - Testimonies from Missionaries</title>
+      <description>18 Obedience - Testimonies from Missionaries</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C12_18%20Obedience%20-%20Testimonies%20from%20Missionaries.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C12_18%20Obedience%20-%20Testimonies%20from%20Missionaries.mp3</guid>
+    </item>
+
+    <item>
+      <title>19 Obedience - Invitation to be Missionaries</title>
+      <description>19 Obedience - Invitation to be Missionaries</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C12_19%20Obedience%20-%20Invitation%20to%20be%20Missionaries.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C12_19%20Obedience%20-%20Invitation%20to%20be%20Missionaries.mp3</guid>
+    </item>
+
+    <item>
+      <title>20 Reasons that led to the end of LP.Michal's Ministry 1</title>
+      <description>20 Reasons that led to the end of LP.Michal's Ministry 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C12_20%20Reasons%20that%20led%20to%20the%20end%20of%20LP.Michal's%20Ministry%201.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C12_20%20Reasons%20that%20led%20to%20the%20end%20of%20LP.Michal's%20Ministry%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>21 Reasons that led to the end of LP.Michal's Ministry 2</title>
+      <description>21 Reasons that led to the end of LP.Michal's Ministry 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C12_21%20Reasons%20that%20led%20to%20the%20end%20of%20LP.Michal's%20Ministry%202.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C12_21%20Reasons%20that%20led%20to%20the%20end%20of%20LP.Michal's%20Ministry%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>22 Signs of Familarity</title>
+      <description>22 Signs of Familarity</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C12_22%20Signs%20of%20Familarity.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C12_22%20Signs%20of%20Familarity.mp3</guid>
+    </item>
+
+    <item>
+      <title>23 Signs of Familarity - Recap</title>
+      <description>23 Signs of Familarity - Recap</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C12_23%20Signs%20of%20Familarity%20-%20Recap.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C12_23%20Signs%20of%20Familarity%20-%20Recap.mp3</guid>
+    </item>
+
+    <item>
+      <title>24 Marriage and the Ministry</title>
+      <description>24 Marriage and the Ministry</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C12_24%20Marriage%20and%20the%20Ministry.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C12_24%20Marriage%20and%20the%20Ministry.mp3</guid>
+    </item>
+
+    <item>
+      <title>25 Loyalty - Cure to Familari</title>
+      <description>25 Loyalty - Cure to Familari</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C12_25%20Loyalty%20-%20Cure%20to%20Familari.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C12_25%20Loyalty%20-%20Cure%20to%20Familari.mp3</guid>
+    </item>
+
+    <item>
+      <title>26 The Master Key to Changing a Desert - A Priest</title>
+      <description>26 The Master Key to Changing a Desert - A Priest</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C12_26%20The%20Master%20Key%20to%20Changing%20a%20Desert%20-%20A%20Priest.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C12_26%20The%20Master%20Key%20to%20Changing%20a%20Desert%20-%20A%20Priest.mp3</guid>
+    </item>
+
+    <item>
+      <title>27 Sing oh Barren!</title>
+      <description>27 Sing oh Barren!</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C12_27%20Sing%20oh%20Barren!.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C12_27%20Sing%20oh%20Barren!.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

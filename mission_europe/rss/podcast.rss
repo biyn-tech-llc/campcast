@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Mission Europe</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Mission Europe</description>
+    <googleplay:image href="http://daghewardmillsaudio.org/images/albums/1498920020_Mission-Europe-Heward-Mills.jpg"/>
+    <language>en-us</language>
+    <link>https://biyn-tech-llc.github.io/campcast/mission_europe/</link>
+    <image>
+        <url>
+            http://daghewardmillsaudio.org/images/albums/1498920020_Mission-Europe-Heward-Mills.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>00 Intro - Mission Europe</title>
+      <description>00 Intro - Mission Europe</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C88_00%20Intro%20-%20Mission%20Europe.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C88_00%20Intro%20-%20Mission%20Europe.mp3</guid>
+    </item>
+
+    <item>
+      <title>01 There must be Missions</title>
+      <description>01 There must be Missions</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C88_01%20There%20must%20be%20Missions.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C88_01%20There%20must%20be%20Missions.mp3</guid>
+    </item>
+
+    <item>
+      <title>02 The great commission - GO</title>
+      <description>02 The great commission - GO</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C88_02%20The%20great%20commission%20-%20GO.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C88_02%20The%20great%20commission%20-%20GO.mp3</guid>
+    </item>
+
+    <item>
+      <title>03 The great commission - TEACH</title>
+      <description>03 The great commission - TEACH</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C88_03%20The%20great%20commission%20-%20TEACH.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C88_03%20The%20great%20commission%20-%20TEACH.mp3</guid>
+    </item>
+
+    <item>
+      <title>04 Recap with Bishop Richard</title>
+      <description>04 Recap with Bishop Richard</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C88_04%20Recap%20with%20Bishop%20Richard.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C88_04%20Recap%20with%20Bishop%20Richard.mp3</guid>
+    </item>
+
+    <item>
+      <title>05 The value of Teaching and Preaching</title>
+      <description>05 The value of Teaching and Preaching</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C88_05%20The%20value%20of%20Teaching%20and%20Preaching.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C88_05%20The%20value%20of%20Teaching%20and%20Preaching.mp3</guid>
+    </item>
+
+    <item>
+      <title>06 The Vision</title>
+      <description>06 The Vision</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C88_06%20The%20Vision.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C88_06%20The%20Vision.mp3</guid>
+    </item>
+
+    <item>
+      <title>07 Recap 2 with Bishop Richard</title>
+      <description>07 Recap 2 with Bishop Richard</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C88_07%20Recap%202%20with%20Bishop%20Richard.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C88_07%20Recap%202%20with%20Bishop%20Richard.mp3</guid>
+    </item>
+
+    <item>
+      <title>08 The value of Teaching and Preaching 2</title>
+      <description>08 The value of Teaching and Preaching 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C88_08%20The%20value%20of%20Teaching%20and%20Preaching%202.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C88_08%20The%20value%20of%20Teaching%20and%20Preaching%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>09 Recap 3 with Bishop Richard</title>
+      <description>09 Recap 3 with Bishop Richard</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C88_09%20Recap%203%20with%20Bishop%20Richard.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C88_09%20Recap%203%20with%20Bishop%20Richard.mp3</guid>
+    </item>
+
+    <item>
+      <title>10 10 Places you must go to</title>
+      <description>10 10 Places you must go to</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C88_10%2010%20Places%20you%20must%20go%20to.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C88_10%2010%20Places%20you%20must%20go%20to.mp3</guid>
+    </item>
+
+    <item>
+      <title>11 How to walk in the Kingdom</title>
+      <description>11 How to walk in the Kingdom</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C88_11%20How%20to%20walk%20in%20the%20Kingdom.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C88_11%20How%20to%20walk%20in%20the%20Kingdom.mp3</guid>
+    </item>
+
+    <item>
+      <title>12 The Epitaph</title>
+      <description>12 The Epitaph</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C88_12%20The%20Epitaph.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C88_12%20The%20Epitaph.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

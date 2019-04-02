@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Do The Work Of An Evangelist</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Do The Work Of An Evangelist</description>
+    <googleplay:image href="http://daghewardmillsaudio.org/images/albums/DO%20THE%20WORK%20OF%20AN%20EVANGELIST.jpg"/>
+    <language>en-us</language>
+    <link>https://biyn-tech-llc.github.io/campcast/do_the_work_of_an_evangelist/</link>
+    <image>
+        <url>
+            http://daghewardmillsaudio.org/images/albums/DO%20THE%20WORK%20OF%20AN%20EVANGELIST.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>00 Intro - Do The Work Of An Evangelist</title>
+      <description>00 Intro - Do The Work Of An Evangelist</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C46_00%20Intro%20-%20Do%20The%20Work%20Of%20An%20Evangelist.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C46_00%20Intro%20-%20Do%20The%20Work%20Of%20An%20Evangelist.mp3</guid>
+    </item>
+
+    <item>
+      <title>01 Do The Work Of An Evangelist</title>
+      <description>01 Do The Work Of An Evangelist</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C46_01%20Do%20The%20Work%20Of%20An%20Evangelist.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C46_01%20Do%20The%20Work%20Of%20An%20Evangelist.mp3</guid>
+    </item>
+
+    <item>
+      <title>02 The Lazarus Phenomenon 1</title>
+      <description>02 The Lazarus Phenomenon 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C46_02%20The%20Lazarus%20Phenomenon%201.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C46_02%20The%20Lazarus%20Phenomenon%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>03 The Lazarus Phenomenon 2</title>
+      <description>03 The Lazarus Phenomenon 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C46_03%20The%20Lazarus%20Phenomenon%202.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C46_03%20The%20Lazarus%20Phenomenon%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>05 Questions and Answers 2</title>
+      <description>05 Questions and Answers 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C46_05%20Questions%20and%20Answers%202.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C46_05%20Questions%20and%20Answers%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>06 The Elder Brother Phenomenon</title>
+      <description>06 The Elder Brother Phenomenon</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C46_06%20The%20Elder%20Brother%20Phenomenon.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C46_06%20The%20Elder%20Brother%20Phenomenon.mp3</guid>
+    </item>
+
+    <item>
+      <title>07 The Elder Brother Phenomenon</title>
+      <description>07 The Elder Brother Phenomenon</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C46_07%20The%20Elder%20Brother%20Phenomenon.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C46_07%20The%20Elder%20Brother%20Phenomenon.mp3</guid>
+    </item>
+
+    <item>
+      <title>08 The Phenomenon Of Open Doors</title>
+      <description>08 The Phenomenon Of Open Doors</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C46_08%20The%20Phenomenon%20Of%20Open%20Doors.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C46_08%20The%20Phenomenon%20Of%20Open%20Doors.mp3</guid>
+    </item>
+
+    <item>
+      <title>09 The Phenomenon Of Open Doors</title>
+      <description>09 The Phenomenon Of Open Doors</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C46_09%20The%20Phenomenon%20Of%20Open%20Doors.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C46_09%20The%20Phenomenon%20Of%20Open%20Doors.mp3</guid>
+    </item>
+
+    <item>
+      <title>10 The Phenomenon of The Prodigal Son</title>
+      <description>10 The Phenomenon of The Prodigal Son</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C46_10%20The%20Phenomenon%20of%20The%20Prodigal%20Son.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C46_10%20The%20Phenomenon%20of%20The%20Prodigal%20Son.mp3</guid>
+    </item>
+
+    <item>
+      <title>11 The Phenomenon Of The Rich Fool</title>
+      <description>11 The Phenomenon Of The Rich Fool</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C46_11%20The%20Phenomenon%20Of%20The%20Rich%20Fool.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C46_11%20The%20Phenomenon%20Of%20The%20Rich%20Fool.mp3</guid>
+    </item>
+
+    <item>
+      <title>12 The Phenomenon of Wasted Goods 1</title>
+      <description>12 The Phenomenon of Wasted Goods 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C46_12%20The%20Phenomenon%20of%20Wasted%20Goods%201.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C46_12%20The%20Phenomenon%20of%20Wasted%20Goods%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>13 The Phenomenon Of Wasted Goods 2</title>
+      <description>13 The Phenomenon Of Wasted Goods 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C46_13%20The%20Phenomenon%20Of%20Wasted%20Goods%202.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C46_13%20The%20Phenomenon%20Of%20Wasted%20Goods%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>14  The Phenomenon Of Gaining By Trading, Anadeia &amp; Anagkazo</title>
+      <description>14  The Phenomenon Of Gaining By Trading, Anadeia &amp; Anagkazo</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C46_14%20%20The%20Phenomenon%20Of%20Gaining%20By%20Trading,%20Anadeia%20&amp;%20Anagkazo.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C46_14%20%20The%20Phenomenon%20Of%20Gaining%20By%20Trading,%20Anadeia%20&amp;%20Anagkazo.mp3</guid>
+    </item>
+
+    <item>
+      <title>15 The Phenomena Of Nothingness</title>
+      <description>15 The Phenomena Of Nothingness</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C46_15%20The%20Phenomena%20Of%20Nothingness.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C46_15%20The%20Phenomena%20Of%20Nothingness.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Be thou faithful unto death</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Be thou faithful unto death</description>
+    <googleplay:image href="http://daghewardmillsaudio.org/images/albums/BE%20THOU%20FAITHFUL%20UNTO%20DEATH.jpg"/>
+    <language>en-us</language>
+    <link>https://biyn-tech-llc.github.io/campcast/be_thou_faithful_unto_death/</link>
+    <image>
+        <url>
+            http://daghewardmillsaudio.org/images/albums/BE%20THOU%20FAITHFUL%20UNTO%20DEATH.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>00 Intro - Be thou faithful unto death</title>
+      <description>00 Intro - Be thou faithful unto death</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C77_00%20Intro%20-%20Be%20thou%20faithful%20unto%20death.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C77_00%20Intro%20-%20Be%20thou%20faithful%20unto%20death.mp3</guid>
+    </item>
+
+    <item>
+      <title>01 Be thou faithful unto death</title>
+      <description>01 Be thou faithful unto death</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C77_01%20Be%20thou%20faithful%20unto%20death.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C77_01%20Be%20thou%20faithful%20unto%20death.mp3</guid>
+    </item>
+
+    <item>
+      <title>02 Overcoming hatred and opposition</title>
+      <description>02 Overcoming hatred and opposition</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C77_02%20Overcoming%20hatred%20and%20opposition.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C77_02%20Overcoming%20hatred%20and%20opposition.mp3</guid>
+    </item>
+
+    <item>
+      <title>03 What it means to be faithful unto death</title>
+      <description>03 What it means to be faithful unto death</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C77_03%20What%20it%20means%20to%20be%20faithful%20unto%20death.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C77_03%20What%20it%20means%20to%20be%20faithful%20unto%20death.mp3</guid>
+    </item>
+
+    <item>
+      <title>04 What it does not mean to be faithful unto death - 1</title>
+      <description>04 What it does not mean to be faithful unto death - 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C77_04%20What%20it%20does%20not%20mean%20to%20be%20faithful%20unto%20death%20-%201.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C77_04%20What%20it%20does%20not%20mean%20to%20be%20faithful%20unto%20death%20-%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>05 What it does not mean to be faithful unto death - 2</title>
+      <description>05 What it does not mean to be faithful unto death - 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C77_05%20What%20it%20does%20not%20mean%20to%20be%20faithful%20unto%20death%20-%202.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C77_05%20What%20it%20does%20not%20mean%20to%20be%20faithful%20unto%20death%20-%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>06 Running Well</title>
+      <description>06 Running Well</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C77_06%20Running%20Well.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C77_06%20Running%20Well.mp3</guid>
+    </item>
+
+    <item>
+      <title>07 Characteristics of an unforgiving man</title>
+      <description>07 Characteristics of an unforgiving man</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C77_07%20Characteristics%20of%20an%20unforgiving%20man.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C77_07%20Characteristics%20of%20an%20unforgiving%20man.mp3</guid>
+    </item>
+
+    <item>
+      <title>08 How to be faithful</title>
+      <description>08 How to be faithful</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C77_08%20How%20to%20be%20faithful.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C77_08%20How%20to%20be%20faithful.mp3</guid>
+    </item>
+
+    <item>
+      <title>09 What to have in mind to run well</title>
+      <description>09 What to have in mind to run well</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C77_09%20What%20to%20have%20in%20mind%20to%20run%20well.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C77_09%20What%20to%20have%20in%20mind%20to%20run%20well.mp3</guid>
+    </item>
+
+    <item>
+      <title>10 Running with the love of God</title>
+      <description>10 Running with the love of God</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C77_10%20Running%20with%20the%20love%20of%20God.mp3"
+                 type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C77_10%20Running%20with%20the%20love%20of%20God.mp3</guid>
+    </item>
+
+  </channel>
+</rss>
