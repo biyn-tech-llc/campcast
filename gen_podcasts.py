@@ -190,8 +190,9 @@ body {
 
 <!-- Header -->
 <div class="header">
-  <h1>Responsive Image Grid</h1>
-  <p>Resize the browser window to see the responsive effect.</p>
+  <h1>The Camps below may be played with your podcast app - <i>if it accepts RSS feeds directly</i></h1>
+  <p>Click on a camp to copy its RSS feed into the clipboard. Then paste the link into your podcast application.</p>
+  <p>Most podcast players have this feature - including iTunes podcast, Podcast Addict, etc. <i>Google Play Music and Google Podcasts do not.</i></p>
 </div>
 
 <!-- Photo Grid -->
@@ -235,8 +236,10 @@ function copyTextToClipboard(text) {
 </body>
 </html>
 '''
-column_h = '  <div class="column">'
-column_f = '  </div>'
+column_h = '''  <div class="column">
+'''
+column_f = '''  </div>
+'''
 
 fig = '''
     <figure onclick="copyTextToClipboard('___PODCASTRSS___')">
@@ -246,6 +249,8 @@ fig = '''
 '''
 max_cols = 4
 col_len = len(camps) / max_cols + (1 if len(camps) % max_cols else 0)
+list_page = list_page_header
+camp_number = 1
 for camp in camps:
     name = camp[0]
     expr = camp[1]
@@ -289,4 +294,22 @@ for camp in camps:
     with open(os.path.join(folder, 'index.html'), 'w') as html_file:
         html_file.write(pod_page.replace('___PODCASTRSS___', LINK_URL + podfile) \
             .replace('___TITLE___', name))
+    
+    # column opening tag
+    if (camp_number % col_len) == 1:
+        list_page += column_h
 
+    # the podcast entry
+    list_page += fig.replace('___PODCASTRSS___', LINK_URL + podfile) \
+            .replace('___TITLE___', name) \
+            .replace('___IMAGE___', image)
+
+    # column closing tag
+    if ((camp_number % col_len) == 0 or camp_number == len(camps)):
+        list_page += column_f
+
+    camp_number += 1
+
+list_page += list_page_footer 
+with open ("index.html", "w") as top_html:
+    top_html.write(list_page)
