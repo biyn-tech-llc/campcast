@@ -208,9 +208,9 @@ body {
 
 /* Create four equal columns that sits next to each other */
 .column {
-  -ms-flex: 25%; /* IE10 */
-  flex: 25%;
-  max-width: 25%;
+  -ms-flex: 12.5%; /* IE10 */
+  flex: 12.5%;
+  max-width: 12.5%;
   padding: 0 0px;
 }
 
@@ -218,9 +218,17 @@ body {
   margin-top: 0px;
   vertical-align: middle;
 }
-
+/* Responsive layout - makes a four column-layout instead of eight columns */
+@media screen and (max-width: 2400px) {
+  .column {
+    -ms-flex: 25%; /* IE10 */
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 0px;
+  }
+}
 /* Responsive layout - makes a two column-layout instead of four columns */
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1200px) {
   .column {
     -ms-flex: 50%;
     flex: 50%;
@@ -240,7 +248,7 @@ body {
 figure {
   text-align: center;
   font-style: italic;
-  font-size: smaller;
+  font-variant: small-caps;
   text-indent: 0;
   border: thin silver solid;
   margin: 0em;
@@ -271,6 +279,7 @@ img.scaled {
   margin-left: -75px;
   opacity: 0;
   transition: opacity 0.3s;
+  font-variant: normal;
 }
 
 .tooltip .tooltiptext::after {
@@ -361,7 +370,7 @@ fig = '''
       <figcaption>___TITLE___</figcaption>
     </figure>
 '''
-max_cols = 4
+max_cols = 8
 col_len = len(camps) / max_cols + (1 if len(camps) % max_cols else 0)
 list_page = list_page_header
 camp_number = 1

@@ -26,9 +26,9 @@ body {
 
 /* Create four equal columns that sits next to each other */
 .column {
-  -ms-flex: 25%; /* IE10 */
-  flex: 25%;
-  max-width: 25%;
+  -ms-flex: 12.5%; /* IE10 */
+  flex: 12.5%;
+  max-width: 12.5%;
   padding: 0 0px;
 }
 
@@ -36,9 +36,17 @@ body {
   margin-top: 0px;
   vertical-align: middle;
 }
-
+/* Responsive layout - makes a four column-layout instead of eight columns */
+@media screen and (max-width: 2400px) {
+  .column {
+    -ms-flex: 25%; /* IE10 */
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 0px;
+  }
+}
 /* Responsive layout - makes a two column-layout instead of four columns */
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1200px) {
   .column {
     -ms-flex: 50%;
     flex: 50%;
@@ -58,7 +66,7 @@ body {
 figure {
   text-align: center;
   font-style: italic;
-  font-size: smaller;
+  font-variant: small-caps;
   text-indent: 0;
   border: thin silver solid;
   margin: 0em;
@@ -89,6 +97,7 @@ img.scaled {
   margin-left: -75px;
   opacity: 0;
   transition: opacity 0.3s;
+  font-variant: normal;
 }
 
 .tooltip .tooltiptext::after {
@@ -211,6 +220,8 @@ img.scaled {
       <img class=scaled src="http://daghewardmillsaudio.org/images/albums/allos.jpg" style="width:100%">
       <figcaption>Allos - Another of the Kind</figcaption>
     </figure>
+  </div>
+  <div class="column">
 
     <figure class="tooltip" onclick="copyTextToClipboard('https://biyn-tech-llc.github.io/campcast/grace_n_peace/rss/podcast.rss', 'grace_n_peace')" onmouseout="mouseOut('grace_n_peace')">
       <span class="tooltiptext" id="grace_n_peace">Click image to copy RSS feed to clipboard</span>
@@ -393,6 +404,8 @@ img.scaled {
       <img class=scaled src="http://daghewardmillsaudio.org/images/albums/I%20AND%20THE%20CHILDREN.jpg" style="width:100%">
       <figcaption>I and My Children</figcaption>
     </figure>
+  </div>
+  <div class="column">
 
     <figure class="tooltip" onclick="copyTextToClipboard('https://biyn-tech-llc.github.io/campcast/missions/rss/podcast.rss', 'missions')" onmouseout="mouseOut('missions')">
       <span class="tooltiptext" id="missions">Click image to copy RSS feed to clipboard</span>
@@ -575,6 +588,8 @@ img.scaled {
       <img class=scaled src="http://daghewardmillsaudio.org/images/albums/1544765559_the%20secret.jpg" style="width:100%">
       <figcaption>Secrets of the Anointing and His Anointing</figcaption>
     </figure>
+  </div>
+  <div class="column">
 
     <figure class="tooltip" onclick="copyTextToClipboard('https://biyn-tech-llc.github.io/campcast/atmosphere/rss/podcast.rss', 'atmosphere')" onmouseout="mouseOut('atmosphere')">
       <span class="tooltiptext" id="atmosphere">Click image to copy RSS feed to clipboard</span>
@@ -757,6 +772,8 @@ img.scaled {
       <img class=scaled src="http://daghewardmillsaudio.org/images/albums/OBLIGATIONS%20OF%20CHRISTIAN%20WORKERS.jpg" style="width:100%">
       <figcaption>Obligations Of Christian Workers</figcaption>
     </figure>
+  </div>
+  <div class="column">
 
     <figure class="tooltip" onclick="copyTextToClipboard('https://biyn-tech-llc.github.io/campcast/the_church_must_send_or_it_will_end/rss/podcast.rss', 'the_church_must_send_or_it_will_end')" onmouseout="mouseOut('the_church_must_send_or_it_will_end')">
       <span class="tooltiptext" id="the_church_must_send_or_it_will_end">Click image to copy RSS feed to clipboard</span>
