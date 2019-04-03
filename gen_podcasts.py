@@ -385,7 +385,7 @@ for camp in camps:
             print str(e) 
 
     cmd = "sed -ne s/^.*href=\"\(" + expr + ".*jpg\).*$/\\1/p allsongs.html" 
-    folder = name.lower().replace(' ', '_').replace("'","")
+    folder = name.lower().replace(' ', '_').replace("'","").replace('?', '')
     podcast = pod_header.replace('___TITLE___', name) \
                 .replace('___LINK___', LINK_URL + folder) \
                 .replace('___IMAGE___', image)
