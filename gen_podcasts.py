@@ -219,7 +219,7 @@ body {
   vertical-align: middle;
 }
 /* Responsive layout - makes a four column-layout instead of eight columns */
-@media screen and (max-width: 2400px) {
+@media screen and (max-width: 2000px) {
   .column {
     -ms-flex: 25%; /* IE10 */
     flex: 25%;
@@ -228,7 +228,7 @@ body {
   }
 }
 /* Responsive layout - makes a two column-layout instead of four columns */
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1000px) {
   .column {
     -ms-flex: 50%;
     flex: 50%;
@@ -237,7 +237,7 @@ body {
 }
 
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 500px) {
   .column {
     -ms-flex: 100%;
     flex: 100%;
