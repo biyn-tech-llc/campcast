@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Coming Out of Obscurity</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Coming Out of Obscurity</description>
+    <googleplay:image href="http://daghewardmillsaudio.org/images/albums/Coming%20Out%20Of%20Obscurity%20.jpg"/>
+    <language>en-us</language>
+    <link>https://biyn-tech-llc.github.io/campcast/coming_out_of_obscurity/</link>
+    <image>
+        <url>
+            http://daghewardmillsaudio.org/images/albums/Coming%20Out%20Of%20Obscurity%20.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>01-KEYS TO COMING OUT OF OBSCURITY-A</title>
+      <description>01-KEYS TO COMING OUT OF OBSCURITY-A</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C59_01-KEYS%20TO%20COMING%20OUT%20OF%20OBSCURITY-A.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C59_01-KEYS%20TO%20COMING%20OUT%20OF%20OBSCURITY-A.mp3</guid>
+    </item>
+
+    <item>
+      <title>02-KEYS TO COMING OUT OF OBSCURITY-B</title>
+      <description>02-KEYS TO COMING OUT OF OBSCURITY-B</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C59_02-KEYS%20TO%20COMING%20OUT%20OF%20OBSCURITY-B.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C59_02-KEYS%20TO%20COMING%20OUT%20OF%20OBSCURITY-B.mp3</guid>
+    </item>
+
+    <item>
+      <title>03-KEYS TO COMING OUT OF OBSCURITY-C</title>
+      <description>03-KEYS TO COMING OUT OF OBSCURITY-C</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C59_03-KEYS%20TO%20COMING%20OUT%20OF%20OBSCURITY-C.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C59_03-KEYS%20TO%20COMING%20OUT%20OF%20OBSCURITY-C.mp3</guid>
+    </item>
+
+    <item>
+      <title>04-KEYS TO COMING OUT OF OBSCURITY-D</title>
+      <description>04-KEYS TO COMING OUT OF OBSCURITY-D</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C59_04-KEYS%20TO%20COMING%20OUT%20OF%20OBSCURITY-D.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C59_04-KEYS%20TO%20COMING%20OUT%20OF%20OBSCURITY-D.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

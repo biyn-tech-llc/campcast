@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Victory In Laodecia</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Victory In Laodecia</description>
+    <googleplay:image href="http://daghewardmillsaudio.org/images/albums/1503520278_VICTORY%20IN%20LAODICEA.jpg"/>
+    <language>en-us</language>
+    <link>https://biyn-tech-llc.github.io/campcast/victory_in_laodecia/</link>
+    <image>
+        <url>
+            http://daghewardmillsaudio.org/images/albums/1503520278_VICTORY%20IN%20LAODICEA.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>06. Song Ministration and Prayer</title>
+      <description>06. Song Ministration and Prayer</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C100_06.%20Song%20Ministration%20and%20Prayer.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C100_06.%20Song%20Ministration%20and%20Prayer.mp3</guid>
+    </item>
+
+    <item>
+      <title>07. Overcoming The Lukewarmness Found in Laodicea (1)</title>
+      <description>07. Overcoming The Lukewarmness Found in Laodicea (1)</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C100_07.%20Overcoming%20The%20Lukewarmness%20Found%20in%20Laodicea%20(1).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C100_07.%20Overcoming%20The%20Lukewarmness%20Found%20in%20Laodicea%20(1).mp3</guid>
+    </item>
+
+    <item>
+      <title>08. Song Ministration</title>
+      <description>08. Song Ministration</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C100_08.%20Song%20Ministration.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C100_08.%20Song%20Ministration.mp3</guid>
+    </item>
+
+    <item>
+      <title>09. How To Become A Good Shepherd - Bishop Addy</title>
+      <description>09. How To Become A Good Shepherd - Bishop Addy</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C100_09.%20How%20To%20Become%20A%20Good%20Shepherd%20-%20Bishop%20Addy.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C100_09.%20How%20To%20Become%20A%20Good%20Shepherd%20-%20Bishop%20Addy.mp3</guid>
+    </item>
+
+    <item>
+      <title>1. Victory in Laodicea  - Introduction</title>
+      <description>1. Victory in Laodicea  - Introduction</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C100_1.%20Victory%20in%20Laodicea%20%20-%20Introduction.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C100_1.%20Victory%20in%20Laodicea%20%20-%20Introduction.mp3</guid>
+    </item>
+
+    <item>
+      <title>2. Song Ministration</title>
+      <description>2. Song Ministration</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C100_2.%20Song%20Ministration.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C100_2.%20Song%20Ministration.mp3</guid>
+    </item>
+
+    <item>
+      <title>3. Solutions to Lukewarmness</title>
+      <description>3. Solutions to Lukewarmness</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C100_3.%20Solutions%20to%20Lukewarmness.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C100_3.%20Solutions%20to%20Lukewarmness.mp3</guid>
+    </item>
+
+    <item>
+      <title>4. Prayer and Recap by Bishop Eddy Addy</title>
+      <description>4. Prayer and Recap by Bishop Eddy Addy</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C100_4.%20Prayer%20and%20Recap%20by%20Bishop%20Eddy%20Addy.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C100_4.%20Prayer%20and%20Recap%20by%20Bishop%20Eddy%20Addy.mp3</guid>
+    </item>
+
+    <item>
+      <title>5. The Reality of Laodicea</title>
+      <description>5. The Reality of Laodicea</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C100_5.%20The%20Reality%20of%20Laodicea.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C100_5.%20The%20Reality%20of%20Laodicea.mp3</guid>
+    </item>
+
+    <item>
+      <title>10. Deliverance from Laodicean Powers</title>
+      <description>10. Deliverance from Laodicean Powers</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C100_10.%20Deliverance%20from%20Laodicean%20Powers.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C100_10.%20Deliverance%20from%20Laodicean%20Powers.mp3</guid>
+    </item>
+
+    <item>
+      <title>11. How To Be Clothed with Humility</title>
+      <description>11. How To Be Clothed with Humility</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C100_11.%20How%20To%20Be%20Clothed%20with%20Humility.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C100_11.%20How%20To%20Be%20Clothed%20with%20Humility.mp3</guid>
+    </item>
+
+    <item>
+      <title>12. Reasons That Leads to the State of the Laodiceans</title>
+      <description>12. Reasons That Leads to the State of the Laodiceans</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C100_12.%20Reasons%20That%20Leads%20to%20the%20State%20of%20the%20Laodiceans.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C100_12.%20Reasons%20That%20Leads%20to%20the%20State%20of%20the%20Laodiceans.mp3</guid>
+    </item>
+
+    <item>
+      <title>13. Communion and Prayer by Bishop Dag</title>
+      <description>13. Communion and Prayer by Bishop Dag</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C100_13.%20Communion%20and%20Prayer%20by%20Bishop%20Dag.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C100_13.%20Communion%20and%20Prayer%20by%20Bishop%20Dag.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

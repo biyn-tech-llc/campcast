@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Fulfil Your Ministry</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Fulfil Your Ministry</description>
+    <googleplay:image href="http://daghewardmillsaudio.org/images/albums/1498920710_fulfil%20your%20ministry.jpg"/>
+    <language>en-us</language>
+    <link>https://biyn-tech-llc.github.io/campcast/fulfil_your_ministry/</link>
+    <image>
+        <url>
+            http://daghewardmillsaudio.org/images/albums/1498920710_fulfil%20your%20ministry.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>01 Prayer Session Ps Frank</title>
+      <description>01 Prayer Session Ps Frank</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C94_01%20Prayer%20Session%20Ps%20Frank.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C94_01%20Prayer%20Session%20Ps%20Frank.mp3</guid>
+    </item>
+
+    <item>
+      <title>02 Fulfil Your Ministry</title>
+      <description>02 Fulfil Your Ministry</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C94_02%20Fulfil%20Your%20Ministry.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C94_02%20Fulfil%20Your%20Ministry.mp3</guid>
+    </item>
+
+    <item>
+      <title>03 What Is My Ministry and How To Find It</title>
+      <description>03 What Is My Ministry and How To Find It</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C94_03%20What%20Is%20My%20Ministry%20and%20How%20To%20Find%20It.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C94_03%20What%20Is%20My%20Ministry%20and%20How%20To%20Find%20It.mp3</guid>
+    </item>
+
+    <item>
+      <title>04 How To Fulfil Your Ministry Through The Mercy and Love of</title>
+      <description>04 How To Fulfil Your Ministry Through The Mercy and Love of</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C94_04%20How%20To%20Fulfil%20Your%20Ministry%20Through%20The%20Mercy%20and%20Love%20of.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C94_04%20How%20To%20Fulfil%20Your%20Ministry%20Through%20The%20Mercy%20and%20Love%20of.mp3</guid>
+    </item>
+
+    <item>
+      <title>05 Levels of Love</title>
+      <description>05 Levels of Love</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C94_05%20Levels%20of%20Love.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C94_05%20Levels%20of%20Love.mp3</guid>
+    </item>
+
+    <item>
+      <title>07 Prayer Session Bishop Ogoe</title>
+      <description>07 Prayer Session Bishop Ogoe</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C94_07%20Prayer%20Session%20Bishop%20Ogoe.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C94_07%20Prayer%20Session%20Bishop%20Ogoe.mp3</guid>
+    </item>
+
+    <item>
+      <title>08 What Is First Love (Continued)</title>
+      <description>08 What Is First Love (Continued)</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C94_08%20What%20Is%20First%20Love%20(Continued).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C94_08%20What%20Is%20First%20Love%20(Continued).mp3</guid>
+    </item>
+
+    <item>
+      <title>11 How To Fulfil Your Ministry Through The Call</title>
+      <description>11 How To Fulfil Your Ministry Through The Call</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C94_11%20How%20To%20Fulfil%20Your%20Ministry%20Through%20The%20Call.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C94_11%20How%20To%20Fulfil%20Your%20Ministry%20Through%20The%20Call.mp3</guid>
+    </item>
+
+    <item>
+      <title>12 How To Fulfil Your Ministry Through The Purpose</title>
+      <description>12 How To Fulfil Your Ministry Through The Purpose</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C94_12%20How%20To%20Fulfil%20Your%20Ministry%20Through%20The%20Purpose.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C94_12%20How%20To%20Fulfil%20Your%20Ministry%20Through%20The%20Purpose.mp3</guid>
+    </item>
+
+    <item>
+      <title>14 How To Fulfil  Your Ministry Through The Mission</title>
+      <description>14 How To Fulfil  Your Ministry Through The Mission</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C94_14%20How%20To%20Fulfil%20%20Your%20Ministry%20Through%20The%20Mission.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C94_14%20How%20To%20Fulfil%20%20Your%20Ministry%20Through%20The%20Mission.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

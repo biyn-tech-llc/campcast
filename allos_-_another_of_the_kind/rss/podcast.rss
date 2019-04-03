@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Allos - Another of the Kind</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Allos - Another of the Kind</description>
+    <googleplay:image href="http://daghewardmillsaudio.org/images/albums/allos.jpg"/>
+    <language>en-us</language>
+    <link>https://biyn-tech-llc.github.io/campcast/allos_-_another_of_the_kind/</link>
+    <image>
+        <url>
+            http://daghewardmillsaudio.org/images/albums/allos.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>00 Intro - Allos- Another of the Kind</title>
+      <description>00 Intro - Allos- Another of the Kind</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C17_00%20Intro%20-%20Allos-%20Another%20of%20the%20Kind.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C17_00%20Intro%20-%20Allos-%20Another%20of%20the%20Kind.mp3</guid>
+    </item>
+
+    <item>
+      <title>01 It's Unfortunate</title>
+      <description>01 It's Unfortunate</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C17_01%20It's%20Unfortunate.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C17_01%20It's%20Unfortunate.mp3</guid>
+    </item>
+
+    <item>
+      <title>02 Bearing Fruits 1</title>
+      <description>02 Bearing Fruits 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C17_02%20Bearing%20Fruits%201.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C17_02%20Bearing%20Fruits%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>03 Bearing Fruits 2</title>
+      <description>03 Bearing Fruits 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C17_03%20Bearing%20Fruits%202.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C17_03%20Bearing%20Fruits%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>04 Bearing Fruits 3</title>
+      <description>04 Bearing Fruits 3</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C17_04%20Bearing%20Fruits%203.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C17_04%20Bearing%20Fruits%203.mp3</guid>
+    </item>
+
+    <item>
+      <title>05 Becoming an Allos </title>
+      <description>05 Becoming an Allos </description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C17_05%20Becoming%20an%20Allos%20.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C17_05%20Becoming%20an%20Allos%20.mp3</guid>
+    </item>
+
+    <item>
+      <title>06 Elisha What is Wrong with You</title>
+      <description>06 Elisha What is Wrong with You</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C17_06%20Elisha%20What%20is%20Wrong%20with%20You.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C17_06%20Elisha%20What%20is%20Wrong%20with%20You.mp3</guid>
+    </item>
+
+    <item>
+      <title>07 Advantages of Allos</title>
+      <description>07 Advantages of Allos</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C17_07%20Advantages%20of%20Allos.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C17_07%20Advantages%20of%20Allos.mp3</guid>
+    </item>
+
+    <item>
+      <title>08 Allos and Marriage</title>
+      <description>08 Allos and Marriage</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C17_08%20Allos%20and%20Marriage.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C17_08%20Allos%20and%20Marriage.mp3</guid>
+    </item>
+
+    <item>
+      <title>09 Allos and the Beast</title>
+      <description>09 Allos and the Beast</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C17_09%20Allos%20and%20the%20Beast.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C17_09%20Allos%20and%20the%20Beast.mp3</guid>
+    </item>
+
+    <item>
+      <title>10 Birth of Accusations</title>
+      <description>10 Birth of Accusations</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C17_10%20Birth%20of%20Accusations.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C17_10%20Birth%20of%20Accusations.mp3</guid>
+    </item>
+
+    <item>
+      <title>11 Laws of Accusations </title>
+      <description>11 Laws of Accusations </description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C17_11%20Laws%20of%20Accusations%20.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C17_11%20Laws%20of%20Accusations%20.mp3</guid>
+    </item>
+
+    <item>
+      <title>12 Things to Do and Things to Believe 1</title>
+      <description>12 Things to Do and Things to Believe 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C17_12%20Things%20to%20Do%20and%20Things%20to%20Believe%201.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C17_12%20Things%20to%20Do%20and%20Things%20to%20Believe%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>13 Things to Do And Things to Believe 2</title>
+      <description>13 Things to Do And Things to Believe 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C17_13%20Things%20to%20Do%20And%20Things%20to%20Believe%202.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C17_13%20Things%20to%20Do%20And%20Things%20to%20Believe%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>14 Keys to Success</title>
+      <description>14 Keys to Success</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C17_14%20Keys%20to%20Success.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C17_14%20Keys%20to%20Success.mp3</guid>
+    </item>
+
+    <item>
+      <title>15 Goals of the Accuser</title>
+      <description>15 Goals of the Accuser</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C17_15%20Goals%20of%20the%20Accuser.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C17_15%20Goals%20of%20the%20Accuser.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

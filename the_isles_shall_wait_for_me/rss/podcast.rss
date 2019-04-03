@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The Isles Shall Wait For Me</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>The Isles Shall Wait For Me</description>
+    <googleplay:image href="http://daghewardmillsaudio.org/images/albums/the%20isles%20shall%20wait%20for%20me.jpg"/>
+    <language>en-us</language>
+    <link>https://biyn-tech-llc.github.io/campcast/the_isles_shall_wait_for_me/</link>
+    <image>
+        <url>
+            http://daghewardmillsaudio.org/images/albums/the%20isles%20shall%20wait%20for%20me.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>01. Many Are Called by Bishop Edwin Ogoe</title>
+      <description>01. Many Are Called by Bishop Edwin Ogoe</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C121_01.%20Many%20Are%20Called%20by%20Bishop%20Edwin%20Ogoe.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C121_01.%20Many%20Are%20Called%20by%20Bishop%20Edwin%20Ogoe.mp3</guid>
+    </item>
+
+    <item>
+      <title>02. The Word Sown In Our Hearts</title>
+      <description>02. The Word Sown In Our Hearts</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C121_02.%20The%20Word%20Sown%20In%20Our%20Hearts.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C121_02.%20The%20Word%20Sown%20In%20Our%20Hearts.mp3</guid>
+    </item>
+
+    <item>
+      <title>03. Behold My Servant</title>
+      <description>03. Behold My Servant</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C121_03.%20Behold%20My%20Servant.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C121_03.%20Behold%20My%20Servant.mp3</guid>
+    </item>
+
+    <item>
+      <title>04. My Servant On Whom The Spirit Is</title>
+      <description>04. My Servant On Whom The Spirit Is</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C121_04.%20My%20Servant%20On%20Whom%20The%20Spirit%20Is.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C121_04.%20My%20Servant%20On%20Whom%20The%20Spirit%20Is.mp3</guid>
+    </item>
+
+    <item>
+      <title>05. Many Are Called cont'd by Bishop Edwin Ogoe</title>
+      <description>05. Many Are Called cont'd by Bishop Edwin Ogoe</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C121_05.%20Many%20Are%20Called%20cont'd%20by%20Bishop%20Edwin%20Ogoe.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C121_05.%20Many%20Are%20Called%20cont'd%20by%20Bishop%20Edwin%20Ogoe.mp3</guid>
+    </item>
+
+    <item>
+      <title>06. Aida Ministration</title>
+      <description>06. Aida Ministration</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C121_06.%20Aida%20Ministration.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C121_06.%20Aida%20Ministration.mp3</guid>
+    </item>
+
+    <item>
+      <title>07. The Isles Are Waiting For Someone Who Will Not Fail</title>
+      <description>07. The Isles Are Waiting For Someone Who Will Not Fail</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C121_07.%20The%20Isles%20Are%20Waiting%20For%20Someone%20Who%20Will%20Not%20Fail.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C121_07.%20The%20Isles%20Are%20Waiting%20For%20Someone%20Who%20Will%20Not%20Fail.mp3</guid>
+    </item>
+
+    <item>
+      <title>08. The Isles Are Waiting For Someone Who Will Not Be Discouraged</title>
+      <description>08. The Isles Are Waiting For Someone Who Will Not Be Discouraged</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C121_08.%20The%20Isles%20Are%20Waiting%20For%20Someone%20Who%20Will%20Not%20Be%20Discouraged.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C121_08.%20The%20Isles%20Are%20Waiting%20For%20Someone%20Who%20Will%20Not%20Be%20Discouraged.mp3</guid>
+    </item>
+
+    <item>
+      <title>09. The Isles Are Waiting For Someone Who Looks To The Rock</title>
+      <description>09. The Isles Are Waiting For Someone Who Looks To The Rock</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C121_09.%20The%20Isles%20Are%20Waiting%20For%20Someone%20Who%20Looks%20To%20The%20Rock.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C121_09.%20The%20Isles%20Are%20Waiting%20For%20Someone%20Who%20Looks%20To%20The%20Rock.mp3</guid>
+    </item>
+
+    <item>
+      <title>10. Recap with Bishop Richard Aryee</title>
+      <description>10. Recap with Bishop Richard Aryee</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C121_10.%20Recap%20with%20Bishop%20Richard%20Aryee.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C121_10.%20Recap%20with%20Bishop%20Richard%20Aryee.mp3</guid>
+    </item>
+
+    <item>
+      <title>11. Aida Ministration</title>
+      <description>11. Aida Ministration</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C121_11.%20Aida%20Ministration.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C121_11.%20Aida%20Ministration.mp3</guid>
+    </item>
+
+    <item>
+      <title>12. The Isles Are Waiting For Someone Who Has The Revelation And The Light</title>
+      <description>12. The Isles Are Waiting For Someone Who Has The Revelation And The Light</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C121_12.%20The%20Isles%20Are%20Waiting%20For%20Someone%20Who%20Has%20The%20Revelation%20And%20The%20Light.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C121_12.%20The%20Isles%20Are%20Waiting%20For%20Someone%20Who%20Has%20The%20Revelation%20And%20The%20Light.mp3</guid>
+    </item>
+
+    <item>
+      <title>13. The Contest of Light</title>
+      <description>13. The Contest of Light</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C121_13.%20The%20Contest%20of%20Light.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C121_13.%20The%20Contest%20of%20Light.mp3</guid>
+    </item>
+
+    <item>
+      <title>14. The Isles Are Waiting For Someone Who Knows They're Called Alone</title>
+      <description>14. The Isles Are Waiting For Someone Who Knows They're Called Alone</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C121_14.%20The%20Isles%20Are%20Waiting%20For%20Someone%20Who%20Knows%20They're%20Called%20Alone.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C121_14.%20The%20Isles%20Are%20Waiting%20For%20Someone%20Who%20Knows%20They're%20Called%20Alone.mp3</guid>
+    </item>
+
+    <item>
+      <title>15. Recap with Bishop Edwin Ogoe</title>
+      <description>15. Recap with Bishop Edwin Ogoe</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C121_15.%20Recap%20with%20Bishop%20Edwin%20Ogoe.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C121_15.%20Recap%20with%20Bishop%20Edwin%20Ogoe.mp3</guid>
+    </item>
+
+    <item>
+      <title>16. Aida Ministration</title>
+      <description>16. Aida Ministration</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C121_16.%20Aida%20Ministration.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C121_16.%20Aida%20Ministration.mp3</guid>
+    </item>
+
+    <item>
+      <title>17. The Isles Are Waiting For Someone Who Knows They're Called Alone cont'd</title>
+      <description>17. The Isles Are Waiting For Someone Who Knows They're Called Alone cont'd</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C121_17.%20The%20Isles%20Are%20Waiting%20For%20Someone%20Who%20Knows%20They're%20Called%20Alone%20cont'd.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C121_17.%20The%20Isles%20Are%20Waiting%20For%20Someone%20Who%20Knows%20They're%20Called%20Alone%20cont'd.mp3</guid>
+    </item>
+
+    <item>
+      <title>18. The Isles Shall Wait For Prosperous People</title>
+      <description>18. The Isles Shall Wait For Prosperous People</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C121_18.%20The%20Isles%20Shall%20Wait%20For%20Prosperous%20People.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C121_18.%20The%20Isles%20Shall%20Wait%20For%20Prosperous%20People.mp3</guid>
+    </item>
+
+    <item>
+      <title>19. The Isles Are Waiting For People Who Will Bring About Supernatural Growth</title>
+      <description>19. The Isles Are Waiting For People Who Will Bring About Supernatural Growth</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C121_19.%20The%20Isles%20Are%20Waiting%20For%20People%20Who%20Will%20Bring%20About%20Supernatural%20Growth.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C121_19.%20The%20Isles%20Are%20Waiting%20For%20People%20Who%20Will%20Bring%20About%20Supernatural%20Growth.mp3</guid>
+    </item>
+
+    <item>
+      <title>20. The Isles Are Waiting For People With Faith Like Abraham</title>
+      <description>20. The Isles Are Waiting For People With Faith Like Abraham</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C121_20.%20The%20Isles%20Are%20Waiting%20For%20People%20With%20Faith%20Like%20Abraham.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C121_20.%20The%20Isles%20Are%20Waiting%20For%20People%20With%20Faith%20Like%20Abraham.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

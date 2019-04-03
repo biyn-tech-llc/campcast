@@ -5,12 +5,12 @@
     <title>I and My Children</title>
     <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
     <description>I and My Children</description>
-    <googleplay:image href="https://biyn-tech-llc.github.io/campcast/DAG.jpg"/>
+    <googleplay:image href="http://daghewardmillsaudio.org/images/albums/I%20AND%20THE%20CHILDREN.jpg"/>
     <language>en-us</language>
     <link>https://biyn-tech-llc.github.io/campcast/i_and_my_children/</link>
     <image>
         <url>
-            https://biyn-tech-llc.github.io/campcast/DAG.jpg
+            http://daghewardmillsaudio.org/images/albums/I%20AND%20THE%20CHILDREN.jpg
         </url>
         <width>192</width>
         <height>144</height>

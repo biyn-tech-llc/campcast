@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The Reward For Hard Work Is More Work</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>The Reward For Hard Work Is More Work</description>
+    <googleplay:image href="http://daghewardmillsaudio.org/images/albums/the%20reward%20for%20hard.jpg"/>
+    <language>en-us</language>
+    <link>https://biyn-tech-llc.github.io/campcast/the_reward_for_hard_work_is_more_work/</link>
+    <image>
+        <url>
+            http://daghewardmillsaudio.org/images/albums/the%20reward%20for%20hard.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>01 Camp Introduction By Bishop Ogoe</title>
+      <description>01 Camp Introduction By Bishop Ogoe</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C117_01%20Camp%20Introduction%20By%20Bishop%20Ogoe.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C117_01%20Camp%20Introduction%20By%20Bishop%20Ogoe.mp3</guid>
+    </item>
+
+    <item>
+      <title>02 The Reward For Hard Work</title>
+      <description>02 The Reward For Hard Work</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C117_02%20The%20Reward%20For%20Hard%20Work.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C117_02%20The%20Reward%20For%20Hard%20Work.mp3</guid>
+    </item>
+
+    <item>
+      <title>03 Recap By Bishop Edwin Ogoe</title>
+      <description>03 Recap By Bishop Edwin Ogoe</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C117_03%20Recap%20By%20Bishop%20Edwin%20Ogoe.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C117_03%20Recap%20By%20Bishop%20Edwin%20Ogoe.mp3</guid>
+    </item>
+
+    <item>
+      <title>04 The Reward For Hard Work Is More Work</title>
+      <description>04 The Reward For Hard Work Is More Work</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C117_04%20The%20Reward%20For%20Hard%20Work%20Is%20More%20Work.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C117_04%20The%20Reward%20For%20Hard%20Work%20Is%20More%20Work.mp3</guid>
+    </item>
+
+    <item>
+      <title>05 LP Aida Ministration</title>
+      <description>05 LP Aida Ministration</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C117_05%20LP%20Aida%20Ministration.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C117_05%20LP%20Aida%20Ministration.mp3</guid>
+    </item>
+
+    <item>
+      <title>06 Recap of The Reward For Hard Work</title>
+      <description>06 Recap of The Reward For Hard Work</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C117_06%20Recap%20of%20The%20Reward%20For%20Hard%20Work.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C117_06%20Recap%20of%20The%20Reward%20For%20Hard%20Work.mp3</guid>
+    </item>
+
+    <item>
+      <title>07 LP Aida Ministration</title>
+      <description>07 LP Aida Ministration</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C117_07%20LP%20Aida%20Ministration.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C117_07%20LP%20Aida%20Ministration.mp3</guid>
+    </item>
+
+    <item>
+      <title>08 The Reward For Hard Work Is More Work (Continuation)</title>
+      <description>08 The Reward For Hard Work Is More Work (Continuation)</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C117_08%20The%20Reward%20For%20Hard%20Work%20Is%20More%20Work%20(Continuation).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C117_08%20The%20Reward%20For%20Hard%20Work%20Is%20More%20Work%20(Continuation).mp3</guid>
+    </item>
+
+    <item>
+      <title>09 LP Aida Ministration</title>
+      <description>09 LP Aida Ministration</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C117_09%20LP%20Aida%20Ministration.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C117_09%20LP%20Aida%20Ministration.mp3</guid>
+    </item>
+
+    <item>
+      <title>10 Recap By Bishop Edwin Ogoe</title>
+      <description>10 Recap By Bishop Edwin Ogoe</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C117_10%20Recap%20By%20Bishop%20Edwin%20Ogoe.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C117_10%20Recap%20By%20Bishop%20Edwin%20Ogoe.mp3</guid>
+    </item>
+
+    <item>
+      <title>11 Can't You Do Just A Little Bit More</title>
+      <description>11 Can't You Do Just A Little Bit More</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C117_11%20Can't%20You%20Do%20Just%20A%20Little%20Bit%20More.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C117_11%20Can't%20You%20Do%20Just%20A%20Little%20Bit%20More.mp3</guid>
+    </item>
+
+    <item>
+      <title>12 LP Aida Ministration</title>
+      <description>12 LP Aida Ministration</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C117_12%20LP%20Aida%20Ministration.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C117_12%20LP%20Aida%20Ministration.mp3</guid>
+    </item>
+
+    <item>
+      <title>13 The Reason Why God Does Not Give Us Other Kinds Of Rewards</title>
+      <description>13 The Reason Why God Does Not Give Us Other Kinds Of Rewards</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C117_13%20The%20Reason%20Why%20God%20Does%20Not%20Give%20Us%20Other%20Kinds%20Of%20Rewards.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C117_13%20The%20Reason%20Why%20God%20Does%20Not%20Give%20Us%20Other%20Kinds%20Of%20Rewards.mp3</guid>
+    </item>
+
+    <item>
+      <title>14 Recap (Can't You Do Just A Little Bit More)</title>
+      <description>14 Recap (Can't You Do Just A Little Bit More)</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C117_14%20Recap%20(Can't%20You%20Do%20Just%20A%20Little%20Bit%20More).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C117_14%20Recap%20(Can't%20You%20Do%20Just%20A%20Little%20Bit%20More).mp3</guid>
+    </item>
+
+    <item>
+      <title>15 A Version Of The Great Comission Part 1</title>
+      <description>15 A Version Of The Great Comission Part 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C117_15%20A%20Version%20Of%20The%20Great%20Comission%20Part%201.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C117_15%20A%20Version%20Of%20The%20Great%20Comission%20Part%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>16 LP Aida Ministration</title>
+      <description>16 LP Aida Ministration</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C117_16%20LP%20Aida%20Ministration.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C117_16%20LP%20Aida%20Ministration.mp3</guid>
+    </item>
+
+    <item>
+      <title>17 Recap (A Version of The Great Commission)</title>
+      <description>17 Recap (A Version of The Great Commission)</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C117_17%20Recap%20(A%20Version%20of%20The%20Great%20Commission).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C117_17%20Recap%20(A%20Version%20of%20The%20Great%20Commission).mp3</guid>
+    </item>
+
+    <item>
+      <title>18 LP Aida Ministration</title>
+      <description>18 LP Aida Ministration</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C117_18%20LP%20Aida%20Ministration.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C117_18%20LP%20Aida%20Ministration.mp3</guid>
+    </item>
+
+    <item>
+      <title>19 Recap By Bishop Edwin Ogoe</title>
+      <description>19 Recap By Bishop Edwin Ogoe</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C117_19%20Recap%20By%20Bishop%20Edwin%20Ogoe.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C117_19%20Recap%20By%20Bishop%20Edwin%20Ogoe.mp3</guid>
+    </item>
+
+    <item>
+      <title>20 LP Aida Ministration</title>
+      <description>20 LP Aida Ministration</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C117_20%20LP%20Aida%20Ministration.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C117_20%20LP%20Aida%20Ministration.mp3</guid>
+    </item>
+
+    <item>
+      <title>21 A Version of The Great Commission Part 2</title>
+      <description>21 A Version of The Great Commission Part 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C117_21%20A%20Version%20of%20The%20Great%20Commission%20Part%202.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C117_21%20A%20Version%20of%20The%20Great%20Commission%20Part%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>22 Lay No Alternative To God</title>
+      <description>22 Lay No Alternative To God</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C117_22%20Lay%20No%20Alternative%20To%20God.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C117_22%20Lay%20No%20Alternative%20To%20God.mp3</guid>
+    </item>
+
+    <item>
+      <title>23 Declarations</title>
+      <description>23 Declarations</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C117_23%20Declarations.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C117_23%20Declarations.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

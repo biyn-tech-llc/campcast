@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Arise And Shine</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Arise And Shine</description>
+    <googleplay:image href="https://biyn-tech-llc.github.io/campcast/DAG.jpg"/>
+    <language>en-us</language>
+    <link>https://biyn-tech-llc.github.io/campcast/arise_and_shine/</link>
+    <image>
+        <url>
+            https://biyn-tech-llc.github.io/campcast/DAG.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>02. Reasons Why You Must Arise and Shine</title>
+      <description>02. Reasons Why You Must Arise and Shine</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C108_02.%20Reasons%20Why%20You%20Must%20Arise%20and%20Shine.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C108_02.%20Reasons%20Why%20You%20Must%20Arise%20and%20Shine.mp3</guid>
+    </item>
+
+    <item>
+      <title>03. Question and Answer Time</title>
+      <description>03. Question and Answer Time</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C108_03.%20Question%20and%20Answer%20Time.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C108_03.%20Question%20and%20Answer%20Time.mp3</guid>
+    </item>
+
+    <item>
+      <title>04. Song Ministration</title>
+      <description>04. Song Ministration</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C108_04.%20Song%20Ministration.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C108_04.%20Song%20Ministration.mp3</guid>
+    </item>
+
+    <item>
+      <title>04. The Destiny of The Church</title>
+      <description>04. The Destiny of The Church</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C108_04.%20The%20Destiny%20of%20The%20Church.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C108_04.%20The%20Destiny%20of%20The%20Church.mp3</guid>
+    </item>
+
+    <item>
+      <title>05. Keys To Greatness (Many Waters)</title>
+      <description>05. Keys To Greatness (Many Waters)</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C108_05.%20Keys%20To%20Greatness%20(Many%20Waters).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C108_05.%20Keys%20To%20Greatness%20(Many%20Waters).mp3</guid>
+    </item>
+
+    <item>
+      <title>06. Keys To Greatness (The Deep)</title>
+      <description>06. Keys To Greatness (The Deep)</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C108_06.%20Keys%20To%20Greatness%20(The%20Deep).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C108_06.%20Keys%20To%20Greatness%20(The%20Deep).mp3</guid>
+    </item>
+
+    <item>
+      <title>07. Keys To Great (Multitude of Branches)</title>
+      <description>07. Keys To Great (Multitude of Branches)</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C108_07.%20Keys%20To%20Great%20(Multitude%20of%20Branches).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C108_07.%20Keys%20To%20Great%20(Multitude%20of%20Branches).mp3</guid>
+    </item>
+
+  </channel>
+</rss>

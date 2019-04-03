@@ -5,12 +5,12 @@
     <title>Busselization</title>
     <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
     <description>Busselization</description>
-    <googleplay:image href="https://biyn-tech-llc.github.io/campcast/DAG.jpg"/>
+    <googleplay:image href="http://daghewardmillsaudio.org/images/albums/BUSSELISATION.jpg"/>
     <language>en-us</language>
     <link>https://biyn-tech-llc.github.io/campcast/busselization/</link>
     <image>
         <url>
-            https://biyn-tech-llc.github.io/campcast/DAG.jpg
+            http://daghewardmillsaudio.org/images/albums/BUSSELISATION.jpg
         </url>
         <width>192</width>
         <height>144</height>

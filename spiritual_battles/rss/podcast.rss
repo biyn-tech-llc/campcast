@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Spiritual Battles</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Spiritual Battles</description>
+    <googleplay:image href="http://daghewardmillsaudio.org/images/albums/1541042185_SPIRITUAL%20BATTLES.jpg"/>
+    <language>en-us</language>
+    <link>https://biyn-tech-llc.github.io/campcast/spiritual_battles/</link>
+    <image>
+        <url>
+            http://daghewardmillsaudio.org/images/albums/1541042185_SPIRITUAL%20BATTLES.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+  </channel>
+</rss>

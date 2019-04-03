@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Obligations of Christians</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Obligations of Christians</description>
+    <googleplay:image href="https://biyn-tech-llc.github.io/campcast/DAG.jpg"/>
+    <language>en-us</language>
+    <link>https://biyn-tech-llc.github.io/campcast/obligations_of_christians/</link>
+    <image>
+        <url>
+            https://biyn-tech-llc.github.io/campcast/DAG.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>01_Obligations-Prayer by Pastor Frank Opoku</title>
+      <description>01_Obligations-Prayer by Pastor Frank Opoku</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C95_01_Obligations-Prayer%20by%20Pastor%20Frank%20Opoku.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C95_01_Obligations-Prayer%20by%20Pastor%20Frank%20Opoku.mp3</guid>
+    </item>
+
+    <item>
+      <title>02_Obligations-Introduction</title>
+      <description>02_Obligations-Introduction</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C95_02_Obligations-Introduction.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C95_02_Obligations-Introduction.mp3</guid>
+    </item>
+
+    <item>
+      <title>03_Obligations-Obligations of Christians</title>
+      <description>03_Obligations-Obligations of Christians</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C95_03_Obligations-Obligations%20of%20Christians.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C95_03_Obligations-Obligations%20of%20Christians.mp3</guid>
+    </item>
+
+    <item>
+      <title>04_Obligations-Obligations of Christians continued</title>
+      <description>04_Obligations-Obligations of Christians continued</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C95_04_Obligations-Obligations%20of%20Christians%20continued.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C95_04_Obligations-Obligations%20of%20Christians%20continued.mp3</guid>
+    </item>
+
+    <item>
+      <title>05_Obligations-Question and Answers</title>
+      <description>05_Obligations-Question and Answers</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C95_05_Obligations-Question%20and%20Answers.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C95_05_Obligations-Question%20and%20Answers.mp3</guid>
+    </item>
+
+    <item>
+      <title>06_Obligations-Prayer and Recap</title>
+      <description>06_Obligations-Prayer and Recap</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C95_06_Obligations-Prayer%20and%20Recap.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C95_06_Obligations-Prayer%20and%20Recap.mp3</guid>
+    </item>
+
+    <item>
+      <title>07_Obligations-Obligation to be reasonable</title>
+      <description>07_Obligations-Obligation to be reasonable</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C95_07_Obligations-Obligation%20to%20be%20reasonable.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C95_07_Obligations-Obligation%20to%20be%20reasonable.mp3</guid>
+    </item>
+
+    <item>
+      <title>08_Obligations-Obligation to be a Teacher</title>
+      <description>08_Obligations-Obligation to be a Teacher</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C95_08_Obligations-Obligation%20to%20be%20a%20Teacher.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C95_08_Obligations-Obligation%20to%20be%20a%20Teacher.mp3</guid>
+    </item>
+
+    <item>
+      <title>09_Obligations-Obligation to travel into the world to preach the Gospel</title>
+      <description>09_Obligations-Obligation to travel into the world to preach the Gospel</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C95_09_Obligations-Obligation%20to%20travel%20into%20the%20world%20to%20preach%20the%20Gospel.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C95_09_Obligations-Obligation%20to%20travel%20into%20the%20world%20to%20preach%20the%20Gospel.mp3</guid>
+    </item>
+
+    <item>
+      <title>10_Obligations-Obligation to be a Witness</title>
+      <description>10_Obligations-Obligation to be a Witness</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C95_10_Obligations-Obligation%20to%20be%20a%20Witness.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C95_10_Obligations-Obligation%20to%20be%20a%20Witness.mp3</guid>
+    </item>
+
+    <item>
+      <title>11_Obligations-Prayer and Recap</title>
+      <description>11_Obligations-Prayer and Recap</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C95_11_Obligations-Prayer%20and%20Recap.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C95_11_Obligations-Prayer%20and%20Recap.mp3</guid>
+    </item>
+
+    <item>
+      <title>12_Obligations-Obligation to be a Witness continued</title>
+      <description>12_Obligations-Obligation to be a Witness continued</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C95_12_Obligations-Obligation%20to%20be%20a%20Witness%20continued.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C95_12_Obligations-Obligation%20to%20be%20a%20Witness%20continued.mp3</guid>
+    </item>
+
+    <item>
+      <title>13_Obligations-100 Things to Say as a Witness of Jesus Christ</title>
+      <description>13_Obligations-100 Things to Say as a Witness of Jesus Christ</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C95_13_Obligations-100%20Things%20to%20Say%20as%20a%20Witness%20of%20Jesus%20Christ.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C95_13_Obligations-100%20Things%20to%20Say%20as%20a%20Witness%20of%20Jesus%20Christ.mp3</guid>
+    </item>
+
+    <item>
+      <title>14_Obligations-100 Things to Say as a Witness of Jesus Christ continued</title>
+      <description>14_Obligations-100 Things to Say as a Witness of Jesus Christ continued</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C95_14_Obligations-100%20Things%20to%20Say%20as%20a%20Witness%20of%20Jesus%20Christ%20continued.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C95_14_Obligations-100%20Things%20to%20Say%20as%20a%20Witness%20of%20Jesus%20Christ%20continued.mp3</guid>
+    </item>
+
+    <item>
+      <title>15 How To Fulfil Your Ministry Through The Mission Continued</title>
+      <description>15 How To Fulfil Your Ministry Through The Mission Continued</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C95_15%20How%20To%20Fulfil%20Your%20Ministry%20Through%20The%20Mission%20Continued.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C95_15%20How%20To%20Fulfil%20Your%20Ministry%20Through%20The%20Mission%20Continued.mp3</guid>
+    </item>
+
+    <item>
+      <title>15_Obligations-100 Things to Say as a Witness of Jesus Christ 3</title>
+      <description>15_Obligations-100 Things to Say as a Witness of Jesus Christ 3</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C95_15_Obligations-100%20Things%20to%20Say%20as%20a%20Witness%20of%20Jesus%20Christ%203.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C95_15_Obligations-100%20Things%20to%20Say%20as%20a%20Witness%20of%20Jesus%20Christ%203.mp3</guid>
+    </item>
+
+    <item>
+      <title>16_Obligations-Visit by ArchBishop Nicholas Duncan-Williams</title>
+      <description>16_Obligations-Visit by ArchBishop Nicholas Duncan-Williams</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C95_16_Obligations-Visit%20by%20ArchBishop%20Nicholas%20Duncan-Williams.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C95_16_Obligations-Visit%20by%20ArchBishop%20Nicholas%20Duncan-Williams.mp3</guid>
+    </item>
+
+    <item>
+      <title>17_Obligations-100 Things to Say as a Witness of Jesus Christ 4- Testimony Time-1</title>
+      <description>17_Obligations-100 Things to Say as a Witness of Jesus Christ 4- Testimony Time-1</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C95_17_Obligations-100%20Things%20to%20Say%20as%20a%20Witness%20of%20Jesus%20Christ%204-%20Testimony%20Time-1.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C95_17_Obligations-100%20Things%20to%20Say%20as%20a%20Witness%20of%20Jesus%20Christ%204-%20Testimony%20Time-1.mp3</guid>
+    </item>
+
+    <item>
+      <title>18_Obligations-100 Things to Say as a Witness of Jesus Christ 5</title>
+      <description>18_Obligations-100 Things to Say as a Witness of Jesus Christ 5</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C95_18_Obligations-100%20Things%20to%20Say%20as%20a%20Witness%20of%20Jesus%20Christ%205.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C95_18_Obligations-100%20Things%20to%20Say%20as%20a%20Witness%20of%20Jesus%20Christ%205.mp3</guid>
+    </item>
+
+    <item>
+      <title>19 How To Fulfil Your Ministry Through Your Office</title>
+      <description>19 How To Fulfil Your Ministry Through Your Office</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C95_19%20How%20To%20Fulfil%20Your%20Ministry%20Through%20Your%20Office.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C95_19%20How%20To%20Fulfil%20Your%20Ministry%20Through%20Your%20Office.mp3</guid>
+    </item>
+
+    <item>
+      <title>19_Obligations-100 Things to Say as a Witness of Jesus Christ 6</title>
+      <description>19_Obligations-100 Things to Say as a Witness of Jesus Christ 6</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C95_19_Obligations-100%20Things%20to%20Say%20as%20a%20Witness%20of%20Jesus%20Christ%206.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C95_19_Obligations-100%20Things%20to%20Say%20as%20a%20Witness%20of%20Jesus%20Christ%206.mp3</guid>
+    </item>
+
+    <item>
+      <title>20 The Blessing of A Good Shepherd</title>
+      <description>20 The Blessing of A Good Shepherd</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C95_20%20The%20Blessing%20of%20A%20Good%20Shepherd.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C95_20%20The%20Blessing%20of%20A%20Good%20Shepherd.mp3</guid>
+    </item>
+
+    <item>
+      <title>20_Obligations-100 Things to Say as a Witness of Jesus Christ 7</title>
+      <description>20_Obligations-100 Things to Say as a Witness of Jesus Christ 7</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C95_20_Obligations-100%20Things%20to%20Say%20as%20a%20Witness%20of%20Jesus%20Christ%207.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C95_20_Obligations-100%20Things%20to%20Say%20as%20a%20Witness%20of%20Jesus%20Christ%207.mp3</guid>
+    </item>
+
+    <item>
+      <title>21_Obligations-100 Things to Say as a Witness of Jesus Christ 8</title>
+      <description>21_Obligations-100 Things to Say as a Witness of Jesus Christ 8</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C95_21_Obligations-100%20Things%20to%20Say%20as%20a%20Witness%20of%20Jesus%20Christ%208.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C95_21_Obligations-100%20Things%20to%20Say%20as%20a%20Witness%20of%20Jesus%20Christ%208.mp3</guid>
+    </item>
+
+    <item>
+      <title>22_Obligations-100 Things to Say as a Witness of Jesus Christ 9</title>
+      <description>22_Obligations-100 Things to Say as a Witness of Jesus Christ 9</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C95_22_Obligations-100%20Things%20to%20Say%20as%20a%20Witness%20of%20Jesus%20Christ%209.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C95_22_Obligations-100%20Things%20to%20Say%20as%20a%20Witness%20of%20Jesus%20Christ%209.mp3</guid>
+    </item>
+
+    <item>
+      <title>23_Obligations-Song Ministrations by Lp Aida</title>
+      <description>23_Obligations-Song Ministrations by Lp Aida</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C95_23_Obligations-Song%20Ministrations%20by%20Lp%20Aida.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C95_23_Obligations-Song%20Ministrations%20by%20Lp%20Aida.mp3</guid>
+    </item>
+
+    <item>
+      <title>24_Obligations-What it means to use Means</title>
+      <description>24_Obligations-What it means to use Means</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C95_24_Obligations-What%20it%20means%20to%20use%20Means.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C95_24_Obligations-What%20it%20means%20to%20use%20Means.mp3</guid>
+    </item>
+
+    <item>
+      <title>25_Obligations-Prayer and Recap by Bishop Edwin Morgan Ogoe</title>
+      <description>25_Obligations-Prayer and Recap by Bishop Edwin Morgan Ogoe</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C95_25_Obligations-Prayer%20and%20Recap%20by%20Bishop%20Edwin%20Morgan%20Ogoe.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C95_25_Obligations-Prayer%20and%20Recap%20by%20Bishop%20Edwin%20Morgan%20Ogoe.mp3</guid>
+    </item>
+
+    <item>
+      <title>26_Obligations-What it means to use Means continued</title>
+      <description>26_Obligations-What it means to use Means continued</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C95_26_Obligations-What%20it%20means%20to%20use%20Means%20continued.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C95_26_Obligations-What%20it%20means%20to%20use%20Means%20continued.mp3</guid>
+    </item>
+
+    <item>
+      <title>27_Obligations-The Life Story of Count Nicholas Ludwig von Zinzendorf</title>
+      <description>27_Obligations-The Life Story of Count Nicholas Ludwig von Zinzendorf</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C95_27_Obligations-The%20Life%20Story%20of%20Count%20Nicholas%20Ludwig%20von%20Zinzendorf.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C95_27_Obligations-The%20Life%20Story%20of%20Count%20Nicholas%20Ludwig%20von%20Zinzendorf.mp3</guid>
+    </item>
+
+    <item>
+      <title>28_Obligations-Prayer and Recap by Bishop Edwin Morgan Ogoe</title>
+      <description>28_Obligations-Prayer and Recap by Bishop Edwin Morgan Ogoe</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C95_28_Obligations-Prayer%20and%20Recap%20by%20Bishop%20Edwin%20Morgan%20Ogoe.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C95_28_Obligations-Prayer%20and%20Recap%20by%20Bishop%20Edwin%20Morgan%20Ogoe.mp3</guid>
+    </item>
+
+    <item>
+      <title>29_Obligations-Prayer for the Spirit of Wisdom</title>
+      <description>29_Obligations-Prayer for the Spirit of Wisdom</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C95_29_Obligations-Prayer%20for%20the%20Spirit%20of%20Wisdom.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C95_29_Obligations-Prayer%20for%20the%20Spirit%20of%20Wisdom.mp3</guid>
+    </item>
+
+  </channel>
+</rss>
