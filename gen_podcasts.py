@@ -219,7 +219,7 @@ body {
   vertical-align: middle;
 }
 /* Responsive layout - makes a four column-layout instead of eight columns */
-@media screen and (max-width: 2000px) {
+@media screen and (max-width: 1800px) {
   .column {
     -ms-flex: 25%; /* IE10 */
     flex: 25%;
@@ -228,7 +228,7 @@ body {
   }
 }
 /* Responsive layout - makes a two column-layout instead of four columns */
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 900px) {
   .column {
     -ms-flex: 50%;
     flex: 50%;
