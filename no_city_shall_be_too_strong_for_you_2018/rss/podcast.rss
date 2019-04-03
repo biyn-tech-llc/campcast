@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>No City Shall Be Too Strong For You 2018</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>No City Shall Be Too Strong For You 2018</description>
+    <googleplay:image href="http://daghewardmillsaudio.org/images/albums/no%20city%20shall%20be%20too%20strong%20for%20you.jpg"/>
+    <language>en-us</language>
+    <link>https://biyn-tech-llc.github.io/campcast/no_city_shall_be_too_strong_for_you_2018/</link>
+    <image>
+        <url>
+            http://daghewardmillsaudio.org/images/albums/no%20city%20shall%20be%20too%20strong%20for%20you.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>01. Master Keys To Maintaining Your Relevance</title>
+      <description>01. Master Keys To Maintaining Your Relevance</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C123_01.%20Master%20Keys%20To%20Maintaining%20Your%20Relevance.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C123_01.%20Master%20Keys%20To%20Maintaining%20Your%20Relevance.mp3</guid>
+    </item>
+
+    <item>
+      <title>02. Recap (Bishop Ogoe)</title>
+      <description>02. Recap (Bishop Ogoe)</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C123_02.%20Recap%20(Bishop%20Ogoe).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C123_02.%20Recap%20(Bishop%20Ogoe).mp3</guid>
+    </item>
+
+    <item>
+      <title>03. Possessing the Land</title>
+      <description>03. Possessing the Land</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C123_03.%20Possessing%20the%20Land.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C123_03.%20Possessing%20the%20Land.mp3</guid>
+    </item>
+
+    <item>
+      <title>04. Recap (Bishop Ogoe)</title>
+      <description>04. Recap (Bishop Ogoe)</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C123_04.%20Recap%20(Bishop%20Ogoe).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C123_04.%20Recap%20(Bishop%20Ogoe).mp3</guid>
+    </item>
+
+    <item>
+      <title>05. The Will Of God Contains The Presence Of God</title>
+      <description>05. The Will Of God Contains The Presence Of God</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C123_05.%20The%20Will%20Of%20God%20Contains%20The%20Presence%20Of%20God.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C123_05.%20The%20Will%20Of%20God%20Contains%20The%20Presence%20Of%20God.mp3</guid>
+    </item>
+
+    <item>
+      <title>06. No City Shall Be Too Strong</title>
+      <description>06. No City Shall Be Too Strong</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C123_06.%20No%20City%20Shall%20Be%20Too%20Strong.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C123_06.%20No%20City%20Shall%20Be%20Too%20Strong.mp3</guid>
+    </item>
+
+    <item>
+      <title>07. Many Are Called (Bishop Ogoe)</title>
+      <description>07. Many Are Called (Bishop Ogoe)</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C123_07.%20Many%20Are%20Called%20(Bishop%20Ogoe).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C123_07.%20Many%20Are%20Called%20(Bishop%20Ogoe).mp3</guid>
+    </item>
+
+    <item>
+      <title>08. Elements of Invasion</title>
+      <description>08. Elements of Invasion</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C123_08.%20Elements%20of%20Invasion.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C123_08.%20Elements%20of%20Invasion.mp3</guid>
+    </item>
+
+    <item>
+      <title>09. Recap (Bishop Ogoe)</title>
+      <description>09. Recap (Bishop Ogoe)</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C123_09.%20Recap%20(Bishop%20Ogoe).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C123_09.%20Recap%20(Bishop%20Ogoe).mp3</guid>
+    </item>
+
+    <item>
+      <title>10. Elements Of Invasion (Part 2)</title>
+      <description>10. Elements Of Invasion (Part 2)</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C123_10.%20Elements%20Of%20Invasion%20(Part%202).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C123_10.%20Elements%20Of%20Invasion%20(Part%202).mp3</guid>
+    </item>
+
+  </channel>
+</rss>

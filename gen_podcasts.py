@@ -52,7 +52,7 @@ camps = [
     ('Do The Work Of An Evangelist', 'C46_'),
     ('I and My Children', 'C47_', 'I%20AND%20THE%20CHILDREN.jpg'),
     ('Missions', 'C48_'),
-    ('The Calling', 'C50_'),
+    ('Moses and Associates', 'C50_'),
     ('Tell Them', 'C51_'),
     ('The Sufferings of Christ', 'C52_'),
     ('The Powers of a Cross', 'C53_', '1504183776_POWERS%20OF%20A%20CROSS.jpg'),
@@ -99,24 +99,25 @@ camps = [
     ('Obligation of Christians', 'C95_', 'Obligation%20_of_Christians.jpg'),
     ('Attempt Great Things', 'C96_'),
     ('Expect Great Things', 'C97_'),
-    ('Controlling The Flesh', 'C98_'),
+    ('Ready At 20', 'C98_'),
     ('Let My People Go', 'C99_'),
     ('Victory In Laodecia', 'C100_', '1503520278_VICTORY%20IN%20LAODICEA.jpg'),
-    ('You Are Supernatural', 'C101_'),
+    ('Stir It Up', 'C101_'),
     ('Where Is The Flock That Was Given Thee?', 'C102_', 'where%20is%20the%20flock%3f.jpg'),
-    ('Why We Must Have A Mega Church', 'C103_'),
-    ('The Destiny of the Church', 'C104_'),
+    ('A Super Mega Church', 'C103_'),
+    ('I Will Multiply Them And They Shall Not Be Few', 'C104_', 'I%20WILL%20MULTIPLY.jpg'),
     ('Army of Hard Followers', 'C105_'),
-    ('Bearing Fruit', 'C106_'),
+    ('A Small One Shall Become A Strong Nation', 'C106_', '1544740349_a%20small%20one%20shall%20become%20a%20strong%20nation.jpg'),
     ('Reasons For The Breakup', 'C107_'),
     ('Arise And Shine', 'C108_'),
-    #('', ''), #109 seems to be an incomplete compilation
+    ('Obligations Of Christian Workers', 'C109_'), 
     ('The Church Must Send Or It Will End', 'C110_'),
     ('No City Shall Be Too Strong For You', 'C111_'),
     ('Neutralize The Curse', 'C112_', 'neutralise.jpg'),
-    ('The Mystery of Our Marriage to God', 'C113_'),
+    ('Zealously Affected', 'C113_'),
     #('', ''), #114 seems to be an incomplete collection
-    ('Everything By Prayer Nothing Without Prayer', 'C115_'),
+    ('Everything By Prayer Nothing Without Prayer', 'C115_', 'Everything%20by%20Prayer%20Nothing%20without%20Prayer.jpg', '2017-08-24'),
+    ('Labour To Be Blessed', 'C115_', 'labour%20to%20be%20blessed.jpg', '2017-10-24'),
     ('Make Yourself a Saviour of Men', 'C116_'),
     ('The Reward For Hard Work Is More Work', 'C117_', 'the%20reward%20for%20hard.jpg'),
     ('No Weeping No Gnashing', 'C118_'),
@@ -124,7 +125,9 @@ camps = [
     ('Twenty-Five To Fifty', 'C120_'),
     ('The Isles Shall Wait For Me', 'C121_'),
     ('Attempt Great Things For God', 'C122_'),
-    ('Life In The Church', 'C124_'),
+    ('And Ye Shall Compass The City', 'C123_', 'and%20ye%20shall.jpg', '2018-10-31.05'),
+    ('No City Shall Be Too Strong For You 2018', 'C123_', 'no%20city%20shall%20be%20too%20strong%20for%20you.jpg', '2018-10-31.07'),
+    #('Life In The Church', 'C124_'), #repeat of C19_
 ]
 FILES_URL="http://daghewardmillsaudio.org/songs/"
 LINK_URL="https://biyn-tech-llc.github.io/campcast/"
@@ -365,7 +368,9 @@ camp_number = 1
 for camp in camps:
     name = camp[0]
     expr = camp[1]
-    cmd = "sed -ne s/^.*href=\"\(" + expr + ".*mp3\)\".*$/\\1/p allsongs.html" 
+    expr2 = '' if len(camp) < 4 else (camp[3] + '.*')
+
+    cmd = "sed -ne s/^.*href=\"\(" + expr + ".*mp3\)\".*" + expr2 + "$/\\1/p allsongs.html" 
     #print cmd
     ssns = subprocess.check_output(cmd.split())
     #print "sessions are: " + ssns

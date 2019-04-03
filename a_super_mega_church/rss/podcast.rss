@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>A Super Mega Church</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>A Super Mega Church</description>
+    <googleplay:image href="http://daghewardmillsaudio.org/images/albums/A%20SUPER%20MEGA%20CHURCH.jpg"/>
+    <language>en-us</language>
+    <link>https://biyn-tech-llc.github.io/campcast/a_super_mega_church/</link>
+    <image>
+        <url>
+            http://daghewardmillsaudio.org/images/albums/A%20SUPER%20MEGA%20CHURCH.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>01. Why We Must Have a Mega Church</title>
+      <description>01. Why We Must Have a Mega Church</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C103_01.%20Why%20We%20Must%20Have%20a%20Mega%20Church.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C103_01.%20Why%20We%20Must%20Have%20a%20Mega%20Church.mp3</guid>
+    </item>
+
+    <item>
+      <title>02. Recap - Bishop Joel</title>
+      <description>02. Recap - Bishop Joel</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C103_02.%20Recap%20-%20Bishop%20Joel.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C103_02.%20Recap%20-%20Bishop%20Joel.mp3</guid>
+    </item>
+
+    <item>
+      <title>03. Master Keys to the Super Mega CHurch__counting</title>
+      <description>03. Master Keys to the Super Mega CHurch__counting</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C103_03.%20Master%20Keys%20to%20the%20Super%20Mega%20CHurch__counting.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C103_03.%20Master%20Keys%20to%20the%20Super%20Mega%20CHurch__counting.mp3</guid>
+    </item>
+
+    <item>
+      <title>04. Recap - Bishop Ogoe</title>
+      <description>04. Recap - Bishop Ogoe</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C103_04.%20Recap%20-%20Bishop%20Ogoe.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C103_04.%20Recap%20-%20Bishop%20Ogoe.mp3</guid>
+    </item>
+
+    <item>
+      <title>05. How we are going to start many churches</title>
+      <description>05. How we are going to start many churches</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C103_05.%20How%20we%20are%20going%20to%20start%20many%20churches.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C103_05.%20How%20we%20are%20going%20to%20start%20many%20churches.mp3</guid>
+    </item>
+
+    <item>
+      <title>06. How to develop Committed members</title>
+      <description>06. How to develop Committed members</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C103_06.%20How%20to%20develop%20Committed%20members.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C103_06.%20How%20to%20develop%20Committed%20members.mp3</guid>
+    </item>
+
+    <item>
+      <title>07. Retention Evangelism</title>
+      <description>07. Retention Evangelism</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C103_07.%20Retention%20Evangelism.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C103_07.%20Retention%20Evangelism.mp3</guid>
+    </item>
+
+    <item>
+      <title>08. Recap - Bishop Ogoe</title>
+      <description>08. Recap - Bishop Ogoe</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C103_08.%20Recap%20-%20Bishop%20Ogoe.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C103_08.%20Recap%20-%20Bishop%20Ogoe.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

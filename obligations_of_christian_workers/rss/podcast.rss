@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Obligations Of Christian Workers</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Obligations Of Christian Workers</description>
+    <googleplay:image href="http://daghewardmillsaudio.org/images/albums/OBLIGATIONS%20OF%20CHRISTIAN%20WORKERS.jpg"/>
+    <language>en-us</language>
+    <link>https://biyn-tech-llc.github.io/campcast/obligations_of_christian_workers/</link>
+    <image>
+        <url>
+            http://daghewardmillsaudio.org/images/albums/OBLIGATIONS%20OF%20CHRISTIAN%20WORKERS.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>6_Building_a_Mega_Church_mp3</title>
+      <description>6_Building_a_Mega_Church_mp3</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C109_6_Building_a_Mega_Church_mp3.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C109_6_Building_a_Mega_Church_mp3.mp3</guid>
+    </item>
+
+    <item>
+      <title>10_What_It_Means_to_Be_a_Good_Shepherd_mp3</title>
+      <description>10_What_It_Means_to_Be_a_Good_Shepherd_mp3</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C109_10_What_It_Means_to_Be_a_Good_Shepherd_mp3.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C109_10_What_It_Means_to_Be_a_Good_Shepherd_mp3.mp3</guid>
+    </item>
+
+    <item>
+      <title>14_The_Mega_Church_Annointing_mp3</title>
+      <description>14_The_Mega_Church_Annointing_mp3</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C109_14_The_Mega_Church_Annointing_mp3.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C109_14_The_Mega_Church_Annointing_mp3.mp3</guid>
+    </item>
+
+    <item>
+      <title>16_The_Art_of_Following_and_Hearing_mp3</title>
+      <description>16_The_Art_of_Following_and_Hearing_mp3</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C109_16_The_Art_of_Following_and_Hearing_mp3.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C109_16_The_Art_of_Following_and_Hearing_mp3.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

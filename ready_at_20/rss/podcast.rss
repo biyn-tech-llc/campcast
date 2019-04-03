@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Ready At 20</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Ready At 20</description>
+    <googleplay:image href="http://daghewardmillsaudio.org/images/albums/READY_AT_20.jpg"/>
+    <language>en-us</language>
+    <link>https://biyn-tech-llc.github.io/campcast/ready_at_20/</link>
+    <image>
+        <url>
+            http://daghewardmillsaudio.org/images/albums/READY_AT_20.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>01 introduction</title>
+      <description>01 introduction</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C98_01%20introduction.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C98_01%20introduction.mp3</guid>
+    </item>
+
+    <item>
+      <title>02 controlling the flesh</title>
+      <description>02 controlling the flesh</description>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C98_02%20controlling%20the%20flesh.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C98_02%20controlling%20the%20flesh.mp3</guid>
+    </item>
+
+  </channel>
+</rss>
