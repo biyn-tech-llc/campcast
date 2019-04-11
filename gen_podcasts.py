@@ -183,129 +183,21 @@ pod_page = '''
 list_page_header = '''
 <!DOCTYPE html>
 <html>
-<style>
-* {
-  box-sizing: border-box;
-}
 
-body {
-  margin: 0;
-  font-family: Arial;
-}
+<head>
+  <meta charset="utf-8">
+  <title>CampCast</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="style/inline.css">
+</head>
 
-.header {
-  text-align: center;
-  padding: 32px;
-}
-
-.row {
-  display: -ms-flexbox; /* IE10 */
-  display: flex;
-  -ms-flex-wrap: wrap; /* IE10 */
-  flex-wrap: wrap;
-  padding: 0 0px;
-}
-
-/* Create four equal columns that sits next to each other */
-.column {
-  -ms-flex: 12.5%; /* IE10 */
-  flex: 12.5%;
-  max-width: 12.5%;
-  padding: 0 0px;
-}
-
-.column img {
-  margin-top: 0px;
-  vertical-align: middle;
-}
-/* Responsive layout - makes a four column-layout instead of eight columns */
-@media screen and (max-width: 1800px) {
-  .column {
-    -ms-flex: 25%; /* IE10 */
-    flex: 25%;
-    max-width: 25%;
-    padding: 0 0px;
-  }
-}
-/* Responsive layout - makes a two column-layout instead of four columns */
-@media screen and (max-width: 900px) {
-  .column {
-    -ms-flex: 50%;
-    flex: 50%;
-    max-width: 50%;
-  }
-}
-
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 500px) {
-  .column {
-    -ms-flex: 100%;
-    flex: 100%;
-    max-width: 100%;
-  }
-}
-
-figure {
-  text-align: center;
-  font-style: italic;
-  font-variant: small-caps;
-  text-indent: 0;
-  border: thin silver solid;
-  margin: 0em;
-  padding: 0.1em;
-  width: 100%;
-}
-img.scaled {
-  width: 100%;
-}
-
-.tooltip {
-  position: relative;
-  display: inline-block;
-}
-
-.tooltip .tooltiptext {
-  visibility: hidden;
-  width: 140px;
-  background-color: #555;
-  color: #fff;
-  text-align: center;
-  border-radius: 6px;
-  padding: 5px;
-  position: absolute;
-  z-index: 1;
-  bottom: 75%;
-  left: 50%;
-  margin-left: -75px;
-  opacity: 0;
-  transition: opacity 0.3s;
-  font-variant: normal;
-}
-
-.tooltip .tooltiptext::after {
-  content: "";
-  position: absolute;
-  top: 100%;
-  left: 50%;
-  margin-left: -5px;
-  border-width: 5px;
-  border-style: solid;
-  border-color: #555 transparent transparent transparent;
-}
-
-.tooltip:hover .tooltiptext {
-  visibility: visible;
-  opacity: 1;
-}
-
-</style>
 <body>
 
 <!-- Header -->
-<div class="header">
-  <h1>The Camps below may be played with your podcast app - <i>if it accepts RSS feeds directly</i></h1>
-  <p>Click on a camp to copy its RSS feed into the clipboard. Then paste the link into your podcast application.</p>
-  <p>Most podcast players have this feature - including iTunes podcast, Podcast Addict, etc. <i>Google Play Music and Google Podcasts do not.</i></p>
+<header class="header">
+  <h1 class="header__title">Camp Cast</h1>
+  <p>Click on a camp thumbnail picture to copy its RSS feed. Then paste RSS feed into your podcast application to subscribe.</p>
+  <p>Most podcast players subscribe to RSS feed directly - including iTunes podcast, Podcast Addict, etc. <i>Google Play Music and Google Podcasts do not.</i></p>
   <p><a href="https://medium.com/@joshmuccio/how-to-manually-add-a-rss-feed-to-your-podcast-app-on-desktop-ios-android-478d197a3770">This article has help</a> for adding RSS links to many podcast apps.</p>
 </div>
 
@@ -316,44 +208,7 @@ img.scaled {
 list_page_footer = '''
 </div>
 
-<script>
-function fallbackCopyTextToClipboard(text) {
-  var textArea = document.createElement("textarea");
-  textArea.value = text;
-  document.body.appendChild(textArea);
-  textArea.focus();
-  textArea.select();
-
-  try {
-    var successful = document.execCommand('copy');
-    var msg = successful ? 'successful' : 'unsuccessful';
-    console.log('Fallback: Copying text command was ' + msg);
-  } catch (err) {
-    console.error('Fallback: Oops, unable to copy', err);
-  }
-
-  document.body.removeChild(textArea);
-}
-function copyTextToClipboard(text, element_id) {
-  var tooltip = document.getElementById(element_id);
-  tooltip.innerHtml = "Copied: " + text;
-  
-  if (!navigator.clipboard) {
-    fallbackCopyTextToClipboard(text);
-    return;
-  }
-  navigator.clipboard.writeText(text).then(function() {
-    console.log('Async: Copying to clipboard was successful!');
-  }, function(err) {
-    console.error('Async: Could not copy text: ', err);
-  });
-}
-
-function mouseOut(element_id) {
-  var tooltip = document.getElementById(element_id)
-  tooltip.innerHtml = "Click image to copy RSS feed to clipboard"
-}
-</script>
+<script src="methods.js"></script>
 
 </body>
 </html>
