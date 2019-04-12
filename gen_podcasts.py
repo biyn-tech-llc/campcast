@@ -199,7 +199,7 @@ list_page_header = '''
   <p>Click on a camp thumbnail picture to copy its RSS feed. Then paste RSS feed into your podcast application to subscribe.</p>
   <p>Most podcast players subscribe to RSS feed directly - including iTunes podcast, Podcast Addict, etc. <i>Google Play Music and Google Podcasts do not.</i></p>
   <p><a href="https://medium.com/@joshmuccio/how-to-manually-add-a-rss-feed-to-your-podcast-app-on-desktop-ios-android-478d197a3770">This article has help</a> for adding RSS links to many podcast apps.</p>
-</div>
+</header>
 
 <!-- Photo Grid -->
 <div class="row"> 
