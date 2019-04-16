@@ -30,13 +30,15 @@ function fallbackCopyTextToClipboard(text) {
   }
 
   document.body.removeChild(textArea);
+  var tooltip = document.getElementById(element_id);
+  tooltip.innerHtml = "Copied: " + text;
 }
 function copyTextToClipboard(text, element_id) {
   var tooltip = document.getElementById(element_id);
   tooltip.innerHtml = "Copied: " + text;
   
   //if (!navigator.clipboard) {
-    fallbackCopyTextToClipboard(text);
+    fallbackCopyTextToClipboard(text, element_id);
     return;
   //}
   navigator.clipboard.writeText(text).then(function() {

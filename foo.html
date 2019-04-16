@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>CampCast</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="style/inline.css">
+
+  <link rel="manifest" href="manifest.xml">
+</head>
+
+<div class="row"> 
+  <div class="column">
+
+    <figure class="tooltip" onclick="copyTextToClipboard('https://biyn-tech-llc.github.io/campcast/building_a_multiple_mega_church/rss/podcast.rss', 'building_a_multiple_mega_church')" onmouseout="mouseOut('building_a_multiple_mega_church')" id="bmmc">
+      <span class="tooltiptext" id="building_a_multiple_mega_church">Click image to copy RSS feed to clipboard</span>
+      <img class=scaled src="http://daghewardmillsaudio.org/images/albums/BUILDING%20A%20MULTIPLE%20MEGACHURCH.jpg" style="width:100%">
+      <figcaption>Building a Multiple Mega Church</figcaption>
+    </figure>
+  </div>
+</div>
+<script src="long-press-event-master/src/long-press-event.js"></script>
+
+<script>
+    document.getElementById('bmmc').addEventListener('long-press', function(e){
+
+        window.open('https://biyn-tech-llc.github.io/campcast/building_a_multiple_mega_church/rss/podcast.rss');
+});
+</script>
+</html>

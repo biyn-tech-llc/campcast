@@ -189,6 +189,8 @@ list_page_header = '''
   <title>CampCast</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" type="text/css" href="style/inline.css">
+
+  <link rel="manifest" href="manifest.xml">
 </head>
 
 <body>
