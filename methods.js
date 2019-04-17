@@ -46,7 +46,7 @@ function copyTextToClipboard(text, element_id) {
 var timeout;
 function mouseOut(element_id) {
     clearTimeout(timeout);
-    $('[data-toggle="tooltip"]').tooltip('toggle')
+    $('[data-toggle="tooltip"]').tooltip('destroy')
 }
 
 $(document).ready(function(){
