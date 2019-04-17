@@ -44,12 +44,12 @@ function copyTextToClipboard(text, element_id) {
 }
 
 function mouseOut(element_id) {
-    $('[data-toggle="tooltip"]').tooltip('hide')
+    $('[data-toggle="tooltip"]').tooltip('dispose')
 }
 
 $(document).ready(function(){
     $('[data-toggle="tooltip"]').tooltip({title: 'Copied RSS feed. Go paste it into your podcast app', trigger: 'click'})
     setTimeout(function(){
-        $('[data-toggle="tooltip"]').tooltip('hide')
-    }, 2000);
+        $('[data-toggle="tooltip"]').tooltip('dispose')
+    }, 3000);
 });
