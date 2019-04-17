@@ -1,4 +1,4 @@
-function fallbackCopyTextToClipboard(text) {
+function fallbackCopyTextToClipboard(text, element_id) {
   var textArea = document.createElement("textarea");
   textArea.value = text;
   document.body.appendChild(textArea);
@@ -32,6 +32,7 @@ function fallbackCopyTextToClipboard(text) {
   document.body.removeChild(textArea);
   var tooltip = document.getElementById(element_id);
   tooltip.innerHtml = "Copied: " + text;
+  window.open('text');
 }
 function copyTextToClipboard(text, element_id) {
   var tooltip = document.getElementById(element_id);
