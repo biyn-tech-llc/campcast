@@ -30,14 +30,8 @@ function fallbackCopyTextToClipboard(text, element_id) {
   }
 
   document.body.removeChild(textArea);
-  var tooltip = document.getElementById(element_id);
-  tooltip.innerHtml = "Copied: " + text;
-  //window.open(text);
 }
 function copyTextToClipboard(text, element_id) {
-  var tooltip = document.getElementById(element_id);
-  tooltip.innerHtml = "Copied: " + text;
-  
   //if (!navigator.clipboard) {
     fallbackCopyTextToClipboard(text, element_id);
     return;
@@ -50,12 +44,10 @@ function copyTextToClipboard(text, element_id) {
 }
 
 function mouseOut(element_id) {
-  var tooltip = document.getElementById(element_id)
-  tooltip.innerHtml = "Click image to copy RSS feed to clipboard"
+    $('[data-toggle="tooltip"]').tooltip('hide')
 }
 
 $(document).ready(function(){
-    //$('[data-toggle="tooltip"]').tooltip('hide')
     $('[data-toggle="tooltip"]').tooltip({title: 'Copied RSS feed. Go paste it into your podcast app', trigger: 'click'})
     setTimeout(function(){
         $('[data-toggle="tooltip"]').tooltip('hide')
