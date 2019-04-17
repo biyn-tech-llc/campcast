@@ -32,7 +32,7 @@ function fallbackCopyTextToClipboard(text, element_id) {
   document.body.removeChild(textArea);
   var tooltip = document.getElementById(element_id);
   tooltip.innerHtml = "Copied: " + text;
-  window.open(text);
+  //window.open(text);
 }
 function copyTextToClipboard(text, element_id) {
   var tooltip = document.getElementById(element_id);
