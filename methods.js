@@ -34,6 +34,7 @@ function fallbackCopyTextToClipboard(text, element_id) {
 function copyTextToClipboard(text, element_id) {
   //if (!navigator.clipboard) {
     fallbackCopyTextToClipboard(text, element_id);
+    $('#element_id').tooltip('show')
     return;
   //}
   navigator.clipboard.writeText(text).then(function() {
@@ -45,12 +46,12 @@ function copyTextToClipboard(text, element_id) {
 
 var timeout;
 function mouseOut(element_id) {
-    clearTimeout(timeout);
-    $('[data-toggle="tooltip"]').tooltip('destroy')
+//    clearTimeout(timeout);
+    $('#element_id').tooltip('hide')
 }
 
-$(document).ready(function(){
-    $('[data-toggle="tooltip"]').tooltip({title: 'Copied RSS feed. Go paste it into your podcast app', trigger: 'click'})
+//$(document).ready(function(){
+//    $('[data-toggle="tooltip"]').tooltip({title: 'Copied RSS feed. Go paste it into your podcast app', trigger: 'click'})
 
     //timeout = setTimeout(function(){ $('[data-toggle="tooltip"]').tooltip('hide') }, 3000);
-});
+//});

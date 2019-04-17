@@ -223,7 +223,7 @@ column_f = '''  </div>
 '''
 
 fig = '''
-    <figure data-toggle="tooltip" onclick="copyTextToClipboard('___PODCASTRSS___', '___CAMPID___')" onmouseout="mouseOut('___CAMPID___')">
+    <figure data-toggle="tooltip" id="___CAMPID___" onclick="copyTextToClipboard('___PODCASTRSS___', '___CAMPID___')" onmouseout="mouseOut('___CAMPID___')">
       <img class=scaled src="___IMAGE___" style="width:100%">
       <figcaption>___TITLE___</figcaption>
     </figure>
