@@ -221,8 +221,7 @@ column_f = '''  </div>
 '''
 
 fig = '''
-    <figure class="tooltip" onclick="copyTextToClipboard('___PODCASTRSS___', '___CAMPID___')" onmouseout="mouseOut('___CAMPID___')">
-      <span class="tooltiptext" id="___CAMPID___">Click image to copy RSS feed to clipboard</span>
+    <figure data-toggle="tooltip" onclick="copyTextToClipboard('___PODCASTRSS___', '___CAMPID___')" onmouseout="mouseOut('___CAMPID___')">
       <img class=scaled src="___IMAGE___" style="width:100%">
       <figcaption>___TITLE___</figcaption>
     </figure>
