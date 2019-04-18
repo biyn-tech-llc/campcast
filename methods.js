@@ -34,7 +34,9 @@ function fallbackCopyTextToClipboard(text, element_id) {
 function copyTextToClipboard(text, element_id) {
   //if (!navigator.clipboard) {
     fallbackCopyTextToClipboard(text, element_id);
-    $('#element_id').tooltip({title: 'Copied RSS feed. Go paste it into your podcast app'})
+    $('#element_id').tooltip({title: 'Copied RSS feed. Go paste it into your podcast app', trigger: 'manual', placement: 'top'})
+    $('#element_id').tooltip('show');
+    setTimeout(function(){$('#element_id').tooltip('hide')}, 3000);
     return;
   //}
   navigator.clipboard.writeText(text).then(function() {
