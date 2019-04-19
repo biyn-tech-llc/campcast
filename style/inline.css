@@ -37,12 +37,16 @@ body {
   flex-wrap: wrap;
   padding: 0 0px;
 }
-.container:before,
-container:after,
-.row:after,
-.row:before{
-    content: normal;
-}
+
+.row {
+    &:before {
+        content: none;
+    }
+
+    &:after {
+        content: '';
+    }
+} 
 
 /* Create four equal columns that sits next to each other */
 .column {
