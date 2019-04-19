@@ -4,9 +4,12 @@ function fallbackCopyTextToClipboard(text, element_id) {
   document.body.appendChild(textArea);
   
   if (navigator.userAgent.match(/ipad|ipod|iphone/i)) {
-    textArea.addEventListener("click", function(event){
-     event.preventDefault()
-    });
+    textArea.style.opacity = '0';
+    textArea.style.zIndex = "-1";
+    textArea.style.right = "0px";
+    textArea.style.height = "1px";
+    textArea.style.width = "1px";
+    textArea.style.pointerEvents = "none";
     textArea.contentEditable = true;
     textArea.readOnly = false;
     // create a selectable range
