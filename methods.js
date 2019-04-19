@@ -40,9 +40,6 @@ function fallbackCopyTextToClipboard(text, element_id) {
 
 var timeout;
 function copyTextToClipboard(text, element_id) {
-    this.addEventListener("click", function(event){
-      event.preventDefault()
-    });
   //if (!navigator.clipboard) {
     fallbackCopyTextToClipboard(text, element_id);
     console.log($('#' + element_id).length + ' elements found');
@@ -50,12 +47,12 @@ function copyTextToClipboard(text, element_id) {
     $('#' + element_id).tooltip('show');
     timeout = setTimeout(function(){$('#' + element_id).tooltip('hide')}, 3000);
     return;
-  //}
-  navigator.clipboard.writeText(text).then(function() {
-    console.log('Async: Copying to clipboard was successful!');
-  }, function(err) {
-    console.error('Async: Could not copy text: ', err);
-  });
+//  }
+//  navigator.clipboard.writeText(text).then(function() {
+//    console.log('Async: Copying to clipboard was successful!');
+//  }, function(err) {
+//    console.error('Async: Could not copy text: ', err);
+//  });
 }
 
 function mouseOut(element_id) {
