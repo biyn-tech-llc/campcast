@@ -41,6 +41,7 @@ function fallbackCopyTextToClipboard(text, element_id) {
 var timeout;
 function copyTextToClipboard(text, element_id) {
   //if (!navigator.clipboard) {
+    clearTimeout(timeout);
     fallbackCopyTextToClipboard(text, element_id);
     console.log($('#' + element_id).length + ' elements found');
     $('#' + element_id).tooltip({title: 'Copied RSS feed. Go paste it into your podcast app', trigger: 'manual', placement: 'top'})
