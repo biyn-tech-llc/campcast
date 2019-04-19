@@ -34,6 +34,8 @@ function fallbackCopyTextToClipboard(text, element_id) {
 
   document.body.removeChild(textArea);
 }
+
+var timeout;
 function copyTextToClipboard(text, element_id) {
     this.addEventListener("click", function(event){
       event.preventDefault()
@@ -43,7 +45,7 @@ function copyTextToClipboard(text, element_id) {
     console.log($('#' + element_id).length + ' elements found');
     $('#' + element_id).tooltip({title: 'Copied RSS feed. Go paste it into your podcast app', trigger: 'manual', placement: 'top'})
     $('#' + element_id).tooltip('show');
-    setTimeout(function(){$('#' + element_id).tooltip('hide')}, 3000);
+    timeout = setTimeout(function(){$('#' + element_id).tooltip('hide')}, 3000);
     return;
   //}
   navigator.clipboard.writeText(text).then(function() {
@@ -53,9 +55,8 @@ function copyTextToClipboard(text, element_id) {
   });
 }
 
-var timeout;
 function mouseOut(element_id) {
-//    clearTimeout(timeout);
+    clearTimeout(timeout);
     $('#' + element_id).tooltip('hide')
 }
 
