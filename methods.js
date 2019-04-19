@@ -40,6 +40,7 @@ function fallbackCopyTextToClipboard(text, element_id) {
 
 var timeout;
 function copyTextToClipboard(text, element_id) {
+    clearTimeout(timeout);
   //if (!navigator.clipboard) {
     fallbackCopyTextToClipboard(text, element_id);
     console.log($('#' + element_id).length + ' elements found');
