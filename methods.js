@@ -4,6 +4,9 @@ function fallbackCopyTextToClipboard(text, element_id) {
   document.body.appendChild(textArea);
   
   if (navigator.userAgent.match(/ipad|ipod|iphone/i)) {
+    textArea.addEventListener("click", function(event){
+     event.preventDefault()
+    });
     textArea.contentEditable = true;
     textArea.readOnly = false;
     // create a selectable range
