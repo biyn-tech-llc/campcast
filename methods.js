@@ -35,6 +35,9 @@ function fallbackCopyTextToClipboard(text, element_id) {
   document.body.removeChild(textArea);
 }
 function copyTextToClipboard(text, element_id) {
+    this.addEventListener("click", function(event){
+      event.preventDefault()
+    });
   //if (!navigator.clipboard) {
     fallbackCopyTextToClipboard(text, element_id);
     console.log($('#' + element_id).length + ' elements found');
