@@ -27,6 +27,10 @@ body {
           flex: 1; 
 }
 
+.row:after, .row:before{
+    display: none
+}
+
 .row {
   display: -ms-flexbox; /* IE10 */
   display: flex;
