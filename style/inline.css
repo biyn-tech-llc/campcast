@@ -38,7 +38,7 @@ body {
   padding: 0 0px;
 }
 
-.row {
+.row, .column {
     &:before {
         content: none;
     }
