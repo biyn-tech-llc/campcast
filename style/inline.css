@@ -28,7 +28,7 @@ body {
 }
 
 .row:after, .row:before{
-    display: none
+    content: normal;
 }
 
 .row {
