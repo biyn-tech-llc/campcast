@@ -200,8 +200,9 @@ list_page_header = '''
 <!-- Header -->
 <header class="header">
   <h1 class="header__title">Camp Cast</h1>
-  <p>Click on a camp thumbnail picture to copy its RSS feed. Then paste RSS feed into your podcast application to subscribe.</p>
-  <p>Most podcast players subscribe to RSS feed directly - including iTunes podcast, Podcast Addict, etc. <i>Google Play Music and Google Podcasts do not.</i></p>
+  <p>Click or tap on a camp thumbnail picture to copy RSS feed, then paste it into your podcast app to subscribe.</p>
+  <p>Add this page to your home screen for easy access in the future.</p>
+  <p>Most podcast players subscribe to RSS feed directly - iTunes podcast, Podcast Addict, etc. <i>Google Podcasts products do not.</i></p>
   <p><a href="https://medium.com/@joshmuccio/how-to-manually-add-a-rss-feed-to-your-podcast-app-on-desktop-ios-android-478d197a3770">This article has help</a> for adding RSS links to many podcast apps.</p>
 </header>
 
