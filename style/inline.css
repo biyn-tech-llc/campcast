@@ -5,6 +5,7 @@
 body {
   margin: 0;
   font-family: Arial;
+  width: calc(100vw - (100vw - 100%));
 }
 
 .header {
