@@ -186,7 +186,7 @@ list_page_header = '''
 
 <head>
   <meta charset="utf-8">
-  <title>CampCast</title>
+  <title>MachanehCast</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" type="text/css" href="style/inline.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
@@ -217,7 +217,7 @@ list_page_header = '''
 
 <!-- Header -->
 <header class="header">
-  <h1 class="header__title"><b>CampCast</b><i> - The Machaneh Directory</i></h1>
+  <h1 class="header__title"><b>MachanehCast</b><i> - The Machaneh Podcast Directory</i></h1>
   <p>Click or tap on a camp thumbnail picture to copy RSS feed, then paste it into your podcast app to subscribe.</p>
   <p>Add this page to your home screen for easy access in the future.</p>
   <p>Most podcast players subscribe to RSS feed directly - iTunes podcast, Podcast Addict, etc. <i>Google Podcasts products do not.</i></p>
