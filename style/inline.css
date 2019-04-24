@@ -37,7 +37,7 @@ body {
   flex-wrap: wrap;
   padding: 0 0px;
   left: 0px;
-  width: 100vw;
+  //width: 100vw;
 }
 
 .row:before, .row:after{
