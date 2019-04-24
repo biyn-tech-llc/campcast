@@ -225,7 +225,7 @@ list_page_header = '''
 </header>
 
 <!-- Photo Grid -->
-<div class="row"> 
+<div class="imgrow"> 
 '''
 
 list_page_footer = '''
@@ -236,7 +236,7 @@ list_page_footer = '''
 </body>
 </html>
 '''
-column_h = '''  <div class="column">
+column_h = '''  <div class="imgcolumn">
 '''
 column_f = '''  </div>
 '''
