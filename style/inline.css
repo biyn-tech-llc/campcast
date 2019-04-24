@@ -44,10 +44,10 @@ body {
 
 /* Create four equal columns that sits next to each other */
 .column {
-  -webkit-flex: calc(12.5 - 0.1375em)%;
+  -webkit-flex: calc(12.5% - 0.1375em);
   -ms-flex: calc(12.5% - 0.1375em); /* IE10 */
   flex: calc(12.5% - 0.1375em);
-  max-width: calc(12.5 - 0.1375em)%;
+  max-width: calc(12.5% - 0.1375em);
   padding: 0 0px;
 }
 
