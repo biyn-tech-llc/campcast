@@ -281,7 +281,7 @@ for camp in camps:
     podcast = pod_header.replace('___TITLE___', name) \
                 .replace('___LINK___', LINK_URL + folder) \
                 .replace('___IMAGE___', image)
-    tracknum = 1
+    tracknum = 1000
     for ssn in ssns.split():
         #print FILES_URL + ssn
         ssnTitle = ssn.split('.mp3')[0].split(expr)[1].replace('%20', ' ')
@@ -290,7 +290,7 @@ for camp in camps:
             .replace('___TRACKORDER___', time.strftime('%M:%S', time.gmtime(tracknum)))
         #print epis
         podcast += epis
-        tracknum += 1
+        tracknum -= 1
 
     podcast += pod_footer
     #print podcast
