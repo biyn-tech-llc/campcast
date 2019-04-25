@@ -4,6 +4,7 @@ import subprocess
 import os
 import re
 import requests
+import time
 
 camps = [
     ('Building a Multiple Mega Church', 'C1_'),
@@ -136,7 +137,7 @@ episode = '''
     <item>
       <title>___EPISODE___</title>
       <description>___EPISODE___</description>
-      <pubDate>Tue, 26 Mar 2019 12:00:00 GMT</pubDate>
+      <pubDate>Tue, 26 Mar 2019 12:___TRACKORDER___ GMT</pubDate>
       <enclosure url="___URL___"
                  type="audio/mpeg"/>
       <!--itunes:duration>30:00</itunes:duration-->
@@ -280,12 +281,16 @@ for camp in camps:
     podcast = pod_header.replace('___TITLE___', name) \
                 .replace('___LINK___', LINK_URL + folder) \
                 .replace('___IMAGE___', image)
+    tracknum = 1
     for ssn in ssns.split():
         #print FILES_URL + ssn
         ssnTitle = ssn.split('.mp3')[0].split(expr)[1].replace('%20', ' ')
-        epis = episode.replace('___URL___', FILES_URL + ssn).replace('___EPISODE___', ssnTitle)
+        epis = episode.replace('___URL___', FILES_URL + ssn) \
+            .replace('___EPISODE___', ssnTitle) \
+            .replace('___TRACKORDER___', time.strftime('%M:%S', time.gmtime(tracknum)))
         #print epis
         podcast += epis
+        tracknum += 1
 
     podcast += pod_footer
     #print podcast
