@@ -255,7 +255,7 @@ max_cols = 8
 col_len = len(camps) / max_cols + (1 if len(camps) % max_cols else 0)
 list_page = list_page_header
 camp_number = 1
-basewidth = 360
+basewidth = 420
 for camp in camps:
     name = camp[0]
     expr = camp[1]
@@ -265,7 +265,8 @@ for camp in camps:
     #print cmd
     ssns = subprocess.check_output(cmd.split())
     #print "sessions are: " + ssns
-    image_file = 'DAG.jpg'
+    #image_file = 'DAG.jpg'
+    response = None
     image = LINK_URL + 'DAG.jpg'
     if len(camp) >= 3:
         image_file = camp[2]
