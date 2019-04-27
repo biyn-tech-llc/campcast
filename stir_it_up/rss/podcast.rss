@@ -5,12 +5,12 @@
     <title>Stir It Up</title>
     <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
     <description>Stir It Up</description>
-    <googleplay:image href="http://daghewardmillsaudio.org/images/albums/STIR_IT_UP.jpg"/>
+    <googleplay:image href="https://www.machanehcast.com/stir_it_up/STIR_IT_UP.jpg"/>
     <language>en-us</language>
-    <link>https://biyn-tech-llc.github.io/campcast/stir_it_up/</link>
+    <link>https://www.machanehcast.com/stir_it_up/</link>
     <image>
         <url>
-            http://daghewardmillsaudio.org/images/albums/STIR_IT_UP.jpg
+            https://www.machanehcast.com/stir_it_up/STIR_IT_UP.jpg
         </url>
         <width>192</width>
         <height>144</height>

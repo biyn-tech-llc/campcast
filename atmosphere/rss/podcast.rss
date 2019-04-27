@@ -5,12 +5,12 @@
     <title>Atmosphere</title>
     <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
     <description>Atmosphere</description>
-    <googleplay:image href="http://daghewardmillsaudio.org/images/albums/atmosphere.jpg"/>
+    <googleplay:image href="https://www.machanehcast.com/atmosphere/atmosphere.jpg"/>
     <language>en-us</language>
-    <link>https://biyn-tech-llc.github.io/campcast/atmosphere/</link>
+    <link>https://www.machanehcast.com/atmosphere/</link>
     <image>
         <url>
-            http://daghewardmillsaudio.org/images/albums/atmosphere.jpg
+            https://www.machanehcast.com/atmosphere/atmosphere.jpg
         </url>
         <width>192</width>
         <height>144</height>

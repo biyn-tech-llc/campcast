@@ -5,6 +5,9 @@ import os
 import re
 import requests
 import time
+from PIL import Image
+from io import BytesIO
+
 
 camps = [
     ('Building a Multiple Mega Church', 'C1_'),
@@ -131,7 +134,7 @@ camps = [
     #('Life In The Church', 'C124_'), #repeat of C19_
 ]
 FILES_URL="http://daghewardmillsaudio.org/songs/"
-LINK_URL="https://biyn-tech-llc.github.io/campcast/"
+LINK_URL="https://www.machanehcast.com/"
 IMAGES_URL="http://daghewardmillsaudio.org/images/albums/"
 episode = '''
     <item>
@@ -252,6 +255,7 @@ max_cols = 8
 col_len = len(camps) / max_cols + (1 if len(camps) % max_cols else 0)
 list_page = list_page_header
 camp_number = 1
+basewidth = 360
 for camp in camps:
     name = camp[0]
     expr = camp[1]
@@ -263,7 +267,9 @@ for camp in camps:
     #print "sessions are: " + ssns
     image = LINK_URL + 'DAG.jpg'
     if len(camp) >= 3:
-        image = IMAGES_URL + camp[2]
+        image_file = camp[2]
+        image = IMAGES_URL + image_file
+        response = requests.get(image)
     else:
         cmd = "grep -i -m 1 " + name.replace(' ', '.*') + " images.html"
         try:
@@ -271,13 +277,24 @@ for camp in camps:
             image_file = re.search(r'(?<=href=").*jpg(?=">)', image_line).group(0)
             image = IMAGES_URL + image_file
             #print image
-            if requests.get(image).status_code != 200:
+            response = requests.get(image)
+            if response.status_code != 200:
                 image = LINK_URL + 'DAG.jpg'
         except subprocess.CalledProcessError, e:
             print str(e) 
 
     cmd = "sed -ne s/^.*href=\"\(" + expr + ".*jpg\).*$/\\1/p allsongs.html" 
     folder = name.lower().replace(' ', '_').replace("'","").replace('?', '')
+
+    if response and response.status_code == 200:
+        img = Image.open(BytesIO(response.content))
+        wpercent = (basewidth/float(img.size[0]))
+        hsize = int((float(img.size[1])*float(wpercent)))
+        img = img.resize((basewidth,hsize), Image.ANTIALIAS)
+        image_path = os.path.join(folder, image_file)
+        img.save(image_path)
+        image = LINK_URL + image_path   
+
     podcast = pod_header.replace('___TITLE___', name) \
                 .replace('___LINK___', LINK_URL + folder) \
                 .replace('___IMAGE___', image)
