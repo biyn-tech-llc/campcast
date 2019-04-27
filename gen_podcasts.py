@@ -265,6 +265,7 @@ for camp in camps:
     #print cmd
     ssns = subprocess.check_output(cmd.split())
     #print "sessions are: " + ssns
+    image_file = 'DAG.jpg'
     image = LINK_URL + 'DAG.jpg'
     if len(camp) >= 3:
         image_file = camp[2]
