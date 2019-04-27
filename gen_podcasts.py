@@ -291,7 +291,7 @@ for camp in camps:
         wpercent = (basewidth/float(img.size[0]))
         hsize = int((float(img.size[1])*float(wpercent)))
         img = img.resize((basewidth,hsize), Image.ANTIALIAS)
-        image_path = os.path.join(folder, image_file)
+        image_path = os.path.join(folder, image_file).replace('%20', '_')
         img.save(image_path)
         image = LINK_URL + image_path   
 
