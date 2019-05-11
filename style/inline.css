@@ -18,11 +18,12 @@ body {
   padding: 12px;
   color: white;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 24px;
 }
 
 .navibar a:hover {
   background-color: #000;
+  text-decoration: none;
 }
 
 .active {
@@ -35,11 +36,11 @@ body {
   padding: 6px;
   border: none;
   margin-top: 8px;
-  margin-right: 16px;
-  font-size: 17px;
+  margin-right: 6px;
+  font-size: 24px;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 300px) {
   .navibar a {
     float: none;
     display: block;
