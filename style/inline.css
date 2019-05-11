@@ -7,15 +7,53 @@ body {
   font-family: Arial;
 }
 
+.navbar {
+  width: 100%;
+  background-color: #555;
+  overflow: auto;
+}
+
+.navbar a {
+  float: right;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background-color: #000;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+
+/* Style the search box inside the navigation bar */
+.navbar input[type=text] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+
+@media screen and (max-width: 500px) {
+  .navbar a {
+    float: none;
+    display: block;
+  }
 .header {
   text-align: center;
   padding: 12px;
   color: #FCC;
-  background: #5FA1B5;
+  background: #6F4155
   height: auto;
   box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 2px 9px 1px rgba(0, 0, 0, 0.12), 0 4px 2px -2px rgba(0, 0, 0, 0.2);
   padding: 16px 16px 0 16px;
   will-change: transform;
+  font-size: 18px;
 }
 .header__title {
   font-weight: 600;
