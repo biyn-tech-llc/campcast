@@ -216,25 +216,34 @@ list_page_header = '''
   <meta name="theme-color" content="#ffffff">
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <script src="enjoyhint/enjoyhint.min.js"></script>
+  <link href="enjoyhint/enjoyhint.css" rel="stylesheet">
+  <style>
+  .enjoy_hint_label {
+      text-align:left;
+  }
+  </style>
+
 </head>
 
 <body>
 
 <div class="navibar">
   <a class="active" id=idthis>The Machaneh Directory</a>
-  <input type="text" placeholder="Search.." id=idsearch>
+  <input type="text" placeholder="Search.." id="idsearch" onkeyup="campSearch()">
   <a href="#about" style="float: right" id="idhelp"><i class="fa fa-fw fa-question-circle"></i> Help</a>
 </div>
 
 <!-- Photo Grid -->
-<div class="imgrow"> 
+<div class="imgrow" id="allcamps"> 
 '''
 
 list_page_footer = '''
 </div>
 
 <script src="methods.js"></script>
-
+<script src="enjoyhint/help.js"></script>
 </body>
 </html>
 '''
@@ -291,7 +300,9 @@ for camp in camps:
         wpercent = (basewidth/float(img.size[0]))
         hsize = int((float(img.size[1])*float(wpercent)))
         img = img.resize((basewidth,hsize), Image.ANTIALIAS)
-        image_path = os.path.join(folder, image_file).replace('%20', '_').replace('/_','/').replace('?','')
+        image_path = os.path.join(folder, image_file).replace('%20', '_').replace('/_','/').replace('%3f','')
+        if not os.path.exists(folder):
+            os.makedirs(folder)
         img.save(image_path)
         image = LINK_URL + image_path   
 

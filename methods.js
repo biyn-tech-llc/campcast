@@ -66,3 +66,21 @@ function mouseOut(element_id) {
 
     //timeout = setTimeout(function(){ $('[data-toggle="tooltip"]').tooltip('hide') }, 3000);
 //});
+
+
+function campSearch() {
+    var input, filter, ul, li, a, i, txtValue;
+    input = document.getElementById("idsearch");
+    filter = input.value.toUpperCase();
+    ul = document.getElementById("allcamps");
+    li = ul.getElementsByTagName("figure");
+    for (i = 0; i < li.length; i++) {
+        a = li[i].getElementsByTagName("figcaption")[0];
+        txtValue = a.textContent || a.innerText;
+        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+            li[i].style.display = "";
+        } else {
+            li[i].style.display = "none";
+        }
+    }
+}

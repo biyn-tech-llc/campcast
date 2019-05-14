@@ -30,18 +30,27 @@
   <meta name="theme-color" content="#ffffff">
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <script src="enjoyhint/enjoyhint.min.js"></script>
+  <link href="enjoyhint/enjoyhint.css" rel="stylesheet">
+  <style>
+  .enjoy_hint_label {
+      text-align:left;
+  }
+  </style>
+
 </head>
 
 <body>
 
 <div class="navibar">
   <a class="active" id=idthis>The Machaneh Directory</a>
-  <input type="text" placeholder="Search.." id=idsearch>
+  <input type="text" placeholder="Search.." id="idsearch" onkeyup="campSearch()">
   <a href="#about" style="float: right" id="idhelp"><i class="fa fa-fw fa-question-circle"></i> Help</a>
 </div>
 
 <!-- Photo Grid -->
-<div class="imgrow"> 
+<div class="imgrow" id="allcamps"> 
   <div class="imgcolumn">
 
     <figure data-toggle="tooltip" id="building_a_multiple_mega_church" onclick="copyTextToClipboard('https://www.machanehcast.com/building_a_multiple_mega_church/rss/podcast.rss', 'building_a_multiple_mega_church')" onmouseout="mouseOut('building_a_multiple_mega_church')">
@@ -542,7 +551,7 @@
     </figure>
 
     <figure data-toggle="tooltip" id="where_is_the_flock_that_was_given_thee" onclick="copyTextToClipboard('https://www.machanehcast.com/where_is_the_flock_that_was_given_thee/rss/podcast.rss', 'where_is_the_flock_that_was_given_thee')" onmouseout="mouseOut('where_is_the_flock_that_was_given_thee')">
-      <img class=scaled src="https://www.machanehcast.com/where_is_the_flock_that_was_given_thee/where_is_the_flock%3f.jpg" style="width:100%">
+      <img class=scaled src="https://www.machanehcast.com/where_is_the_flock_that_was_given_thee/where_is_the_flock.jpg" style="width:100%">
       <figcaption>Where Is The Flock That Was Given Thee?</figcaption>
     </figure>
 
@@ -662,6 +671,6 @@
 </div>
 
 <script src="methods.js"></script>
-
+<script src="enjoyhint/help.js"></script>
 </body>
 </html>
