@@ -193,9 +193,10 @@ list_page_header = '''
   <title>MachanehCast</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" type="text/css" href="style/inline.css">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 
   <link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="60x60" href="apple-icon-60x60.png">
@@ -233,7 +234,7 @@ list_page_header = '''
 
 <div class="navibar">
   <span id=idthis>The Machaneh Directory</span>
-  <input type="text" placeholder="Search.." id="idsearch" onkeyup="campSearch()">
+  <input type="search" placeholder="Search.." id="idsearch" oninput="campSearch()"/>
   <button style="float: right" id="idhelp" onclick="openNav()"><i class="fa fa-fw fa-question-circle"></i> Help</button>
 </div>
 
@@ -298,7 +299,7 @@ list_page_footer = '''
       <li>Paste the URL of the feed into the search field and hit search. Done!</li>
     </ol>
   </div>
-  <span style="font-size: 1em">If your podcast app is not covered here, you may search for instructions online on in the app's help pages.</span>
+  <span style="font-size: 1em">If your podcast app is not covered here, you may search for instructions online, or in the app's help pages.</span>
   <span style="font-size: 1em">Some podcast apps do not allow subscribing with URL - namely Soundcloud, Google Play, Google Podcasts, Spotify, iHearRadio, etc.</span>
 </div>
 
@@ -307,6 +308,7 @@ list_page_footer = '''
 
 <script>
 
+document.addEventListener("DOMContentLoaded", function(event) { 
 var acc = document.getElementsByClassName("accordion");
 var panel = document.getElementsByClassName('panel');
 
@@ -328,6 +330,9 @@ function setClass(els, className, fnName) {
         els[i].classList[fnName](className);
     }
 }
+
+});
+
 
 // so it initializes the width.
 closeNav();

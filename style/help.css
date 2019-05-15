@@ -2,7 +2,7 @@ body {
   font-family: "Lato", sans-serif;
 }
 
-.sidenav {
+div.sidenav {
   height: 100%;
   width: 0px;
   position: fixed;
@@ -15,7 +15,7 @@ body {
   padding-top: 60px;
 }
 
-.sidenav span {
+div.sidenav span {
   padding: 8px;
   text-decoration: none;
   font-size: 1.2em;
@@ -23,7 +23,7 @@ body {
   display: block;
   transition: 0.3s;
 }
-.sidenav button {
+div.sidenav button {
   padding: 6px;
   text-decoration: none;
   font-size: 1.1em;
@@ -35,11 +35,11 @@ body {
   width: 90%;
 }
 
-.sidenav a:hover {
+div.sidenav a:hover {
   color: #f1f1f1;
 }
 
-.sidenav .closebtn {
+div.sidenav .closebtn {
   position: absolute;
   top: 0;
   right: 25px;
@@ -53,7 +53,7 @@ body {
 }
 
 
-.accordion {
+button.accordion {
   background-color: #eee;
   color: #444;
   cursor: pointer;
@@ -66,11 +66,11 @@ body {
   transition: 0.4s;
 }
 
-.active, .accordion:hover {
+button.accordion.active, .button.accordion:hover {
   background-color: #ccc; 
 }
 
-.accordion:after {
+button.accordion:after {
   content: '\002B';
   color: #777;
   font-weight: bold;
@@ -78,13 +78,19 @@ body {
   margin-left: 5px;
 }
 
-.active:after {
+button.accordion.active:after {
   content: "\2212";
 }
 
-.panel {
+div.panel {
   padding: 0 18px;
-  display: none;
   background-color: white;
   overflow: hidden;
+  max-height: 0;
+  transition: max-height 0.5s ease-out;
+}
+
+div.panel.show {
+  opacity: 1;
+  max-height: 500px;
 }

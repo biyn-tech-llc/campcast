@@ -37,12 +37,11 @@ body {
 
 
 /* Style the search box inside the navigation bar */
-.navibar input[type=text] {
+.navibar input[type=search] {
   float: right;
   padding: 7px;
   border: none;
-  margin: 8px;
-  //margin-right: 5px;
+  margin: 7px;
   font-size: 1em;
   width: 7em;
 }
@@ -118,6 +117,3 @@ figure {
   width: 100%;
 }
 
-//figure:hover {
-//  transform: scale(1.15);
-//}
