@@ -39,14 +39,16 @@
   }
   </style>
 
+  <link rel="stylesheet" type="text/css" href="style/help.css">
+
 </head>
 
 <body>
 
 <div class="navibar">
-  <a class="active" id=idthis>The Machaneh Directory</a>
+  <span id=idthis>The Machaneh Directory</span>
   <input type="text" placeholder="Search.." id="idsearch" onkeyup="campSearch()">
-  <a href="#about" style="float: right" id="idhelp"><i class="fa fa-fw fa-question-circle"></i> Help</a>
+  <button style="float: right" id="idhelp" onclick="openNav()"><i class="fa fa-fw fa-question-circle"></i> Help</button>
 </div>
 
 <!-- Photo Grid -->
@@ -670,7 +672,95 @@
 
 </div>
 
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <span>Tap on your podcast app name to see the steps for adding podcast by URL link.</span>
+  <button class="accordion">Podcasts (iOS)</button>
+  <div class="panel">
+    <ol><li>Launch Podcasts app.</li>
+    <li>Go to Library if you are not there already.</li>
+    <li>Tap on Edit.</li>
+    <li>Select Add a Podcast by URL.</li></ol>
+  </div>
+  <button class="accordion">Podcast Addict (Android)</button>
+  <div class="panel">
+    <ol>
+      <li>Launch app and go to main screen</li>
+      <li>Press the <i class="fa fa-plus-circle fa-fw"></i> to add a new podcast.</li>
+      <li>Press the icon labeled RSS - the first on the top row.</li>
+      <li>The RSS link should be already pasted. Verify and press <i>ADD</i> button at bottom.</li>
+    </ol>
+  </div>
+  <button class="accordion">Podbean (Android)</button>
+  <div class="panel">
+    <ol>
+      <li>Launch app and go to main screen.</li>
+      <li>Click on the <i class="fa fa-search fa-fw"></i> icon.</li>
+      <li>Hide the keyboard when it pops up to reveal the <i>Add Feed URL</i> button. Tap the button.</li>
+      <li>Clear the http:// from the input box and long press to paste the Feed URL.</li>
+      <li>Tap the <i>Done</i> button at top right. </li>
+      <li>Tap the <i>Follow</i> button to add to followed podcasts.</li>
+    </ol>
+  </div>
+  <button class="accordion">Overcast (iOS)</button>
+  <div class="panel">
+    <ol>
+      <li>Tap the + button in the top right like you normally would to add a podcast.</li>
+      <li>Then tap <i>Add URL</i> in the top right.</li>
+      <li>Paste the feed URL and hit done!</li>
+    </ol>
+  </div>
+  <button class="accordion">Downcast (iOS)</button>
+  <div class="panel">
+    <ol>
+      <li>Tap <i>Add</i> on the bottom bar.</li>
+      <li>Press <i>Add Podcast Manually</i> and in the <i>Feed</i> field.</li>
+      <li>Paste the URL of the RSS feed.</li>
+      <li>Hit <i>Subscribe</i> in the top right.</li>
+    </ol>
+  </div>
+  <button class="accordion">Pocket Casts (iOS, Android & Web)</button>
+  <div class="panel">
+    <ol>
+      <li>Paste the URL of the feed into the search field and hit search. Done!</li>
+    </ol>
+  </div>
+  <span style="font-size: 1em">If your podcast app is not covered here, you may search for instructions online on in the app's help pages.</span>
+  <span style="font-size: 1em">Some podcast apps do not allow subscribing with URL - namely Soundcloud, Google Play, Google Podcasts, Spotify, iHearRadio, etc.</span>
+</div>
+
 <script src="methods.js"></script>
 <script src="enjoyhint/help.js"></script>
+
+<script>
+
+var acc = document.getElementsByClassName("accordion");
+var panel = document.getElementsByClassName('panel');
+
+for (var i = 0; i < acc.length; i++) {
+    acc[i].onclick = function() {
+        var setClasses = !this.classList.contains('active');
+        setClass(acc, 'active', 'remove');
+        setClass(panel, 'show', 'remove');
+
+        if (setClasses) {
+            this.classList.toggle("active");
+            this.nextElementSibling.classList.toggle("show");
+        }
+    }
+}
+
+function setClass(els, className, fnName) {
+    for (var i = 0; i < els.length; i++) {
+        els[i].classList[fnName](className);
+    }
+}
+
+// so it initializes the width.
+closeNav();
+
+</script>
+
 </body>
 </html>

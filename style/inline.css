@@ -13,36 +13,36 @@ body {
   overflow: auto;
 }
 
-.navibar a {
+.navibar span {
   float: left;
-  padding: 12px;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 1.2em;
   color: white;
-  text-decoration: none;
-  font-size: 1em;
-}
-
-.navibar a:visited {
-  text-decoration: none;
-}
-.navibar a:hover {
-  background-color: #000;
-  color: white;
-  text-decoration: none;
-}
-
-.active {
-  background-color: #4CAF50;
-  text-decoration: none;
   font-weight: 800;
 }
+.navibar button {
+  padding: 8px;
+  color: white;
+  font-size: 1em;
+  margin: 6px;
+  background-color: #555;
+  border: none;
+}
+
+.navibar button:focus {
+  border: none;
+  outline: none;
+}
+
 
 /* Style the search box inside the navigation bar */
 .navibar input[type=text] {
   float: right;
-  padding: 6px;
+  padding: 7px;
   border: none;
-  margin-top: 8px;
-  margin-right: 5px;
+  margin: 8px;
+  //margin-right: 5px;
   font-size: 1em;
   width: 7em;
 }
@@ -118,6 +118,6 @@ figure {
   width: 100%;
 }
 
-figure:hover {
-  transform: scale(1.15);
-}
+//figure:hover {
+//  transform: scale(1.15);
+//}

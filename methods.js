@@ -84,3 +84,17 @@ function campSearch() {
         }
     }
 }
+
+function openNav() {
+//  document.getElementById("mySidenav").style.width = "350px";
+  el = document.getElementById("mySidenav");
+  if (el.style.width == "0px") {
+    el.style.width = "350px";
+  } else {
+    el.style.width = "0px";
+  }
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0px";
+}
