@@ -42,8 +42,8 @@ body {
   padding: 7px;
   border: none;
   margin: 7px;
-  font-size: 1em;
-  width: 7em;
+  font-size: 0.9em;
+  width: 6em;
 }
 
 @media screen and (max-width: 300px) {
