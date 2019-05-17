@@ -11,28 +11,31 @@ body {
   width: 100%;
   background-color: #555;
   overflow: auto;
+  position: fixed;
+}
+
+.navibar a {
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+  float: left;
+}
+
+.navibar a.icon {
+  background: black;
+  display: block;
 }
 
 .navibar span {
   float: left;
-  padding: 10px;
+  padding: 12px;
   text-decoration: none;
-  font-size: 1em;
+  font-size: 1.1em;
   color: white;
   font-weight: 800;
-}
-.navibar button {
-  padding: 8px;
-  color: white;
-  font-size: 1em;
-  margin: 6px;
-  background-color: #555;
-  border: none;
-}
-
-.navibar button:focus {
-  border: none;
-  outline: none;
+  text-align: center;
 }
 
 
@@ -41,9 +44,9 @@ body {
   float: right;
   padding: 7px;
   border: none;
-  margin: 7px;
+  margin: 8px;
   font-size: 0.9em;
-  width: 6em;
+  width: 7em;
 }
 
 @media screen and (max-width: 300px) {
@@ -62,6 +65,7 @@ body {
   -ms-flex-wrap: wrap; /* IE10 */
   flex-wrap: wrap;
   padding: 0 0px;
+  padding-top: 53px;
 }
 
 .imgrow:before, .imgrow:after{

@@ -16,7 +16,7 @@
       'textColor': '255,255,100'
  },
  {
-      "next #idhelp": 'Not sure how to subscribe to a podcast by URL link?<br>Hints are available under help button.',
+      "next #idhelp": 'Not sure how to subscribe to a podcast by URL link?<br>Hints are available under this button.',
       'shape': 'circle',
       'radius': 40,
       'textColor': '255,255,100'
@@ -25,12 +25,11 @@
       "next #idsearch": 'Looking for a particular camp?<br>Scroll down for more thumbnails, or enter part of the name in search bar.',
       'textColor': '255,255,100',
       'shape': 'circle',
-      'radius': 40,
+      'radius': 40
  },
  {
       "click #idthis": 'Consider adding this page to your home screen for easy access in the future.',
-      "skipButton": {className: "sqip", text: "Got It!"},
-      'textColor': '255,255,100'
+      "skipButton": {className: "sqip", text: "Got It!"}
  },
  ];
  

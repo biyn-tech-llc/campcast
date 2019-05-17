@@ -44,7 +44,7 @@ function copyTextToClipboard(text, element_id) {
   //if (!navigator.clipboard) {
     fallbackCopyTextToClipboard(text, element_id);
     console.log($('#' + element_id).length + ' elements found');
-    $('#' + element_id).tooltip({title: 'Copied RSS feed. Go paste it into your podcast app', trigger: 'manual', placement: 'top'})
+    $('#' + element_id).tooltip({title: 'Podcast link copied. Go subscribe by URL in your podcast app', trigger: 'manual', placement: 'top'})
     $('#' + element_id).tooltip('show');
     timeout = setTimeout(function(){$('#' + element_id).tooltip('hide')}, 3000);
     return;
@@ -61,11 +61,6 @@ function mouseOut(element_id) {
     $('#' + element_id).tooltip('hide')
 }
 
-//$(document).ready(function(){
-//    $('[data-toggle="tooltip"]').tooltip({title: 'Copied RSS feed. Go paste it into your podcast app', trigger: 'click'})
-
-    //timeout = setTimeout(function(){ $('[data-toggle="tooltip"]').tooltip('hide') }, 3000);
-//});
 
 
 function campSearch() {
@@ -86,7 +81,6 @@ function campSearch() {
 }
 
 function openNav() {
-//  document.getElementById("mySidenav").style.width = "350px";
   el = document.getElementById("mySidenav");
   if (el.style.width == "0px") {
     el.style.width = "350px";

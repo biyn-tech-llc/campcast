@@ -233,9 +233,11 @@ list_page_header = '''
 <body>
 
 <div class="navibar">
+  <a href="#" class="icon" id="idhelp" onclick="openNav()">
+    <i class="fa fa-bars"></i>
+  </a>
   <span id=idthis>The Machaneh Directory</span>
   <input type="search" placeholder="Search.." id="idsearch" oninput="campSearch()"/>
-  <button style="float: right" id="idhelp" onclick="openNav()"><i class="fa fa-fw fa-question-circle"></i> Help</button>
 </div>
 
 <!-- Photo Grid -->
@@ -248,7 +250,14 @@ list_page_footer = '''
 
 <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <span>Tap on your podcast app name to see the steps for adding podcast by URL link.</span>
+  <span>How to use Podcast Directory</span>
+  <button class="accordion">Usage</button>
+  <div class="panel">
+    <ul><li>Tap or click on a podcast thumbnail picture - its RSS link is copied.</li>
+    <li>Subscribe to the camp's podcast in your podcast app. See below for help.</li> 
+    <li>To find a particular camp, scroll down for more thumbnails, or use the search bar at the top right.</li></ul>
+  </div>
+  <span>Adding podcast by URL link</span>
   <button class="accordion">Podcasts (iOS)</button>
   <div class="panel">
     <ol><li>Launch Podcasts app.</li>
@@ -299,8 +308,11 @@ list_page_footer = '''
       <li>Paste the URL of the feed into the search field and hit search. Done!</li>
     </ol>
   </div>
-  <span style="font-size: 1em">If your podcast app is not covered here, you may search for instructions online, or in the app's help pages.</span>
-  <span style="font-size: 1em">Some podcast apps do not allow subscribing with URL - namely Soundcloud, Google Play, Google Podcasts, Spotify, iHearRadio, etc.</span>
+  <button class="accordion">Podcast App Not Listed?</button>
+  <div class="panel">
+    <p>If your podcast app is not covered here, you may search for instructions on the internet, or in the app's help pages.</p>
+    <p>Some podcast apps do not allow subscribing with URL - namely Soundcloud, Google Play, Google Podcasts, Spotify, iHearRadio, etc.</p>
+  </div>
 </div>
 
 <script src="methods.js"></script>
