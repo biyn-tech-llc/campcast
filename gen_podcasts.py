@@ -132,6 +132,46 @@ camps = [
     ('And Ye Shall Compass The City', 'C123_', 'and%20ye%20shall.jpg', '2018-10-31.05'),
     ('No City Shall Be Too Strong For You 2018', 'C123_', 'no%20city%20shall%20be%20too%20strong%20for%20you.jpg', '2018-10-31.07'),
     #('Life In The Church', 'C124_'), #repeat of C19_
+    ('Season of Withdrawal','X','1550854868_season%20of%20withdrawal.jpg','','X1.%20Prophets%20or%20Spirituals.mp3 \
+                                                                              X2.%20Prophets%20or%20Spirituals_Prayer%20Session.mp3 \
+                                                                              X3.%20The%20Fall%20of%20Lucifer.mp3 \
+                                                                              X4.%20The%20Fall%20of%20Lucifer_Prayer%20Session%20.mp3 \
+                                                                              X5.%20Dialogue%20or%20Monologue.mp3 \
+                                                                              X6.%20Dialogue%20or%20Monologue_Prayer%20Session.mp3 \
+                                                                              X7.%20What%20Prayer%20Births.mp3 \
+                                                                              X8.%20Coveting%20The%20Best%20and%20Super%20Abounding%20.mp3 \
+                                                                              X9.%20Coveting%20The%20Best%20and%20Super%20Abounding_Prayer%20Session.mp3 \
+                                                                              X10.%20The%20Fall%20of%20Lucifer.mp3 \
+                                                                              X11.%20The%20Mistake%20of%20Not%20Obeying.mp3 \
+                                                                              X12.%20The%20Mistake%20of%20Not%20Obeying_Prayer%20Session.mp3 \
+                                                                              X13.%20The%20Need%20to%20Resist%20DIsobedience%20.mp3 \
+                                                                              X14.%20The%20Need%20to%20Resist%20DIsobedience_Prayer%20Session%20.mp3 \
+                                                                              X15.%20Compassing%20the%20City.mp3 \
+                                                                              X16.%20Compassing%20the%20City_Prayer%20Session.mp3 \
+                                                                              X17.%20Follow%20the%20Ark%20(The%20Anointing).mp3 \
+                                                                              X18.%20Follow%20the%20Ark%20(The%20Anointing)_Prayer%20Session.mp3 \
+                                                                              X19.%20Learning%20to%20Pray%20Longer.mp3 \
+                                                                              X20.%20Testimonies%20and%20Sharing%20.mp3 \
+                                                                              X21.%20Territory%20Taking%20Prayers%20with%20Bishop%20Ogoe.mp3 \
+                                                                              X22.%20Demonic%20Powers%20You\'re%20Overcoming.mp3 \
+                                                                              X23.%20Demonic%20Powers%20You\'re%20Overcoming_Prayer%20Session.mp3 \
+                                                                              X24.%20Lead%20us%20not%20into%20Temptation%20.mp3 \
+                                                                              X25.%20Pleading%20the%20Blood.mp3 \
+                                                                              X26.%20Not%20My%20Will,%20but%20Thy%20will%20be%20done.mp3 \
+                                                                              X27.%20Not%20My%20will,%20but%20Thy%20will%20be%20done_Prayer%20Session.mp3 \
+                                                                              X28.%20Prayers%20with%20Rev%20Frank.mp3 \
+                                                                              X29.%20Prayers%20with%20Rev%20Frank.mp3 \
+                                                                              X30.%20The%20Great%20Deception.mp3 \
+                                                                              X31.%20The%20Great%20Deception_Prayer%20Session.mp3 \
+                                                                              X32.%20No%20Turning%20Back%20from%20Your%20Calling.mp3 \
+                                                                              X33.%20No%20Turning%20back%20from%20your%20Calling_Prayer%20Session.mp3 \
+                                                                              X34.%20Thanks%20Giving%20for%20a%20Net%20Full%20of%20Fishes.mp3 \
+                                                                              X35.%20The%20Mysteries%20of%20His%20Will.mp3 \
+                                                                              X36.%20The%20Mysteries%20of%20His%20Will_Prayer%20Session.mp3 \
+                                                                              X37.%20The%20Mysteries%20of%20His%20Will_Prayer%20Session%20Pt.%202.mp3 \
+                                                                              X38.%20His%20Mysterious%20Will%20Starts%20Immediately.mp3 \
+                                                                              X39.%20His%20Mysterious%20Will%20Starts%20Immediately_Prayer%20Session.mp3 \
+                                                                              X40.%20Awake%20O%20Sleeper.mp3'),
 ]
 FILES_URL="http://daghewardmillsaudio.org/songs/"
 LINK_URL="https://www.machanehcast.com/"
@@ -373,11 +413,15 @@ basewidth = 420
 for camp in camps:
     name = camp[0]
     expr = camp[1]
-    expr2 = '' if len(camp) < 4 else (camp[3] + '.*')
+    ssns = None
+    if len(camp) > 4:
+        ssns = camp[4]
+    else:
+        expr2 = '' if len(camp) < 4 else (camp[3] + '.*')
 
-    cmd = "sed -ne s/^.*href=\"\(" + expr + ".*mp3\)\".*" + expr2 + "$/\\1/p allsongs.html" 
-    #print cmd
-    ssns = subprocess.check_output(cmd.split())
+        cmd = "sed -ne s/^.*href=\"\(" + expr + ".*mp3\)\".*" + expr2 + "$/\\1/p allsongs.html" 
+        #print cmd
+        ssns = subprocess.check_output(cmd.split())
     #print "sessions are: " + ssns
     #image_file = 'DAG.jpg'
     response = None
@@ -399,7 +443,7 @@ for camp in camps:
         except subprocess.CalledProcessError, e:
             print str(e) 
 
-    cmd = "sed -ne s/^.*href=\"\(" + expr + ".*jpg\).*$/\\1/p allsongs.html" 
+    #cmd = "sed -ne s/^.*href=\"\(" + expr + ".*jpg\).*$/\\1/p allsongs.html" 
     folder = name.lower().replace(' ', '_').replace("'","").replace('?', '')
 
     if response and response.status_code == 200:
@@ -419,7 +463,7 @@ for camp in camps:
     tracknum = 1000
     for ssn in ssns.split():
         #print FILES_URL + ssn
-        ssnTitle = ssn.split('.mp3')[0].split(expr)[1].replace('%20', ' ')
+        ssnTitle = ssn.split('.mp3')[0].split(expr, 1)[1].replace('%20', ' ')
         epis = episode.replace('___URL___', FILES_URL + ssn) \
             .replace('___EPISODE___', ssnTitle) \
             .replace('___TRACKORDER___', time.strftime('%M:%S', time.gmtime(tracknum)))
