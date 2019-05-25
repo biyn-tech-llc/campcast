@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Seigneur Ait Petie</title>
+    <title>Seigneur Ait Pitie</title>
     <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
-    <description>Seigneur Ait Petie</description>
-    <googleplay:image href="https://www.machanehcast.com/seigneur_ait_petie/SEIGNEUR_AIT_PETIE.jpg"/>
+    <description>Seigneur Ait Pitie</description>
+    <googleplay:image href="https://www.machanehcast.com/seigneur_ait_pitie/SEIGNEUR_AIT_PITIE.jpg"/>
     <language>en-us</language>
-    <link>https://www.machanehcast.com/seigneur_ait_petie/</link>
+    <link>https://www.machanehcast.com/seigneur_ait_pitie/</link>
     <image>
         <url>
-            https://www.machanehcast.com/seigneur_ait_petie/SEIGNEUR_AIT_PETIE.jpg
+            https://www.machanehcast.com/seigneur_ait_pitie/SEIGNEUR_AIT_PITIE.jpg
         </url>
         <width>192</width>
         <height>144</height>

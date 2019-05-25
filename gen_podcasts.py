@@ -80,7 +80,7 @@ camps = [
     ('Lord I know you need somebody', 'C72_'),
     ('Inexorability in the Mission', 'C73_'),
     ("God's Banquet", 'C74_'),
-    ('Seigneur Ait Petie', 'C75_'),
+    ('Seigneur Ait Pitie', 'C75_'),
     ('The Word of my Patience', 'C76_'),
     ('Be thou faithful unto death', 'C77_'),
     ('The Sweet influences of The Holy Spirit', 'C78_', 'sweet%20influences.jpg'),
