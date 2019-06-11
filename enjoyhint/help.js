@@ -13,19 +13,16 @@
 		"<li>Then subscribe to it by URL in your podcast app - NOT THE SAME AS searching for a podcast</li>",
       'shape': 'circle',
       'radius': 80,
-      'textColor': '255,255,100',
       'z-index': 2
  },
  {
-      "next #idhelp": 'Step by step instruction for subscribing by URL for various podcast apps are available under this button.',
+      "next #idhelp": 'Step by step instruction for subscribing by URL for various podcast apps are available under top left hamburger menu.',
       'shape': 'circle',
       'radius': 40,
-      'textColor': '255,255,100',
       'z-index': 2
  },
  {
-      "next #idsearch": 'Looking for a particular camp?<br>Scroll down for more thumbnails, or enter part of the name in search bar.',
-      'textColor': '255,255,100',
+      "next #idsearch": 'Looking for a particular camp?<br>Scroll down for more thumbnails, or enter part of the name in search bar - top right.',
       'shape': 'circle',
       'radius': 40,
       'z-index': 2
