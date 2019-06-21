@@ -173,7 +173,7 @@ camps = [
                                                                               39.%20His%20Mysterious%20Will%20Starts%20Immediately_Prayer%20Session.mp3 \
                                                                               40.%20Awake%20O%20Sleeper.mp3'),
     ('I Only Need One Talent', 'C125_', 'one%20talent.jpg' ),
-    ('Make Yourself A Saviour of Men - Harmattan Bible Seminar', 'C120%20', '1550945225_make yourself.jpg'),
+    ('Make Yourself A Saviour of Men - Harmattan Bible Seminar', 'C120%20', '1550945225_make%20yourself.jpg'),
 ]
 FILES_URL="http://daghewardmillsaudio.org/songs/"
 LINK_URL="https://www.machanehcast.com/"
