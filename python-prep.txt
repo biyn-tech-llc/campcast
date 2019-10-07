@@ -1,0 +1,16 @@
+    2  pkg install git
+    5  git version
+    9  git clone https://github.com/biyn-tech-llc/campcast.git
+
+   24  curl http://www.daghewardmillsaudio.org/songs/ -o allsongs.html
+   
+   37  pkg install vim
+
+   42  pkg install python
+   44  python --version
+
+   56  pip install requests
+   70  pkg install libjpeg-turbo
+   73  pkg install clang
+   74  LDFLAGS="-L/system/lib/" pip install Pillow
+

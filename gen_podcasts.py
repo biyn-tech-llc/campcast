@@ -132,7 +132,7 @@ camps = [
     ('And Ye Shall Compass The City', 'C123_', 'and%20ye%20shall.jpg', '2018-10-31.05'),
     ('No City Shall Be Too Strong For You 2018', 'C123_', 'no%20city%20shall%20be%20too%20strong%20for%20you.jpg', '2018-10-31.07'),
     #('Life In The Church', 'C124_'), #repeat of C19_
-    ('Season of Withdrawal','','1550854868_season%20of%20withdrawal.jpg','','1.%20Prophets%20or%20Spirituals.mp3 \
+    ('Season of Withdrawal','','1550854868_season%20of%20withdrawal.jpg','',b'1.%20Prophets%20or%20Spirituals.mp3 \
                                                                               2.%20Prophets%20or%20Spirituals_Prayer%20Session.mp3 \
                                                                               3.%20The%20Fall%20of%20Lucifer.mp3 \
                                                                               4.%20The%20Fall%20of%20Lucifer_Prayer%20Session%20.mp3 \
@@ -174,6 +174,7 @@ camps = [
                                                                               40.%20Awake%20O%20Sleeper.mp3'),
     ('I Only Need One Talent', 'C125_', 'one%20talent.jpg' ),
     ('Make Yourself A Saviour of Men - Harmattan Bible Seminar', 'C120%20', '1550945225_make%20yourself.jpg'),
+    ('Jesus! Saviour of the World', 'C130_', 'JESUS%20SAVIOUR%20OF%20THE%20LORD.jpg'),
 ]
 FILES_URL="http://daghewardmillsaudio.org/songs/"
 LINK_URL="https://www.machanehcast.com/"
@@ -436,16 +437,16 @@ for camp in camps:
         cmd = "grep -i -m 1 " + name.replace(' ', '.*') + " images.html"
         try:
             image_line = subprocess.check_output(cmd.split())
-            image_file = re.search(r'(?<=href=").*jpg(?=">)', image_line).group(0)
+            image_file = re.search(r'(?<=href=").*jpg(?=">)', str(image_line)).group(0)
             image = IMAGES_URL + image_file
             #print image
             response = requests.get(image)
             if response.status_code != 200:
                 image = LINK_URL + 'DAG.jpg'
-        except subprocess.CalledProcessError, e:
-            print str(e) 
+        except subprocess.CalledProcessError as e:
+            print (e) 
 
-    folder = name.lower().replace(' ', '_').replace("'","").replace('?', '')
+    folder = name.lower().replace(' ', '_').replace("'","").replace('?', '').replace('!','')
 
     if response and response.status_code == 200:
         img = Image.open(BytesIO(response.content))
@@ -463,13 +464,14 @@ for camp in camps:
                 .replace('___IMAGE___', image)
     tracknum = 1000
     for ssn in ssns.split():
-        #print FILES_URL + ssn
-        ssnTitle = ssn.split('.mp3')[0]
+        ssn = ssn.decode('utf-8')
+        print (FILES_URL + ssn)
+        ssnTitle = str(ssn).split('.mp3')[0]
         if expr: # fully specified lists don't have expr
             ssnTitle = ssnTitle.split(expr, 1)[1]
-        ssnTitle = ssnTitle.replace('%20', ' ')
-        epis = episode.replace('___URL___', FILES_URL + ssn) \
-            .replace('___EPISODE___', ssnTitle) \
+        ssnTitle = str(ssnTitle).replace('%20', ' ')
+        epis = episode.replace('___URL___', FILES_URL + str(ssn)) \
+            .replace('___EPISODE___', str(ssnTitle)) \
             .replace('___TRACKORDER___', time.strftime('%M:%S', time.gmtime(tracknum)))
         #print epis
         podcast += epis
