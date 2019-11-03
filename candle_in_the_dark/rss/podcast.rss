@@ -17,9 +17,19 @@
     </image>
 
     <item>
+      <title>00 Intro - Candle In The Dark</title>
+      <description>00 Intro - Candle In The Dark</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:40 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C119_00%20Intro%20-%20Candle%20In%20The%20Dark.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C119_00%20Intro%20-%20Candle%20In%20The%20Dark.mp3</guid>
+    </item>
+
+    <item>
       <title>01 Candle in the Dark</title>
       <description>01 Candle in the Dark</description>
-      <pubDate>Tue, 26 Mar 2019 12:16:40 GMT</pubDate>
+      <pubDate>Tue, 26 Mar 2019 12:16:39 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C119_01%20Candle%20in%20the%20Dark.mp3"
                  type="audio/mpeg"/>
       <!--itunes:duration>30:00</itunes:duration-->
@@ -29,7 +39,7 @@
     <item>
       <title>02 Aida Interlude</title>
       <description>02 Aida Interlude</description>
-      <pubDate>Tue, 26 Mar 2019 12:16:39 GMT</pubDate>
+      <pubDate>Tue, 26 Mar 2019 12:16:38 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C119_02%20Aida%20Interlude.mp3"
                  type="audio/mpeg"/>
       <!--itunes:duration>30:00</itunes:duration-->
@@ -37,9 +47,19 @@
     </item>
 
     <item>
+      <title>03 Effects of a Candle in the Dark</title>
+      <description>03 Effects of a Candle in the Dark</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C119_03%20Effects%20of%20a%20Candle%20in%20the%20Dark.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C119_03%20Effects%20of%20a%20Candle%20in%20the%20Dark.mp3</guid>
+    </item>
+
+    <item>
       <title>04 Aida Interlude</title>
       <description>04 Aida Interlude</description>
-      <pubDate>Tue, 26 Mar 2019 12:16:38 GMT</pubDate>
+      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C119_04%20Aida%20Interlude.mp3"
                  type="audio/mpeg"/>
       <!--itunes:duration>30:00</itunes:duration-->
@@ -49,7 +69,7 @@
     <item>
       <title>05 Ten 'Zabulon's and 'Nephthalim's</title>
       <description>05 Ten 'Zabulon's and 'Nephthalim's</description>
-      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
+      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C119_05%20Ten%20'Zabulon's%20and%20'Nephthalim's.mp3"
                  type="audio/mpeg"/>
       <!--itunes:duration>30:00</itunes:duration-->
@@ -59,7 +79,7 @@
     <item>
       <title>06 The Loneliness and Hardness</title>
       <description>06 The Loneliness and Hardness</description>
-      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
+      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C119_06%20The%20Loneliness%20and%20Hardness.mp3"
                  type="audio/mpeg"/>
       <!--itunes:duration>30:00</itunes:duration-->
@@ -69,7 +89,7 @@
     <item>
       <title>07 Bishop Richard Recap</title>
       <description>07 Bishop Richard Recap</description>
-      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
+      <pubDate>Tue, 26 Mar 2019 12:16:33 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C119_07%20Bishop%20Richard%20Recap.mp3"
                  type="audio/mpeg"/>
       <!--itunes:duration>30:00</itunes:duration-->
@@ -79,7 +99,7 @@
     <item>
       <title>08 Aida Interlude</title>
       <description>08 Aida Interlude</description>
-      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
+      <pubDate>Tue, 26 Mar 2019 12:16:32 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C119_08%20Aida%20Interlude.mp3"
                  type="audio/mpeg"/>
       <!--itunes:duration>30:00</itunes:duration-->
@@ -89,7 +109,7 @@
     <item>
       <title>09 Lonliness and Hardness pt2</title>
       <description>09 Lonliness and Hardness pt2</description>
-      <pubDate>Tue, 26 Mar 2019 12:16:33 GMT</pubDate>
+      <pubDate>Tue, 26 Mar 2019 12:16:31 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C119_09%20Lonliness%20and%20Hardness%20pt2.mp3"
                  type="audio/mpeg"/>
       <!--itunes:duration>30:00</itunes:duration-->
@@ -99,7 +119,7 @@
     <item>
       <title>10 Lonliness and Hardness 2b</title>
       <description>10 Lonliness and Hardness 2b</description>
-      <pubDate>Tue, 26 Mar 2019 12:16:32 GMT</pubDate>
+      <pubDate>Tue, 26 Mar 2019 12:16:30 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C119_10%20Lonliness%20and%20Hardness%202b.mp3"
                  type="audio/mpeg"/>
       <!--itunes:duration>30:00</itunes:duration-->
@@ -109,7 +129,7 @@
     <item>
       <title>11 The Lonliness and Hardness of Elijah</title>
       <description>11 The Lonliness and Hardness of Elijah</description>
-      <pubDate>Tue, 26 Mar 2019 12:16:31 GMT</pubDate>
+      <pubDate>Tue, 26 Mar 2019 12:16:29 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C119_11%20The%20Lonliness%20and%20Hardness%20of%20Elijah.mp3"
                  type="audio/mpeg"/>
       <!--itunes:duration>30:00</itunes:duration-->
@@ -119,7 +139,7 @@
     <item>
       <title>12 The Loneliness and Hardness of William Carey</title>
       <description>12 The Loneliness and Hardness of William Carey</description>
-      <pubDate>Tue, 26 Mar 2019 12:16:30 GMT</pubDate>
+      <pubDate>Tue, 26 Mar 2019 12:16:28 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C119_12%20The%20Loneliness%20and%20Hardness%20of%20William%20Carey.mp3"
                  type="audio/mpeg"/>
       <!--itunes:duration>30:00</itunes:duration-->
@@ -129,7 +149,7 @@
     <item>
       <title>13 The Loneliness and Hardness of Jesus</title>
       <description>13 The Loneliness and Hardness of Jesus</description>
-      <pubDate>Tue, 26 Mar 2019 12:16:29 GMT</pubDate>
+      <pubDate>Tue, 26 Mar 2019 12:16:27 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C119_13%20The%20Loneliness%20and%20Hardness%20of%20Jesus.mp3"
                  type="audio/mpeg"/>
       <!--itunes:duration>30:00</itunes:duration-->
@@ -139,7 +159,7 @@
     <item>
       <title>14 The Commission</title>
       <description>14 The Commission</description>
-      <pubDate>Tue, 26 Mar 2019 12:16:28 GMT</pubDate>
+      <pubDate>Tue, 26 Mar 2019 12:16:26 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C119_14%20The%20Commission.mp3"
                  type="audio/mpeg"/>
       <!--itunes:duration>30:00</itunes:duration-->

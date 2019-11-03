@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Am I Good For Nothing</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Am I Good For Nothing</description>
+    <googleplay:image href="https://www.machanehcast.com/am_i_good_for_nothing/128._Am_i_good.jpg"/>
+    <language>en-us</language>
+    <link>https://www.machanehcast.com/am_i_good_for_nothing/</link>
+    <image>
+        <url>
+            https://www.machanehcast.com/am_i_good_for_nothing/128._Am_i_good.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>00 Intro - Am I Good For Nothing</title>
+      <description>00 Intro - Am I Good For Nothing</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:40 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C128_00%20Intro%20-%20Am%20I%20Good%20For%20Nothing.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C128_00%20Intro%20-%20Am%20I%20Good%20For%20Nothing.mp3</guid>
+    </item>
+
+    <item>
+      <title>01. 10 Examples When Salt is Good for Nothing</title>
+      <description>01. 10 Examples When Salt is Good for Nothing</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:39 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C128_01.%2010%20Examples%20When%20Salt%20is%20Good%20for%20Nothing.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C128_01.%2010%20Examples%20When%20Salt%20is%20Good%20for%20Nothing.mp3</guid>
+    </item>
+
+    <item>
+      <title>02. How to move away from being good for nothing</title>
+      <description>02. How to move away from being good for nothing</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:38 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C128_02.%20How%20to%20move%20away%20from%20being%20good%20for%20nothing.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C128_02.%20How%20to%20move%20away%20from%20being%20good%20for%20nothing.mp3</guid>
+    </item>
+
+    <item>
+      <title>03. Aida Interlude</title>
+      <description>03. Aida Interlude</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C128_03.%20Aida%20Interlude.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C128_03.%20Aida%20Interlude.mp3</guid>
+    </item>
+
+    <item>
+      <title>04. How to move away from being good for nothing PART 2</title>
+      <description>04. How to move away from being good for nothing PART 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C128_04.%20How%20to%20move%20away%20from%20being%20good%20for%20nothing%20PART%202.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C128_04.%20How%20to%20move%20away%20from%20being%20good%20for%20nothing%20PART%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>05. How to move away from being good for nothing PART 2B</title>
+      <description>05. How to move away from being good for nothing PART 2B</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C128_05.%20How%20to%20move%20away%20from%20being%20good%20for%20nothing%20PART%202B.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C128_05.%20How%20to%20move%20away%20from%20being%20good%20for%20nothing%20PART%202B.mp3</guid>
+    </item>
+
+    <item>
+      <title>06. Young Men and Beeing Good for Nothing</title>
+      <description>06. Young Men and Beeing Good for Nothing</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C128_06.%20Young%20Men%20and%20Beeing%20Good%20for%20Nothing.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C128_06.%20Young%20Men%20and%20Beeing%20Good%20for%20Nothing.mp3</guid>
+    </item>
+
+    <item>
+      <title>07. Examples of People That Were Good for Nothing</title>
+      <description>07. Examples of People That Were Good for Nothing</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:33 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C128_07.%20Examples%20of%20People%20That%20Were%20Good%20for%20Nothing.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C128_07.%20Examples%20of%20People%20That%20Were%20Good%20for%20Nothing.mp3</guid>
+    </item>
+
+    <item>
+      <title>08. How to Move Away from Being Good for Nothing Pt3</title>
+      <description>08. How to Move Away from Being Good for Nothing Pt3</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:32 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C128_08.%20How%20to%20Move%20Away%20from%20Being%20Good%20for%20Nothing%20Pt3.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C128_08.%20How%20to%20Move%20Away%20from%20Being%20Good%20for%20Nothing%20Pt3.mp3</guid>
+    </item>
+
+    <item>
+      <title>09. How to Move Away from Being Good for Nothing Pt4</title>
+      <description>09. How to Move Away from Being Good for Nothing Pt4</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:31 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C128_09.%20How%20to%20Move%20Away%20from%20Being%20Good%20for%20Nothing%20Pt4.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C128_09.%20How%20to%20Move%20Away%20from%20Being%20Good%20for%20Nothing%20Pt4.mp3</guid>
+    </item>
+
+    <item>
+      <title>10. How to Move Away from Being Good for Nothing Pt5</title>
+      <description>10. How to Move Away from Being Good for Nothing Pt5</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:30 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C128_10.%20How%20to%20Move%20Away%20from%20Being%20Good%20for%20Nothing%20Pt5.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C128_10.%20How%20to%20Move%20Away%20from%20Being%20Good%20for%20Nothing%20Pt5.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

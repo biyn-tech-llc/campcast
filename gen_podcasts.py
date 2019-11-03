@@ -174,7 +174,10 @@ camps = [
                                                                               40.%20Awake%20O%20Sleeper.mp3'),
     ('I Only Need One Talent', 'C125_', 'one%20talent.jpg' ),
     ('Make Yourself A Saviour of Men - Harmattan Bible Seminar', 'C120%20', '1550945225_make%20yourself.jpg'),
-    ('Jesus! Saviour of the World', 'C130_', 'JESUS%20SAVIOUR%20OF%20THE%20LORD.jpg'),
+    ('Jesus! Saviour of the World', 'C130_', 'JESUS%20SAVIOUR%20OF%20THE%20LORD.jpg', '2019-08-28'),
+    ('I Come Seeking Fruit', 'C126_', 'i_come_looking_fruits.jpg'),
+    ('Am I Good For Nothing','C128_', '128.%20Am_i_good.jpg'),
+    ('Choose Me Use Me','C130_', '130.%20Choose_me_use_me.jpg', '2019-10-29'),
 ]
 FILES_URL="http://daghewardmillsaudio.org/songs/"
 LINK_URL="https://www.machanehcast.com/"
