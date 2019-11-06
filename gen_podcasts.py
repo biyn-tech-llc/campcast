@@ -456,7 +456,7 @@ for camp in camps:
         wpercent = (basewidth/float(img.size[0]))
         hsize = int((float(img.size[1])*float(wpercent)))
         img = img.resize((basewidth,hsize), Image.ANTIALIAS)
-        image_path = os.path.join(folder, image_file).replace('%20', '_').replace('/_','/').replace('%3f','')
+        image_path = os.path.join(folder, image_file).replace('%20', '_').replace('/_','/').replace('%3f','').replace('\'','')
         if not os.path.exists(folder):
             os.makedirs(folder)
         img.save(image_path)
