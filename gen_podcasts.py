@@ -396,8 +396,10 @@ function setClass(els, className, fnName) {
 closeNav();
 
 
-</pt>
-// CODELAB: Register service worker.
+</script>
+
+<script>
+// Register service worker.
 if ("serviceWorker" in navigator) {
     window.addEventListener("load", () => {
       navigator.serviceWorker.register("/service-worker.js").then(reg => {
@@ -405,7 +407,7 @@ if ("serviceWorker" in navigator) {
       });
     });
 }
-</script>script>
+</script>
 
 </body>
 </html>
