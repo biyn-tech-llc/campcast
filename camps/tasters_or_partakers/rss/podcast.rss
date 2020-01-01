@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Tasters or Partakers</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Tasters or Partakers</description>
+    <googleplay:image href="https://www.machanehcast.com/camps/tasters_or_partakers/Tasters__Partakers.jpg"/>
+    <language>en-us</language>
+    <link>https://www.machanehcast.com/camps/tasters_or_partakers/</link>
+    <image>
+        <url>
+            https://www.machanehcast.com/camps/tasters_or_partakers/Tasters__Partakers.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>00 Intro Tasters or Partakers</title>
+      <description>00 Intro Tasters or Partakers</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:40 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C64_00%20Intro%20Tasters%20or%20Partakers.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C64_00%20Intro%20Tasters%20or%20Partakers.mp3</guid>
+    </item>
+
+    <item>
+      <title>01 Definition of What it Means to Taste</title>
+      <description>01 Definition of What it Means to Taste</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:39 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C64_01%20Definition%20of%20What%20it%20Means%20to%20Taste.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C64_01%20Definition%20of%20What%20it%20Means%20to%20Taste.mp3</guid>
+    </item>
+
+    <item>
+      <title>02 Examples of Tasters in Ministry</title>
+      <description>02 Examples of Tasters in Ministry</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:38 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C64_02%20Examples%20of%20Tasters%20in%20Ministry.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C64_02%20Examples%20of%20Tasters%20in%20Ministry.mp3</guid>
+    </item>
+
+    <item>
+      <title>03 What it Means to be a Partaker</title>
+      <description>03 What it Means to be a Partaker</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C64_03%20What%20it%20Means%20to%20be%20a%20Partaker.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C64_03%20What%20it%20Means%20to%20be%20a%20Partaker.mp3</guid>
+    </item>
+
+    <item>
+      <title>04 23 Things to be a Partaker of the Ministry of the Lord</title>
+      <description>04 23 Things to be a Partaker of the Ministry of the Lord</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C64_04%2023%20Things%20to%20be%20a%20Partaker%20of%20the%20Ministry%20of%20the%20Lord.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C64_04%2023%20Things%20to%20be%20a%20Partaker%20of%20the%20Ministry%20of%20the%20Lord.mp3</guid>
+    </item>
+
+    <item>
+      <title>05 Prayer</title>
+      <description>05 Prayer</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C64_05%20Prayer.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C64_05%20Prayer.mp3</guid>
+    </item>
+
+    <item>
+      <title>06 8 Things that will Happen when You Partake</title>
+      <description>06 8 Things that will Happen when You Partake</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C64_06%208%20Things%20that%20will%20Happen%20when%20You%20Partake.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C64_06%208%20Things%20that%20will%20Happen%20when%20You%20Partake.mp3</guid>
+    </item>
+
+    <item>
+      <title>07 Song Ministration</title>
+      <description>07 Song Ministration</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:33 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C64_07%20Song%20Ministration.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C64_07%20Song%20Ministration.mp3</guid>
+    </item>
+
+    <item>
+      <title>08 10 Reasons why Tasters Don't Become Partakers</title>
+      <description>08 10 Reasons why Tasters Don't Become Partakers</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:32 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C64_08%2010%20Reasons%20why%20Tasters%20Don't%20Become%20Partakers.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C64_08%2010%20Reasons%20why%20Tasters%20Don't%20Become%20Partakers.mp3</guid>
+    </item>
+
+    <item>
+      <title>09 7 Meanings of Unwillingness</title>
+      <description>09 7 Meanings of Unwillingness</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:31 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C64_09%207%20Meanings%20of%20Unwillingness.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C64_09%207%20Meanings%20of%20Unwillingness.mp3</guid>
+    </item>
+
+    <item>
+      <title>10 Rebellion- Meaning of Rebellion</title>
+      <description>10 Rebellion- Meaning of Rebellion</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:30 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C64_10%20Rebellion-%20Meaning%20of%20Rebellion.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C64_10%20Rebellion-%20Meaning%20of%20Rebellion.mp3</guid>
+    </item>
+
+    <item>
+      <title>11 Grumbling- Meaning of Grumbling</title>
+      <description>11 Grumbling- Meaning of Grumbling</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:29 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C64_11%20Grumbling-%20Meaning%20of%20Grumbling.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C64_11%20Grumbling-%20Meaning%20of%20Grumbling.mp3</guid>
+    </item>
+
+    <item>
+      <title>12 Unbelief 1</title>
+      <description>12 Unbelief 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:28 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C64_12%20Unbelief%201.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C64_12%20Unbelief%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>13 Unbelief 2</title>
+      <description>13 Unbelief 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:27 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C64_13%20Unbelief%202.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C64_13%20Unbelief%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>14 How to Develop Your Faith for Ministry</title>
+      <description>14 How to Develop Your Faith for Ministry</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:26 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C64_14%20How%20to%20Develop%20Your%20Faith%20for%20Ministry.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C64_14%20How%20to%20Develop%20Your%20Faith%20for%20Ministry.mp3</guid>
+    </item>
+
+    <item>
+      <title>15 3 Ways to Improve Your Faith for Ministry</title>
+      <description>15 3 Ways to Improve Your Faith for Ministry</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:25 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C64_15%203%20Ways%20to%20Improve%20Your%20Faith%20for%20Ministry.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C64_15%203%20Ways%20to%20Improve%20Your%20Faith%20for%20Ministry.mp3</guid>
+    </item>
+
+    <item>
+      <title>16 Song Ministration</title>
+      <description>16 Song Ministration</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:24 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C64_16%20Song%20Ministration.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C64_16%20Song%20Ministration.mp3</guid>
+    </item>
+
+    <item>
+      <title>17 Faith Confessions</title>
+      <description>17 Faith Confessions</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:23 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C64_17%20Faith%20Confessions.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C64_17%20Faith%20Confessions.mp3</guid>
+    </item>
+
+    <item>
+      <title>18 Faith Prayer</title>
+      <description>18 Faith Prayer</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:22 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C64_18%20Faith%20Prayer.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C64_18%20Faith%20Prayer.mp3</guid>
+    </item>
+
+    <item>
+      <title>19 I Am, I Have, I Can</title>
+      <description>19 I Am, I Have, I Can</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:21 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C64_19%20I%20Am,%20I%20Have,%20I%20Can.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C64_19%20I%20Am,%20I%20Have,%20I%20Can.mp3</guid>
+    </item>
+
+    <item>
+      <title>20 Song- More Books</title>
+      <description>20 Song- More Books</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:20 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C64_20%20Song-%20More%20Books.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C64_20%20Song-%20More%20Books.mp3</guid>
+    </item>
+
+    <item>
+      <title>21 Discouragement</title>
+      <description>21 Discouragement</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:19 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C64_21%20Discouragement.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C64_21%20Discouragement.mp3</guid>
+    </item>
+
+    <item>
+      <title>22 Impossibility Thinking, Fear, Accusation, Disobedience, Evil Report</title>
+      <description>22 Impossibility Thinking, Fear, Accusation, Disobedience, Evil Report</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:18 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C64_22%20Impossibility%20Thinking,%20Fear,%20Accusation,%20Disobedience,%20Evil%20Report.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C64_22%20Impossibility%20Thinking,%20Fear,%20Accusation,%20Disobedience,%20Evil%20Report.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

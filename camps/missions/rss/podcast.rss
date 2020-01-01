@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Missions</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Missions</description>
+    <googleplay:image href="https://www.machanehcast.com/camps/missions/INEXORABILITY_IN_THE_MISSIONS.jpg"/>
+    <language>en-us</language>
+    <link>https://www.machanehcast.com/camps/missions/</link>
+    <image>
+        <url>
+            https://www.machanehcast.com/camps/missions/INEXORABILITY_IN_THE_MISSIONS.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>00 Intro Missions</title>
+      <description>00 Intro Missions</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:40 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C48_00%20Intro%20Missions.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C48_00%20Intro%20Missions.mp3</guid>
+    </item>
+
+    <item>
+      <title>01 Acts Chapter 1</title>
+      <description>01 Acts Chapter 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:39 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C48_01%20Acts%20Chapter%201.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C48_01%20Acts%20Chapter%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>02 Acts Chapter 2-a</title>
+      <description>02 Acts Chapter 2-a</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:38 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C48_02%20Acts%20Chapter%202-a.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C48_02%20Acts%20Chapter%202-a.mp3</guid>
+    </item>
+
+    <item>
+      <title>03 Acts Chapter 2-b</title>
+      <description>03 Acts Chapter 2-b</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C48_03%20Acts%20Chapter%202-b.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C48_03%20Acts%20Chapter%202-b.mp3</guid>
+    </item>
+
+    <item>
+      <title>04 John Chapter 9</title>
+      <description>04 John Chapter 9</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C48_04%20John%20Chapter%209.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C48_04%20John%20Chapter%209.mp3</guid>
+    </item>
+
+    <item>
+      <title>05 John Chapter 10</title>
+      <description>05 John Chapter 10</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C48_05%20John%20Chapter%2010.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C48_05%20John%20Chapter%2010.mp3</guid>
+    </item>
+
+    <item>
+      <title>06 John Chapter 11a</title>
+      <description>06 John Chapter 11a</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C48_06%20John%20Chapter%2011a.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C48_06%20John%20Chapter%2011a.mp3</guid>
+    </item>
+
+    <item>
+      <title>07 John Chapter 11-b</title>
+      <description>07 John Chapter 11-b</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:33 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C48_07%20John%20Chapter%2011-b.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C48_07%20John%20Chapter%2011-b.mp3</guid>
+    </item>
+
+    <item>
+      <title>08 John Chapter 12</title>
+      <description>08 John Chapter 12</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:32 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C48_08%20John%20Chapter%2012.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C48_08%20John%20Chapter%2012.mp3</guid>
+    </item>
+
+    <item>
+      <title>09 John Chapter 12-Cont'd and Chapter 13</title>
+      <description>09 John Chapter 12-Cont'd and Chapter 13</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:31 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C48_09%20John%20Chapter%2012-Cont'd%20and%20Chapter%2013.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C48_09%20John%20Chapter%2012-Cont'd%20and%20Chapter%2013.mp3</guid>
+    </item>
+
+    <item>
+      <title>10 John Chapters 12 and 14</title>
+      <description>10 John Chapters 12 and 14</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:30 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C48_10%20John%20Chapters%2012%20and%2014.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C48_10%20John%20Chapters%2012%20and%2014.mp3</guid>
+    </item>
+
+    <item>
+      <title>11 Praise and Worship</title>
+      <description>11 Praise and Worship</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:29 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C48_11%20Praise%20and%20Worship.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C48_11%20Praise%20and%20Worship.mp3</guid>
+    </item>
+
+    <item>
+      <title>13 USFamService - Atlanta</title>
+      <description>13 USFamService - Atlanta</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:28 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C48_13%20USFamService%20-%20Atlanta.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C48_13%20USFamService%20-%20Atlanta.mp3</guid>
+    </item>
+
+    <item>
+      <title>14 USFamService - Maryland</title>
+      <description>14 USFamService - Maryland</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:27 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C48_14%20USFamService%20-%20Maryland.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C48_14%20USFamService%20-%20Maryland.mp3</guid>
+    </item>
+
+    <item>
+      <title>15 US FamService - New York</title>
+      <description>15 US FamService - New York</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:26 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C48_15%20US%20FamService%20-%20New%20York.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C48_15%20US%20FamService%20-%20New%20York.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

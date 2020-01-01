@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Birthday - Kee Waa</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Birthday - Kee Waa</description>
+    <googleplay:image href="https://www.machanehcast.com/camps/birthday_-_kee_waa/BIRTHDAY_(KEEWAA).jpg"/>
+    <language>en-us</language>
+    <link>https://www.machanehcast.com/camps/birthday_-_kee_waa/</link>
+    <image>
+        <url>
+            https://www.machanehcast.com/camps/birthday_-_kee_waa/BIRTHDAY_(KEEWAA).jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>00 Intro - Birthday - Kee Waa</title>
+      <description>00 Intro - Birthday - Kee Waa</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:40 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C39_00%20Intro%20-%20Birthday%20-%20Kee%20Waa.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C39_00%20Intro%20-%20Birthday%20-%20Kee%20Waa.mp3</guid>
+    </item>
+
+    <item>
+      <title>01 Interaction</title>
+      <description>01 Interaction</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:39 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C39_01%20Interaction.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C39_01%20Interaction.mp3</guid>
+    </item>
+
+    <item>
+      <title>03 Queen Vashti - Loosing the</title>
+      <description>03 Queen Vashti - Loosing the</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:38 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C39_03%20Queen%20Vashti%20-%20Loosing%20the.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C39_03%20Queen%20Vashti%20-%20Loosing%20the.mp3</guid>
+    </item>
+
+    <item>
+      <title>04%c2%a0Sharing of a Vision by a B</title>
+      <description>04%c2%a0Sharing of a Vision by a B</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C39_04%c2%a0Sharing%20of%20a%20Vision%20by%20a%20B.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C39_04%c2%a0Sharing%20of%20a%20Vision%20by%20a%20B.mp3</guid>
+    </item>
+
+    <item>
+      <title>05%c2%a0Loosing the Privilege 2</title>
+      <description>05%c2%a0Loosing the Privilege 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C39_05%c2%a0Loosing%20the%20Privilege%202.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C39_05%c2%a0Loosing%20the%20Privilege%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>06 Sharing of a Vision by a B</title>
+      <description>06 Sharing of a Vision by a B</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C39_06%20Sharing%20of%20a%20Vision%20by%20a%20B.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C39_06%20Sharing%20of%20a%20Vision%20by%20a%20B.mp3</guid>
+    </item>
+
+    <item>
+      <title>07 %c2%a0Loosing the Privilege 3</title>
+      <description>07 %c2%a0Loosing the Privilege 3</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C39_07%20%c2%a0Loosing%20the%20Privilege%203.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C39_07%20%c2%a0Loosing%20the%20Privilege%203.mp3</guid>
+    </item>
+
+    <item>
+      <title>08 Always be Thankful</title>
+      <description>08 Always be Thankful</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:33 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C39_08%20Always%20be%20Thankful.mp3.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C39_08%20Always%20be%20Thankful.mp3.mp3</guid>
+    </item>
+
+    <item>
+      <title>09 Your Place</title>
+      <description>09 Your Place</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:32 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C39_09%20Your%20Place.mp3.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C39_09%20Your%20Place.mp3.mp3</guid>
+    </item>
+
+    <item>
+      <title>10 Embrace the Shame</title>
+      <description>10 Embrace the Shame</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:31 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C39_10%20Embrace%20the%20Shame.mp3.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C39_10%20Embrace%20the%20Shame.mp3.mp3</guid>
+    </item>
+
+    <item>
+      <title>11 Embrace the Chance to Love</title>
+      <description>11 Embrace the Chance to Love</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:30 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C39_11%20Embrace%20the%20Chance%20to%20Love.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C39_11%20Embrace%20the%20Chance%20to%20Love.mp3</guid>
+    </item>
+
+    <item>
+      <title>12 Understanding the Times.mp</title>
+      <description>12 Understanding the Times.mp</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:29 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C39_12%20Understanding%20the%20Times.mp.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C39_12%20Understanding%20the%20Times.mp.mp3</guid>
+    </item>
+
+    <item>
+      <title>13 Embrace the Loss</title>
+      <description>13 Embrace the Loss</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:28 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C39_13%20Embrace%20the%20Loss.mp3.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C39_13%20Embrace%20the%20Loss.mp3.mp3</guid>
+    </item>
+
+    <item>
+      <title>14 Embrace Your New Career 1.</title>
+      <description>14 Embrace Your New Career 1.</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:27 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C39_14%20Embrace%20Your%20New%20Career%201..mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C39_14%20Embrace%20Your%20New%20Career%201..mp3</guid>
+    </item>
+
+    <item>
+      <title>15 Ministration</title>
+      <description>15 Ministration</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:26 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C39_15%20Ministration.mp3.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C39_15%20Ministration.mp3.mp3</guid>
+    </item>
+
+    <item>
+      <title>16 Embrace Your New Career 2.</title>
+      <description>16 Embrace Your New Career 2.</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:25 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C39_16%20Embrace%20Your%20New%20Career%202..mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C39_16%20Embrace%20Your%20New%20Career%202..mp3</guid>
+    </item>
+
+    <item>
+      <title>17 Embracing the Suffering Th</title>
+      <description>17 Embracing the Suffering Th</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:24 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C39_17%20Embracing%20the%20Suffering%20Th.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C39_17%20Embracing%20the%20Suffering%20Th.mp3</guid>
+    </item>
+
+    <item>
+      <title>18 Song - Take Up Your Cross</title>
+      <description>18 Song - Take Up Your Cross</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:23 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C39_18%20Song%20-%20Take%20Up%20Your%20Cross.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C39_18%20Song%20-%20Take%20Up%20Your%20Cross.mp3</guid>
+    </item>
+
+    <item>
+      <title>19 Embracing The Sufferings t</title>
+      <description>19 Embracing The Sufferings t</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:22 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C39_19%20Embracing%20The%20Sufferings%20t.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C39_19%20Embracing%20The%20Sufferings%20t.mp3</guid>
+    </item>
+
+    <item>
+      <title>20 Running from the Cross</title>
+      <description>20 Running from the Cross</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:21 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C39_20%20Running%20from%20the%20Cross.mp3.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C39_20%20Running%20from%20the%20Cross.mp3.mp3</guid>
+    </item>
+
+    <item>
+      <title>21 The Greatest Calling of Al</title>
+      <description>21 The Greatest Calling of Al</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:20 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C39_21%20The%20Greatest%20Calling%20of%20Al.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C39_21%20The%20Greatest%20Calling%20of%20Al.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

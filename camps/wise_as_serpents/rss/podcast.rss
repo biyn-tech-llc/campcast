@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Wise As Serpents</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Wise As Serpents</description>
+    <googleplay:image href="https://www.machanehcast.com/camps/wise_as_serpents/1498919796_Wise-as-serpents.jpg"/>
+    <language>en-us</language>
+    <link>https://www.machanehcast.com/camps/wise_as_serpents/</link>
+    <image>
+        <url>
+            https://www.machanehcast.com/camps/wise_as_serpents/1498919796_Wise-as-serpents.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>00 Intro</title>
+      <description>00 Intro</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:40 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C85_00%20Intro.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C85_00%20Intro.mp3</guid>
+    </item>
+
+    <item>
+      <title>01 The Wisdom of Venom</title>
+      <description>01 The Wisdom of Venom</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:39 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C85_01%20The%20Wisdom%20of%20Venom.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C85_01%20The%20Wisdom%20of%20Venom.mp3</guid>
+    </item>
+
+    <item>
+      <title>02 Prayer Marathon</title>
+      <description>02 Prayer Marathon</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:38 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C85_02%20Prayer%20Marathon.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C85_02%20Prayer%20Marathon.mp3</guid>
+    </item>
+
+    <item>
+      <title>03 How to Develop Internal Powers</title>
+      <description>03 How to Develop Internal Powers</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C85_03%20How%20to%20Develop%20Internal%20Powers.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C85_03%20How%20to%20Develop%20Internal%20Powers.mp3</guid>
+    </item>
+
+    <item>
+      <title>04 Prayer Marathon</title>
+      <description>04 Prayer Marathon</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C85_04%20Prayer%20Marathon.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C85_04%20Prayer%20Marathon.mp3</guid>
+    </item>
+
+    <item>
+      <title>05 Inner Strength of Love,Joy,Patience,Peace,Kindness and Goodness</title>
+      <description>05 Inner Strength of Love,Joy,Patience,Peace,Kindness and Goodness</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C85_05%20Inner%20Strength%20of%20Love,Joy,Patience,Peace,Kindness%20and%20Goodness.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C85_05%20Inner%20Strength%20of%20Love,Joy,Patience,Peace,Kindness%20and%20Goodness.mp3</guid>
+    </item>
+
+    <item>
+      <title>06 Inner_Strength of faithfulness, Gentleness and Self Control</title>
+      <description>06 Inner_Strength of faithfulness, Gentleness and Self Control</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C85_06%20Inner_Strength%20of%20faithfulness,%20Gentleness%20and%20Self%20Control.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C85_06%20Inner_Strength%20of%20faithfulness,%20Gentleness%20and%20Self%20Control.mp3</guid>
+    </item>
+
+    <item>
+      <title>07 Prayer Marathon</title>
+      <description>07 Prayer Marathon</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:33 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C85_07%20Prayer%20Marathon.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C85_07%20Prayer%20Marathon.mp3</guid>
+    </item>
+
+    <item>
+      <title>08 Serpents as masters of Overcoming Personal Handicap</title>
+      <description>08 Serpents as masters of Overcoming Personal Handicap</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:32 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C85_08%20Serpents%20as%20masters%20of%20Overcoming%20Personal%20Handicap.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C85_08%20Serpents%20as%20masters%20of%20Overcoming%20Personal%20Handicap.mp3</guid>
+    </item>
+
+    <item>
+      <title>09 Six_ways_of_Overcoming_Handicaps and of_Giving_Themselves_Wholly</title>
+      <description>09 Six_ways_of_Overcoming_Handicaps and of_Giving_Themselves_Wholly</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:31 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C85_09%20Six_ways_of_Overcoming_Handicaps%20and%20of_Giving_Themselves_Wholly.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C85_09%20Six_ways_of_Overcoming_Handicaps%20and%20of_Giving_Themselves_Wholly.mp3</guid>
+    </item>
+
+    <item>
+      <title>10 Serpents_as_Masters_of_Manouvers</title>
+      <description>10 Serpents_as_Masters_of_Manouvers</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:30 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C85_10%20Serpents_as_Masters_of_Manouvers.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C85_10%20Serpents_as_Masters_of_Manouvers.mp3</guid>
+    </item>
+
+    <item>
+      <title>11 Prayer_Marathon</title>
+      <description>11 Prayer_Marathon</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:29 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C85_11%20Prayer_Marathon.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C85_11%20Prayer_Marathon.mp3</guid>
+    </item>
+
+    <item>
+      <title>12 Serpents_as_Masters_of_Quick_Growth_and_Development</title>
+      <description>12 Serpents_as_Masters_of_Quick_Growth_and_Development</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:28 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C85_12%20Serpents_as_Masters_of_Quick_Growth_and_Development.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C85_12%20Serpents_as_Masters_of_Quick_Growth_and_Development.mp3</guid>
+    </item>
+
+    <item>
+      <title>13 Serpents_as_Masters_of_Survival</title>
+      <description>13 Serpents_as_Masters_of_Survival</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:27 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C85_13%20Serpents_as_Masters_of_Survival.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C85_13%20Serpents_as_Masters_of_Survival.mp3</guid>
+    </item>
+
+    <item>
+      <title>14 Prayer_Marathon</title>
+      <description>14 Prayer_Marathon</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:26 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C85_14%20Prayer_Marathon.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C85_14%20Prayer_Marathon.mp3</guid>
+    </item>
+
+    <item>
+      <title>15 Contentment_and_Dangers_of_Discontentment</title>
+      <description>15 Contentment_and_Dangers_of_Discontentment</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:25 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C85_15%20Contentment_and_Dangers_of_Discontentment.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C85_15%20Contentment_and_Dangers_of_Discontentment.mp3</guid>
+    </item>
+
+    <item>
+      <title>16 Serpents_as_Masters_of_Frugality</title>
+      <description>16 Serpents_as_Masters_of_Frugality</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:24 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C85_16%20Serpents_as_Masters_of_Frugality.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C85_16%20Serpents_as_Masters_of_Frugality.mp3</guid>
+    </item>
+
+    <item>
+      <title>17 Serpents_as_Masters_of_Overcoming_Demons</title>
+      <description>17 Serpents_as_Masters_of_Overcoming_Demons</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:23 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C85_17%20Serpents_as_Masters_of_Overcoming_Demons.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C85_17%20Serpents_as_Masters_of_Overcoming_Demons.mp3</guid>
+    </item>
+
+    <item>
+      <title>18 Prayer Marathon</title>
+      <description>18 Prayer Marathon</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:22 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C85_18%20Prayer%20Marathon.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C85_18%20Prayer%20Marathon.mp3</guid>
+    </item>
+
+    <item>
+      <title>19 Serpents as Masters of Silence and  of Camouflage</title>
+      <description>19 Serpents as Masters of Silence and  of Camouflage</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:21 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C85_19%20Serpents%20as%20Masters%20of%20Silence%20and%20%20of%20Camouflage.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C85_19%20Serpents%20as%20Masters%20of%20Silence%20and%20%20of%20Camouflage.mp3</guid>
+    </item>
+
+    <item>
+      <title>20 Serpents_as_Masters_of_Defence_and_Reputation</title>
+      <description>20 Serpents_as_Masters_of_Defence_and_Reputation</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:20 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C85_20%20Serpents_as_Masters_of_Defence_and_Reputation.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C85_20%20Serpents_as_Masters_of_Defence_and_Reputation.mp3</guid>
+    </item>
+
+    <item>
+      <title>21 Recap_with_Bishop_Ogoe</title>
+      <description>21 Recap_with_Bishop_Ogoe</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:19 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C85_21%20Recap_with_Bishop_Ogoe.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C85_21%20Recap_with_Bishop_Ogoe.mp3</guid>
+    </item>
+
+    <item>
+      <title>22 Masters_of_Speed</title>
+      <description>22 Masters_of_Speed</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:18 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C85_22%20Masters_of_Speed.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C85_22%20Masters_of_Speed.mp3</guid>
+    </item>
+
+    <item>
+      <title>23 Masters_of_Speed cont'd</title>
+      <description>23 Masters_of_Speed cont'd</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:17 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C85_23%20Masters_of_Speed%20cont'd.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C85_23%20Masters_of_Speed%20cont'd.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

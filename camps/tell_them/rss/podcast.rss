@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Tell Them</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Tell Them</description>
+    <googleplay:image href="https://www.machanehcast.com/camps/tell_them/1544764063_tell_them.jpg"/>
+    <language>en-us</language>
+    <link>https://www.machanehcast.com/camps/tell_them/</link>
+    <image>
+        <url>
+            https://www.machanehcast.com/camps/tell_them/1544764063_tell_them.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>00 Intro - Tell Them</title>
+      <description>00 Intro - Tell Them</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:40 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C51_00%20Intro%20-%20Tell%20Them.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C51_00%20Intro%20-%20Tell%20Them.mp3</guid>
+    </item>
+
+    <item>
+      <title>01 What It Means To Be Called</title>
+      <description>01 What It Means To Be Called</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:39 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C51_01%20What%20It%20Means%20To%20Be%20Called.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C51_01%20What%20It%20Means%20To%20Be%20Called.mp3</guid>
+    </item>
+
+    <item>
+      <title>02  Who Are The Types Of People G</title>
+      <description>02  Who Are The Types Of People G</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:38 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C51_02%20%20Who%20Are%20The%20Types%20Of%20People%20G.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C51_02%20%20Who%20Are%20The%20Types%20Of%20People%20G.mp3</guid>
+    </item>
+
+    <item>
+      <title>03 The Need of a Shepherd</title>
+      <description>03 The Need of a Shepherd</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C51_03%20The%20Need%20of%20a%20Shepherd.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C51_03%20The%20Need%20of%20a%20Shepherd.mp3</guid>
+    </item>
+
+    <item>
+      <title>04 Assignments of Sheperds</title>
+      <description>04 Assignments of Sheperds</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C51_04%20Assignments%20of%20Sheperds.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C51_04%20Assignments%20of%20Sheperds.mp3</guid>
+    </item>
+
+    <item>
+      <title>05 100  Reasons For Soul Winning</title>
+      <description>05 100  Reasons For Soul Winning</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C51_05%20100%20%20Reasons%20For%20Soul%20Winning.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C51_05%20100%20%20Reasons%20For%20Soul%20Winning.mp3</guid>
+    </item>
+
+    <item>
+      <title>06 100 Reasons For Soul Winning </title>
+      <description>06 100 Reasons For Soul Winning </description>
+      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C51_06%20100%20Reasons%20For%20Soul%20Winning%20.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C51_06%20100%20Reasons%20For%20Soul%20Winning%20.mp3</guid>
+    </item>
+
+    <item>
+      <title>07 100 Reasons For Soul Winning </title>
+      <description>07 100 Reasons For Soul Winning </description>
+      <pubDate>Tue, 26 Mar 2019 12:16:33 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C51_07%20100%20Reasons%20For%20Soul%20Winning%20.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C51_07%20100%20Reasons%20For%20Soul%20Winning%20.mp3</guid>
+    </item>
+
+    <item>
+      <title>08 100 Reasons For Soul Winning</title>
+      <description>08 100 Reasons For Soul Winning</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:32 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C51_08%20100%20Reasons%20For%20Soul%20Winning.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C51_08%20100%20Reasons%20For%20Soul%20Winning.mp3</guid>
+    </item>
+
+    <item>
+      <title>09 100 Reasons For Soul Winning</title>
+      <description>09 100 Reasons For Soul Winning</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:31 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C51_09%20100%20Reasons%20For%20Soul%20Winning.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C51_09%20100%20Reasons%20For%20Soul%20Winning.mp3</guid>
+    </item>
+
+    <item>
+      <title>10 100 Reasons For Soul Winning</title>
+      <description>10 100 Reasons For Soul Winning</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:30 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C51_10%20100%20Reasons%20For%20Soul%20Winning.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C51_10%20100%20Reasons%20For%20Soul%20Winning.mp3</guid>
+    </item>
+
+    <item>
+      <title>11 100 Reasons For Soul Winning</title>
+      <description>11 100 Reasons For Soul Winning</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:29 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C51_11%20100%20Reasons%20For%20Soul%20Winning.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C51_11%20100%20Reasons%20For%20Soul%20Winning.mp3</guid>
+    </item>
+
+    <item>
+      <title>12 100 Reasons For Soul Winning </title>
+      <description>12 100 Reasons For Soul Winning </description>
+      <pubDate>Tue, 26 Mar 2019 12:16:28 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C51_12%20100%20Reasons%20For%20Soul%20Winning%20.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C51_12%20100%20Reasons%20For%20Soul%20Winning%20.mp3</guid>
+    </item>
+
+    <item>
+      <title>13 100 Reasons For Soul Winning</title>
+      <description>13 100 Reasons For Soul Winning</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:27 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C51_13%20100%20Reasons%20For%20Soul%20Winning.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C51_13%20100%20Reasons%20For%20Soul%20Winning.mp3</guid>
+    </item>
+
+    <item>
+      <title>14 100 Reasons For Soul Winning</title>
+      <description>14 100 Reasons For Soul Winning</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:26 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C51_14%20100%20Reasons%20For%20Soul%20Winning.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C51_14%20100%20Reasons%20For%20Soul%20Winning.mp3</guid>
+    </item>
+
+    <item>
+      <title>15 100 Reasons For Soul Winn</title>
+      <description>15 100 Reasons For Soul Winn</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:25 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C51_15%20100%20Reasons%20For%20Soul%20Winn.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C51_15%20100%20Reasons%20For%20Soul%20Winn.mp3</guid>
+    </item>
+
+    <item>
+      <title>16 100 Reasons For Soul Winning</title>
+      <description>16 100 Reasons For Soul Winning</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:24 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C51_16%20100%20Reasons%20For%20Soul%20Winning.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C51_16%20100%20Reasons%20For%20Soul%20Winning.mp3</guid>
+    </item>
+
+    <item>
+      <title>17 Characteristics of a hire</title>
+      <description>17 Characteristics of a hire</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:23 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C51_17%20Characteristics%20of%20a%20hire.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C51_17%20Characteristics%20of%20a%20hire.mp3</guid>
+    </item>
+
+    <item>
+      <title>18 100 Reasons For Soul Winn</title>
+      <description>18 100 Reasons For Soul Winn</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:22 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C51_18%20100%20Reasons%20For%20Soul%20Winn.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C51_18%20100%20Reasons%20For%20Soul%20Winn.mp3</guid>
+    </item>
+
+    <item>
+      <title>19 100 Reasons For Soul Winn</title>
+      <description>19 100 Reasons For Soul Winn</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:21 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C51_19%20100%20Reasons%20For%20Soul%20Winn.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C51_19%20100%20Reasons%20For%20Soul%20Winn.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

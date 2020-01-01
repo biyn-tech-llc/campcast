@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Lay Power</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Lay Power</description>
+    <googleplay:image href="https://www.machanehcast.com/camps/lay_power/1544764482_lay_power.jpg"/>
+    <language>en-us</language>
+    <link>https://www.machanehcast.com/camps/lay_power/</link>
+    <image>
+        <url>
+            https://www.machanehcast.com/camps/lay_power/1544764482_lay_power.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>00 Intro Lay Power</title>
+      <description>00 Intro Lay Power</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:40 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C60_00%20Intro%20Lay%20Power.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C60_00%20Intro%20Lay%20Power.mp3</guid>
+    </item>
+
+    <item>
+      <title>01 18 Definitions of a Lay Person</title>
+      <description>01 18 Definitions of a Lay Person</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:39 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C60_01%2018%20Definitions%20of%20a%20Lay%20Person.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C60_01%2018%20Definitions%20of%20a%20Lay%20Person.mp3</guid>
+    </item>
+
+    <item>
+      <title>02 Historical Impact of The Common Man</title>
+      <description>02 Historical Impact of The Common Man</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:38 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C60_02%20Historical%20Impact%20of%20The%20Common%20Man.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C60_02%20Historical%20Impact%20of%20The%20Common%20Man.mp3</guid>
+    </item>
+
+    <item>
+      <title>03 Lay People And Methodism</title>
+      <description>03 Lay People And Methodism</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C60_03%20Lay%20People%20And%20Methodism.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C60_03%20Lay%20People%20And%20Methodism.mp3</guid>
+    </item>
+
+    <item>
+      <title>04 Five Facts about The Call of God</title>
+      <description>04 Five Facts about The Call of God</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C60_04%20Five%20Facts%20about%20The%20Call%20of%20God.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C60_04%20Five%20Facts%20about%20The%20Call%20of%20God.mp3</guid>
+    </item>
+
+    <item>
+      <title>05 How Different People Were Called 1</title>
+      <description>05 How Different People Were Called 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C60_05%20How%20Different%20People%20Were%20Called%201.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C60_05%20How%20Different%20People%20Were%20Called%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>06 How Different People Were Called 2</title>
+      <description>06 How Different People Were Called 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C60_06%20How%20Different%20People%20Were%20Called%202.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C60_06%20How%20Different%20People%20Were%20Called%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>07 Characteristics of Called People 1</title>
+      <description>07 Characteristics of Called People 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:33 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C60_07%20Characteristics%20of%20Called%20People%201.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C60_07%20Characteristics%20of%20Called%20People%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>08 Characteristics of Called People 2</title>
+      <description>08 Characteristics of Called People 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:32 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C60_08%20Characteristics%20of%20Called%20People%202.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C60_08%20Characteristics%20of%20Called%20People%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>09 What it Means to be Called 1</title>
+      <description>09 What it Means to be Called 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:31 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C60_09%20What%20it%20Means%20to%20be%20Called%201.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C60_09%20What%20it%20Means%20to%20be%20Called%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>10 What it Means to be Called 2</title>
+      <description>10 What it Means to be Called 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:30 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C60_10%20What%20it%20Means%20to%20be%20Called%202.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C60_10%20What%20it%20Means%20to%20be%20Called%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>11 The Ministry, Work or Rest 1</title>
+      <description>11 The Ministry, Work or Rest 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:29 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C60_11%20The%20Ministry,%20Work%20or%20Rest%201.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C60_11%20The%20Ministry,%20Work%20or%20Rest%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>12 The Ministry, Work or Rest 2</title>
+      <description>12 The Ministry, Work or Rest 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:28 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C60_12%20The%20Ministry,%20Work%20or%20Rest%202.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C60_12%20The%20Ministry,%20Work%20or%20Rest%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>13 P. V. C. I. R. T. E</title>
+      <description>13 P. V. C. I. R. T. E</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:27 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C60_13%20P.%20V.%20C.%20I.%20R.%20T.%20E.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C60_13%20P.%20V.%20C.%20I.%20R.%20T.%20E.mp3</guid>
+    </item>
+
+    <item>
+      <title>14 The TV and Radio Ministry</title>
+      <description>14 The TV and Radio Ministry</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:26 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C60_14%20The%20TV%20and%20Radio%20Ministry.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C60_14%20The%20TV%20and%20Radio%20Ministry.mp3</guid>
+    </item>
+
+    <item>
+      <title>15 The Bus Ministry</title>
+      <description>15 The Bus Ministry</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:25 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C60_15%20The%20Bus%20Ministry.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C60_15%20The%20Bus%20Ministry.mp3</guid>
+    </item>
+
+    <item>
+      <title>16 Evangelism</title>
+      <description>16 Evangelism</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:24 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C60_16%20Evangelism.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C60_16%20Evangelism.mp3</guid>
+    </item>
+
+    <item>
+      <title>17 Overcoming Shallowness 1</title>
+      <description>17 Overcoming Shallowness 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:23 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C60_17%20Overcoming%20Shallowness%201.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C60_17%20Overcoming%20Shallowness%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>18 Overcoming Shallowness 2</title>
+      <description>18 Overcoming Shallowness 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:22 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C60_18%20Overcoming%20Shallowness%202.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C60_18%20Overcoming%20Shallowness%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>19 7 Things about Quiet Time</title>
+      <description>19 7 Things about Quiet Time</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:21 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C60_19%207%20Things%20about%20Quiet%20Time.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C60_19%207%20Things%20about%20Quiet%20Time.mp3</guid>
+    </item>
+
+    <item>
+      <title>20 15 Powerful Effects of Quiet Time</title>
+      <description>20 15 Powerful Effects of Quiet Time</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:20 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C60_20%2015%20Powerful%20Effects%20of%20Quiet%20Time.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C60_20%2015%20Powerful%20Effects%20of%20Quiet%20Time.mp3</guid>
+    </item>
+
+    <item>
+      <title>21 Develop Spiritual Habits</title>
+      <description>21 Develop Spiritual Habits</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:19 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C60_21%20Develop%20Spiritual%20Habits.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C60_21%20Develop%20Spiritual%20Habits.mp3</guid>
+    </item>
+
+    <item>
+      <title>22 7 Signs of Tithing</title>
+      <description>22 7 Signs of Tithing</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:18 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C60_22%207%20Signs%20of%20Tithing.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C60_22%207%20Signs%20of%20Tithing.mp3</guid>
+    </item>
+
+    <item>
+      <title>23 7 New Ways to Pay Your Tithe</title>
+      <description>23 7 New Ways to Pay Your Tithe</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:17 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C60_23%207%20New%20Ways%20to%20Pay%20Your%20Tithe.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C60_23%207%20New%20Ways%20to%20Pay%20Your%20Tithe.mp3</guid>
+    </item>
+
+    <item>
+      <title>24 43 Reasons why People Don't Pay Tithe</title>
+      <description>24 43 Reasons why People Don't Pay Tithe</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:16 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C60_24%2043%20Reasons%20why%20People%20Don't%20Pay%20Tithe.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C60_24%2043%20Reasons%20why%20People%20Don't%20Pay%20Tithe.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

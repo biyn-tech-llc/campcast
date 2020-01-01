@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Season of Withdrawal</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Season of Withdrawal</description>
+    <googleplay:image href="https://www.machanehcast.com/camps/season_of_withdrawal/1550854868_season_of_withdrawal.jpg"/>
+    <language>en-us</language>
+    <link>https://www.machanehcast.com/camps/season_of_withdrawal/</link>
+    <image>
+        <url>
+            https://www.machanehcast.com/camps/season_of_withdrawal/1550854868_season_of_withdrawal.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>1. Prophets or Spirituals</title>
+      <description>1. Prophets or Spirituals</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:40 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/1.%20Prophets%20or%20Spirituals.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/1.%20Prophets%20or%20Spirituals.mp3</guid>
+    </item>
+
+    <item>
+      <title>2. Prophets or Spirituals_Prayer Session</title>
+      <description>2. Prophets or Spirituals_Prayer Session</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:39 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/2.%20Prophets%20or%20Spirituals_Prayer%20Session.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/2.%20Prophets%20or%20Spirituals_Prayer%20Session.mp3</guid>
+    </item>
+
+    <item>
+      <title>3. The Fall of Lucifer</title>
+      <description>3. The Fall of Lucifer</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:38 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/3.%20The%20Fall%20of%20Lucifer.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/3.%20The%20Fall%20of%20Lucifer.mp3</guid>
+    </item>
+
+    <item>
+      <title>4. The Fall of Lucifer_Prayer Session </title>
+      <description>4. The Fall of Lucifer_Prayer Session </description>
+      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/4.%20The%20Fall%20of%20Lucifer_Prayer%20Session%20.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/4.%20The%20Fall%20of%20Lucifer_Prayer%20Session%20.mp3</guid>
+    </item>
+
+    <item>
+      <title>5. Dialogue or Monologue</title>
+      <description>5. Dialogue or Monologue</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/5.%20Dialogue%20or%20Monologue.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/5.%20Dialogue%20or%20Monologue.mp3</guid>
+    </item>
+
+    <item>
+      <title>6. Dialogue or Monologue_Prayer Session</title>
+      <description>6. Dialogue or Monologue_Prayer Session</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/6.%20Dialogue%20or%20Monologue_Prayer%20Session.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/6.%20Dialogue%20or%20Monologue_Prayer%20Session.mp3</guid>
+    </item>
+
+    <item>
+      <title>7. What Prayer Births</title>
+      <description>7. What Prayer Births</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/7.%20What%20Prayer%20Births.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/7.%20What%20Prayer%20Births.mp3</guid>
+    </item>
+
+    <item>
+      <title>8. Coveting The Best and Super Abounding </title>
+      <description>8. Coveting The Best and Super Abounding </description>
+      <pubDate>Tue, 26 Mar 2019 12:16:33 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/8.%20Coveting%20The%20Best%20and%20Super%20Abounding%20.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/8.%20Coveting%20The%20Best%20and%20Super%20Abounding%20.mp3</guid>
+    </item>
+
+    <item>
+      <title>9. Coveting The Best and Super Abounding_Prayer Session</title>
+      <description>9. Coveting The Best and Super Abounding_Prayer Session</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:32 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/9.%20Coveting%20The%20Best%20and%20Super%20Abounding_Prayer%20Session.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/9.%20Coveting%20The%20Best%20and%20Super%20Abounding_Prayer%20Session.mp3</guid>
+    </item>
+
+    <item>
+      <title>10. The Fall of Lucifer</title>
+      <description>10. The Fall of Lucifer</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:31 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/10.%20The%20Fall%20of%20Lucifer.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/10.%20The%20Fall%20of%20Lucifer.mp3</guid>
+    </item>
+
+    <item>
+      <title>11. The Mistake of Not Obeying</title>
+      <description>11. The Mistake of Not Obeying</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:30 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/11.%20The%20Mistake%20of%20Not%20Obeying.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/11.%20The%20Mistake%20of%20Not%20Obeying.mp3</guid>
+    </item>
+
+    <item>
+      <title>12. The Mistake of Not Obeying_Prayer Session</title>
+      <description>12. The Mistake of Not Obeying_Prayer Session</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:29 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/12.%20The%20Mistake%20of%20Not%20Obeying_Prayer%20Session.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/12.%20The%20Mistake%20of%20Not%20Obeying_Prayer%20Session.mp3</guid>
+    </item>
+
+    <item>
+      <title>13. The Need to Resist DIsobedience </title>
+      <description>13. The Need to Resist DIsobedience </description>
+      <pubDate>Tue, 26 Mar 2019 12:16:28 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/13.%20The%20Need%20to%20Resist%20DIsobedience%20.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/13.%20The%20Need%20to%20Resist%20DIsobedience%20.mp3</guid>
+    </item>
+
+    <item>
+      <title>14. The Need to Resist DIsobedience_Prayer Session </title>
+      <description>14. The Need to Resist DIsobedience_Prayer Session </description>
+      <pubDate>Tue, 26 Mar 2019 12:16:27 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/14.%20The%20Need%20to%20Resist%20DIsobedience_Prayer%20Session%20.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/14.%20The%20Need%20to%20Resist%20DIsobedience_Prayer%20Session%20.mp3</guid>
+    </item>
+
+    <item>
+      <title>15. Compassing the City</title>
+      <description>15. Compassing the City</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:26 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/15.%20Compassing%20the%20City.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/15.%20Compassing%20the%20City.mp3</guid>
+    </item>
+
+    <item>
+      <title>16. Compassing the City_Prayer Session</title>
+      <description>16. Compassing the City_Prayer Session</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:25 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/16.%20Compassing%20the%20City_Prayer%20Session.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/16.%20Compassing%20the%20City_Prayer%20Session.mp3</guid>
+    </item>
+
+    <item>
+      <title>17. Follow the Ark (The Anointing)</title>
+      <description>17. Follow the Ark (The Anointing)</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:24 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/17.%20Follow%20the%20Ark%20(The%20Anointing).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/17.%20Follow%20the%20Ark%20(The%20Anointing).mp3</guid>
+    </item>
+
+    <item>
+      <title>18. Follow the Ark (The Anointing)_Prayer Session</title>
+      <description>18. Follow the Ark (The Anointing)_Prayer Session</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:23 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/18.%20Follow%20the%20Ark%20(The%20Anointing)_Prayer%20Session.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/18.%20Follow%20the%20Ark%20(The%20Anointing)_Prayer%20Session.mp3</guid>
+    </item>
+
+    <item>
+      <title>19. Learning to Pray Longer</title>
+      <description>19. Learning to Pray Longer</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:22 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/19.%20Learning%20to%20Pray%20Longer.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/19.%20Learning%20to%20Pray%20Longer.mp3</guid>
+    </item>
+
+    <item>
+      <title>20. Testimonies and Sharing </title>
+      <description>20. Testimonies and Sharing </description>
+      <pubDate>Tue, 26 Mar 2019 12:16:21 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/20.%20Testimonies%20and%20Sharing%20.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/20.%20Testimonies%20and%20Sharing%20.mp3</guid>
+    </item>
+
+    <item>
+      <title>21. Territory Taking Prayers with Bishop Ogoe</title>
+      <description>21. Territory Taking Prayers with Bishop Ogoe</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:20 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/21.%20Territory%20Taking%20Prayers%20with%20Bishop%20Ogoe.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/21.%20Territory%20Taking%20Prayers%20with%20Bishop%20Ogoe.mp3</guid>
+    </item>
+
+    <item>
+      <title>22. Demonic Powers You're Overcoming</title>
+      <description>22. Demonic Powers You're Overcoming</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:19 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/22.%20Demonic%20Powers%20You're%20Overcoming.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/22.%20Demonic%20Powers%20You're%20Overcoming.mp3</guid>
+    </item>
+
+    <item>
+      <title>23. Demonic Powers You're Overcoming_Prayer Session</title>
+      <description>23. Demonic Powers You're Overcoming_Prayer Session</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:18 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/23.%20Demonic%20Powers%20You're%20Overcoming_Prayer%20Session.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/23.%20Demonic%20Powers%20You're%20Overcoming_Prayer%20Session.mp3</guid>
+    </item>
+
+    <item>
+      <title>24. Lead us not into Temptation </title>
+      <description>24. Lead us not into Temptation </description>
+      <pubDate>Tue, 26 Mar 2019 12:16:17 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/24.%20Lead%20us%20not%20into%20Temptation%20.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/24.%20Lead%20us%20not%20into%20Temptation%20.mp3</guid>
+    </item>
+
+    <item>
+      <title>25. Pleading the Blood</title>
+      <description>25. Pleading the Blood</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:16 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/25.%20Pleading%20the%20Blood.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/25.%20Pleading%20the%20Blood.mp3</guid>
+    </item>
+
+    <item>
+      <title>26. Not My Will, but Thy will be done</title>
+      <description>26. Not My Will, but Thy will be done</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:15 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/26.%20Not%20My%20Will,%20but%20Thy%20will%20be%20done.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/26.%20Not%20My%20Will,%20but%20Thy%20will%20be%20done.mp3</guid>
+    </item>
+
+    <item>
+      <title>27. Not My will, but Thy will be done_Prayer Session</title>
+      <description>27. Not My will, but Thy will be done_Prayer Session</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:14 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/27.%20Not%20My%20will,%20but%20Thy%20will%20be%20done_Prayer%20Session.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/27.%20Not%20My%20will,%20but%20Thy%20will%20be%20done_Prayer%20Session.mp3</guid>
+    </item>
+
+    <item>
+      <title>28. Prayers with Rev Frank</title>
+      <description>28. Prayers with Rev Frank</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:13 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/28.%20Prayers%20with%20Rev%20Frank.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/28.%20Prayers%20with%20Rev%20Frank.mp3</guid>
+    </item>
+
+    <item>
+      <title>29. Prayers with Rev Frank</title>
+      <description>29. Prayers with Rev Frank</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:12 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/29.%20Prayers%20with%20Rev%20Frank.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/29.%20Prayers%20with%20Rev%20Frank.mp3</guid>
+    </item>
+
+    <item>
+      <title>30. The Great Deception</title>
+      <description>30. The Great Deception</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:11 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/30.%20The%20Great%20Deception.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/30.%20The%20Great%20Deception.mp3</guid>
+    </item>
+
+    <item>
+      <title>31. The Great Deception_Prayer Session</title>
+      <description>31. The Great Deception_Prayer Session</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:10 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/31.%20The%20Great%20Deception_Prayer%20Session.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/31.%20The%20Great%20Deception_Prayer%20Session.mp3</guid>
+    </item>
+
+    <item>
+      <title>32. No Turning Back from Your Calling</title>
+      <description>32. No Turning Back from Your Calling</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:09 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/32.%20No%20Turning%20Back%20from%20Your%20Calling.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/32.%20No%20Turning%20Back%20from%20Your%20Calling.mp3</guid>
+    </item>
+
+    <item>
+      <title>33. No Turning back from your Calling_Prayer Session</title>
+      <description>33. No Turning back from your Calling_Prayer Session</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:08 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/33.%20No%20Turning%20back%20from%20your%20Calling_Prayer%20Session.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/33.%20No%20Turning%20back%20from%20your%20Calling_Prayer%20Session.mp3</guid>
+    </item>
+
+    <item>
+      <title>34. Thanks Giving for a Net Full of Fishes</title>
+      <description>34. Thanks Giving for a Net Full of Fishes</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:07 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/34.%20Thanks%20Giving%20for%20a%20Net%20Full%20of%20Fishes.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/34.%20Thanks%20Giving%20for%20a%20Net%20Full%20of%20Fishes.mp3</guid>
+    </item>
+
+    <item>
+      <title>35. The Mysteries of His Will</title>
+      <description>35. The Mysteries of His Will</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:06 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/35.%20The%20Mysteries%20of%20His%20Will.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/35.%20The%20Mysteries%20of%20His%20Will.mp3</guid>
+    </item>
+
+    <item>
+      <title>36. The Mysteries of His Will_Prayer Session</title>
+      <description>36. The Mysteries of His Will_Prayer Session</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:05 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/36.%20The%20Mysteries%20of%20His%20Will_Prayer%20Session.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/36.%20The%20Mysteries%20of%20His%20Will_Prayer%20Session.mp3</guid>
+    </item>
+
+    <item>
+      <title>37. The Mysteries of His Will_Prayer Session Pt. 2</title>
+      <description>37. The Mysteries of His Will_Prayer Session Pt. 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:04 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/37.%20The%20Mysteries%20of%20His%20Will_Prayer%20Session%20Pt.%202.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/37.%20The%20Mysteries%20of%20His%20Will_Prayer%20Session%20Pt.%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>38. His Mysterious Will Starts Immediately</title>
+      <description>38. His Mysterious Will Starts Immediately</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:03 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/38.%20His%20Mysterious%20Will%20Starts%20Immediately.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/38.%20His%20Mysterious%20Will%20Starts%20Immediately.mp3</guid>
+    </item>
+
+    <item>
+      <title>39. His Mysterious Will Starts Immediately_Prayer Session</title>
+      <description>39. His Mysterious Will Starts Immediately_Prayer Session</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:02 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/39.%20His%20Mysterious%20Will%20Starts%20Immediately_Prayer%20Session.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/39.%20His%20Mysterious%20Will%20Starts%20Immediately_Prayer%20Session.mp3</guid>
+    </item>
+
+    <item>
+      <title>40. Awake O Sleeper</title>
+      <description>40. Awake O Sleeper</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:01 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/40.%20Awake%20O%20Sleeper.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/40.%20Awake%20O%20Sleeper.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

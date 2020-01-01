@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Attempt Great Things</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Attempt Great Things</description>
+    <googleplay:image href="https://www.machanehcast.com/camps/attempt_great_things/1544740828_attempt_great_things.jpg"/>
+    <language>en-us</language>
+    <link>https://www.machanehcast.com/camps/attempt_great_things/</link>
+    <image>
+        <url>
+            https://www.machanehcast.com/camps/attempt_great_things/1544740828_attempt_great_things.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>00 Intro - Attempt Great Things</title>
+      <description>00 Intro - Attempt Great Things</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:40 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C96_00%20Intro%20-%20Attempt%20Great%20Things.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C96_00%20Intro%20-%20Attempt%20Great%20Things.mp3</guid>
+    </item>
+
+    <item>
+      <title>01_Attempt_Great_Things-Blessings_of_A_Father-Apostle_Joel</title>
+      <description>01_Attempt_Great_Things-Blessings_of_A_Father-Apostle_Joel</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:39 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C96_01_Attempt_Great_Things-Blessings_of_A_Father-Apostle_Joel.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C96_01_Attempt_Great_Things-Blessings_of_A_Father-Apostle_Joel.mp3</guid>
+    </item>
+
+    <item>
+      <title>02_Attempt_Great_Things-How_God_Attempted_Great_Things</title>
+      <description>02_Attempt_Great_Things-How_God_Attempted_Great_Things</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:38 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C96_02_Attempt_Great_Things-How_God_Attempted_Great_Things.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C96_02_Attempt_Great_Things-How_God_Attempted_Great_Things.mp3</guid>
+    </item>
+
+    <item>
+      <title>03_Attempt_Great_Things-How_God_Attempted_Great_Things_Part_2</title>
+      <description>03_Attempt_Great_Things-How_God_Attempted_Great_Things_Part_2</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C96_03_Attempt_Great_Things-How_God_Attempted_Great_Things_Part_2.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C96_03_Attempt_Great_Things-How_God_Attempted_Great_Things_Part_2.mp3</guid>
+    </item>
+
+    <item>
+      <title>04_Attempt_Great_Things-Be_led_by_the_Holy_Spirit</title>
+      <description>04_Attempt_Great_Things-Be_led_by_the_Holy_Spirit</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C96_04_Attempt_Great_Things-Be_led_by_the_Holy_Spirit.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C96_04_Attempt_Great_Things-Be_led_by_the_Holy_Spirit.mp3</guid>
+    </item>
+
+    <item>
+      <title>05_Attempt_Great_Things-How_Jesus_Attempted_Great_Things</title>
+      <description>05_Attempt_Great_Things-How_Jesus_Attempted_Great_Things</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C96_05_Attempt_Great_Things-How_Jesus_Attempted_Great_Things.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C96_05_Attempt_Great_Things-How_Jesus_Attempted_Great_Things.mp3</guid>
+    </item>
+
+    <item>
+      <title>06_Attempt_Great_Things-How_the_Apostles_and_Missionaries_attempted_great_things</title>
+      <description>06_Attempt_Great_Things-How_the_Apostles_and_Missionaries_attempted_great_things</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C96_06_Attempt_Great_Things-How_the_Apostles_and_Missionaries_attempted_great_things.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C96_06_Attempt_Great_Things-How_the_Apostles_and_Missionaries_attempted_great_things.mp3</guid>
+    </item>
+
+    <item>
+      <title>07_Attempt_Great_Things-Wisdom_is_the_principal_thing</title>
+      <description>07_Attempt_Great_Things-Wisdom_is_the_principal_thing</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:33 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C96_07_Attempt_Great_Things-Wisdom_is_the_principal_thing.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C96_07_Attempt_Great_Things-Wisdom_is_the_principal_thing.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

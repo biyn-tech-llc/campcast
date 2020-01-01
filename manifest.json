@@ -1,5 +1,11 @@
 {
- "name": "MachanehCast",
+ "name": "MachanehCast - Every Camp A Podcast",
+ "short_name": "MachanehCast",
+ "description": "present each Machaneh as an independent podcast in your favorite podcast app",
+ "display": "standalone",
+ "start_url":"/index.html",
+ "background_color":"#45BBFF",
+ "theme_color":"#22BBFF",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",

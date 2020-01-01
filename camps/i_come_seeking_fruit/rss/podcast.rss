@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>I Come Seeking Fruit</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>I Come Seeking Fruit</description>
+    <googleplay:image href="https://www.machanehcast.com/camps/i_come_seeking_fruit/i_come_looking_fruits.jpg"/>
+    <language>en-us</language>
+    <link>https://www.machanehcast.com/camps/i_come_seeking_fruit/</link>
+    <image>
+        <url>
+            https://www.machanehcast.com/camps/i_come_seeking_fruit/i_come_looking_fruits.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>01_Laws of Fruitfulness Part 1</title>
+      <description>01_Laws of Fruitfulness Part 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:40 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C126_01_Laws%20of%20Fruitfulness%20Part%201.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C126_01_Laws%20of%20Fruitfulness%20Part%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>02. Laws of Fruitfulness Part 2</title>
+      <description>02. Laws of Fruitfulness Part 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:39 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C126_02.%20Laws%20of%20Fruitfulness%20Part%202.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C126_02.%20Laws%20of%20Fruitfulness%20Part%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>03. Laws of Fruitfulness Part 3</title>
+      <description>03. Laws of Fruitfulness Part 3</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:38 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C126_03.%20Laws%20of%20Fruitfulness%20Part%203.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C126_03.%20Laws%20of%20Fruitfulness%20Part%203.mp3</guid>
+    </item>
+
+    <item>
+      <title>04. Recap By Bishop Ogoe Part 1</title>
+      <description>04. Recap By Bishop Ogoe Part 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C126_04.%20Recap%20By%20Bishop%20Ogoe%20Part%201.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C126_04.%20Recap%20By%20Bishop%20Ogoe%20Part%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>05. Laws of Fruitfulness Part 4</title>
+      <description>05. Laws of Fruitfulness Part 4</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C126_05.%20Laws%20of%20Fruitfulness%20Part%204.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C126_05.%20Laws%20of%20Fruitfulness%20Part%204.mp3</guid>
+    </item>
+
+    <item>
+      <title>06. Laws of Fruitfulness Part 5</title>
+      <description>06. Laws of Fruitfulness Part 5</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C126_06.%20Laws%20of%20Fruitfulness%20Part%205.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C126_06.%20Laws%20of%20Fruitfulness%20Part%205.mp3</guid>
+    </item>
+
+    <item>
+      <title>07. Recap By Bishop Ogoe Part 2</title>
+      <description>07. Recap By Bishop Ogoe Part 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C126_07.%20Recap%20By%20Bishop%20Ogoe%20Part%202.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C126_07.%20Recap%20By%20Bishop%20Ogoe%20Part%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>08. Keys of Fruitfulness</title>
+      <description>08. Keys of Fruitfulness</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:33 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C126_08.%20Keys%20of%20Fruitfulness.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C126_08.%20Keys%20of%20Fruitfulness.mp3</guid>
+    </item>
+
+    <item>
+      <title>09. Recap By Bishop Ogoe Part 3</title>
+      <description>09. Recap By Bishop Ogoe Part 3</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:32 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C126_09.%20Recap%20By%20Bishop%20Ogoe%20Part%203.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C126_09.%20Recap%20By%20Bishop%20Ogoe%20Part%203.mp3</guid>
+    </item>
+
+    <item>
+      <title>10. Labor To Be Blessed</title>
+      <description>10. Labor To Be Blessed</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:31 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C126_10.%20Labor%20To%20Be%20Blessed.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C126_10.%20Labor%20To%20Be%20Blessed.mp3</guid>
+    </item>
+
+    <item>
+      <title>11. I Come Seeking Fruit Conclusion</title>
+      <description>11. I Come Seeking Fruit Conclusion</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:30 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C126_11.%20I%20Come%20Seeking%20Fruit%20Conclusion.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C126_11.%20I%20Come%20Seeking%20Fruit%20Conclusion.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

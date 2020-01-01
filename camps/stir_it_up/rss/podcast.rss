@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Stir It Up</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Stir It Up</description>
+    <googleplay:image href="https://www.machanehcast.com/camps/stir_it_up/STIR_IT_UP.jpg"/>
+    <language>en-us</language>
+    <link>https://www.machanehcast.com/camps/stir_it_up/</link>
+    <image>
+        <url>
+            https://www.machanehcast.com/camps/stir_it_up/STIR_IT_UP.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>00 Intro - Stir It Up</title>
+      <description>00 Intro - Stir It Up</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:40 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C101_00%20Intro%20-%20Stir%20It%20Up.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C101_00%20Intro%20-%20Stir%20It%20Up.mp3</guid>
+    </item>
+
+    <item>
+      <title>09 Song Ministration</title>
+      <description>09 Song Ministration</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:39 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C101_09%20Song%20Ministration.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C101_09%20Song%20Ministration.mp3</guid>
+    </item>
+
+    <item>
+      <title>1 Introduction-You are Supernatural</title>
+      <description>1 Introduction-You are Supernatural</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:38 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C101_1%20Introduction-You%20are%20Supernatural.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C101_1%20Introduction-You%20are%20Supernatural.mp3</guid>
+    </item>
+
+    <item>
+      <title>2 Master Keys (Go Somewhere, Preach Somewhere)</title>
+      <description>2 Master Keys (Go Somewhere, Preach Somewhere)</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C101_2%20Master%20Keys%20(Go%20Somewhere,%20Preach%20Somewhere).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C101_2%20Master%20Keys%20(Go%20Somewhere,%20Preach%20Somewhere).mp3</guid>
+    </item>
+
+    <item>
+      <title>3 Quench Not The Spirit</title>
+      <description>3 Quench Not The Spirit</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C101_3%20Quench%20Not%20The%20Spirit.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C101_3%20Quench%20Not%20The%20Spirit.mp3</guid>
+    </item>
+
+    <item>
+      <title>4 Song Ministration</title>
+      <description>4 Song Ministration</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C101_4%20Song%20Ministration.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C101_4%20Song%20Ministration.mp3</guid>
+    </item>
+
+    <item>
+      <title>5 Master Keys (Whatever He Saith Unto You, Do It)</title>
+      <description>5 Master Keys (Whatever He Saith Unto You, Do It)</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C101_5%20Master%20Keys%20(Whatever%20He%20Saith%20Unto%20You,%20Do%20It).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C101_5%20Master%20Keys%20(Whatever%20He%20Saith%20Unto%20You,%20Do%20It).mp3</guid>
+    </item>
+
+    <item>
+      <title>6 Master Keys (Do What You See Your Father Do)</title>
+      <description>6 Master Keys (Do What You See Your Father Do)</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:33 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C101_6%20Master%20Keys%20(Do%20What%20You%20See%20Your%20Father%20Do).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C101_6%20Master%20Keys%20(Do%20What%20You%20See%20Your%20Father%20Do).mp3</guid>
+    </item>
+
+    <item>
+      <title>7 Master Keys (Working of Miracles)</title>
+      <description>7 Master Keys (Working of Miracles)</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:32 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C101_7%20Master%20Keys%20(Working%20of%20Miracles).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C101_7%20Master%20Keys%20(Working%20of%20Miracles).mp3</guid>
+    </item>
+
+    <item>
+      <title>8 Master Keys (Work Out The Miracles in the Right Season) (1)</title>
+      <description>8 Master Keys (Work Out The Miracles in the Right Season) (1)</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:31 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C101_8%20Master%20Keys%20(Work%20Out%20The%20Miracles%20in%20the%20Right%20Season)%20(1).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C101_8%20Master%20Keys%20(Work%20Out%20The%20Miracles%20in%20the%20Right%20Season)%20(1).mp3</guid>
+    </item>
+
+    <item>
+      <title>10 Master Keys (Believe in God)</title>
+      <description>10 Master Keys (Believe in God)</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:30 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C101_10%20Master%20Keys%20(Believe%20in%20God).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C101_10%20Master%20Keys%20(Believe%20in%20God).mp3</guid>
+    </item>
+
+    <item>
+      <title>11 Master Keys (Love God)</title>
+      <description>11 Master Keys (Love God)</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:29 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C101_11%20Master%20Keys%20(Love%20God).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C101_11%20Master%20Keys%20(Love%20God).mp3</guid>
+    </item>
+
+    <item>
+      <title>12 Master Keys (Honouring the Gift of God)</title>
+      <description>12 Master Keys (Honouring the Gift of God)</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:28 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C101_12%20Master%20Keys%20(Honouring%20the%20Gift%20of%20God).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C101_12%20Master%20Keys%20(Honouring%20the%20Gift%20of%20God).mp3</guid>
+    </item>
+
+    <item>
+      <title>13 Master Keys (Be Sensitive to Miracles)</title>
+      <description>13 Master Keys (Be Sensitive to Miracles)</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:27 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C101_13%20Master%20Keys%20(Be%20Sensitive%20to%20Miracles).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C101_13%20Master%20Keys%20(Be%20Sensitive%20to%20Miracles).mp3</guid>
+    </item>
+
+    <item>
+      <title>14 Master Keys (Become Touch Sensitive)</title>
+      <description>14 Master Keys (Become Touch Sensitive)</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:26 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C101_14%20Master%20Keys%20(Become%20Touch%20Sensitive).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C101_14%20Master%20Keys%20(Become%20Touch%20Sensitive).mp3</guid>
+    </item>
+
+    <item>
+      <title>15 Master Keys (Become Spoken Word Sensitive)</title>
+      <description>15 Master Keys (Become Spoken Word Sensitive)</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:25 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C101_15%20Master%20Keys%20(Become%20Spoken%20Word%20Sensitive).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C101_15%20Master%20Keys%20(Become%20Spoken%20Word%20Sensitive).mp3</guid>
+    </item>
+
+    <item>
+      <title>16 Master Keys (Great Humility Provokes Great Miracles)</title>
+      <description>16 Master Keys (Great Humility Provokes Great Miracles)</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:24 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C101_16%20Master%20Keys%20(Great%20Humility%20Provokes%20Great%20Miracles).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C101_16%20Master%20Keys%20(Great%20Humility%20Provokes%20Great%20Miracles).mp3</guid>
+    </item>
+
+    <item>
+      <title>17 Conclusion and Communion</title>
+      <description>17 Conclusion and Communion</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:23 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C101_17%20Conclusion%20and%20Communion.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C101_17%20Conclusion%20and%20Communion.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

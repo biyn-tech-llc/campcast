@@ -69,7 +69,7 @@ camps = [
     ('The Blessings of Abraham', 'C61_', 'THE%20BLESSING%20OF%20ABRAHAM.jpg'),
     ('Predestination', 'C62_'),
     ('Why You Are Not a Missionary', 'C63_', 'WHY%20ARE%20YOU%20NOT%20A%20MISSIONARY.jpg'),
-    ('Tasters or Partakers', 'C64_', 'Tasters%20&amp;%20Partakers.jpg'),
+    ('Tasters or Partakers', 'C64_', 'Tasters%20&%20Partakers.jpg'),
     ('The Privilege', 'C65_', 'The%20Priviledge.jpg'),
     ('The Bag of Seeds', 'C66_'),
     ('If You Love The Lord', 'C67_'),
@@ -244,22 +244,22 @@ list_page_header = '''
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 
-  <link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
-  <link rel="apple-touch-icon" sizes="60x60" href="apple-icon-60x60.png">
-  <link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72.png">
-  <link rel="apple-touch-icon" sizes="76x76" href="apple-icon-76x76.png">
-  <link rel="apple-touch-icon" sizes="114x114" href="apple-icon-114x114.png">
-  <link rel="apple-touch-icon" sizes="120x120" href="apple-icon-120x120.png">
-  <link rel="apple-touch-icon" sizes="144x144" href="apple-icon-144x144.png">
-  <link rel="apple-touch-icon" sizes="152x152" href="apple-icon-152x152.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="apple-icon-180x180.png">
-  <link rel="icon" type="image/png" sizes="192x192"  href="android-icon-192x192.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="57x57" href="images/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="images/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="images/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="images/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="images/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="images/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="images/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="images/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="images/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="images/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="images/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
   <link rel="manifest" href="manifest.json">
   <meta name="msapplication-TileColor" content="#ffffff">
-  <meta name="msapplication-TileImage" content="ms-icon-144x144.png">
+  <meta name="msapplication-TileImage" content="images/ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -435,6 +435,7 @@ for camp in camps:
     if len(camp) >= 3:
         image_file = camp[2]
         image = IMAGES_URL + image_file
+        print(image)
         response = requests.get(image)
     else:
         cmd = "grep -i -m 1 " + name.replace(' ', '.*') + " images.html"
@@ -442,21 +443,21 @@ for camp in camps:
             image_line = subprocess.check_output(cmd.split())
             image_file = re.search(r'(?<=href=").*jpg(?=">)', str(image_line)).group(0)
             image = IMAGES_URL + image_file
-            #print image
+            print image
             response = requests.get(image)
             if response.status_code != 200:
                 image = LINK_URL + 'DAG.jpg'
         except subprocess.CalledProcessError as e:
             print (e) 
 
-    folder = name.lower().replace(' ', '_').replace("'","").replace('?', '').replace('!','')
+    folder = os.path.join('camps', name.lower().replace(' ', '_').replace("'","").replace('?', '').replace('!',''))
 
     if response and response.status_code == 200:
         img = Image.open(BytesIO(response.content))
         wpercent = (basewidth/float(img.size[0]))
         hsize = int((float(img.size[1])*float(wpercent)))
         img = img.resize((basewidth,hsize), Image.ANTIALIAS)
-        image_path = os.path.join(folder, image_file).replace('%20', '_').replace('/_','/').replace('%3f','').replace('\'','')
+        image_path = os.path.join(folder, image_file).replace('%20', '_').replace('/_','/').replace('%3f','').replace('\'','').replace('&','')
         if not os.path.exists(folder):
             os.makedirs(folder)
         img.save(image_path)
@@ -468,7 +469,7 @@ for camp in camps:
     tracknum = 1000
     for ssn in ssns.split():
         ssn = ssn.decode('utf-8')
-        print (FILES_URL + ssn)
+        #print (FILES_URL + ssn)
         ssnTitle = str(ssn).split('.mp3')[0]
         if expr: # fully specified lists don't have expr
             ssnTitle = ssnTitle.split(expr, 1)[1]
@@ -485,6 +486,7 @@ for camp in camps:
     pod_dir = os.path.join(folder, 'rss')
     if not os.path.exists(pod_dir):
         os.makedirs(pod_dir)
+    print (pod_dir)
     podfile = os.path.join(pod_dir, "podcast.rss")
     #print podfile 
     with open(os.path.join(pod_dir, "podcast.rss"), "w") as rss_file:

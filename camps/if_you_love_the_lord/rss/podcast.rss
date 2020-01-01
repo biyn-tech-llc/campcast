@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>If You Love The Lord</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>If You Love The Lord</description>
+    <googleplay:image href="https://www.machanehcast.com/camps/if_you_love_the_lord/1544764629_if_you_love_the_lord.jpg"/>
+    <language>en-us</language>
+    <link>https://www.machanehcast.com/camps/if_you_love_the_lord/</link>
+    <image>
+        <url>
+            https://www.machanehcast.com/camps/if_you_love_the_lord/1544764629_if_you_love_the_lord.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>00 Intro If You Love The Lord</title>
+      <description>00 Intro If You Love The Lord</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:40 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C67_00%20Intro%20If%20You%20Love%20The%20Lord.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C67_00%20Intro%20If%20You%20Love%20The%20Lord.mp3</guid>
+    </item>
+
+    <item>
+      <title>01 Loving His Will</title>
+      <description>01 Loving His Will</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:39 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C67_01%20Loving%20His%20Will.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C67_01%20Loving%20His%20Will.mp3</guid>
+    </item>
+
+    <item>
+      <title>02 Prayer Topics</title>
+      <description>02 Prayer Topics</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:38 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C67_02%20Prayer%20Topics.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C67_02%20Prayer%20Topics.mp3</guid>
+    </item>
+
+    <item>
+      <title>03 Serving God in the 5 Fold Ministry</title>
+      <description>03 Serving God in the 5 Fold Ministry</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C67_03%20Serving%20God%20in%20the%205%20Fold%20Ministry.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C67_03%20Serving%20God%20in%20the%205%20Fold%20Ministry.mp3</guid>
+    </item>
+
+    <item>
+      <title>04 The Will of God</title>
+      <description>04 The Will of God</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C67_04%20The%20Will%20of%20God.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C67_04%20The%20Will%20of%20God.mp3</guid>
+    </item>
+
+    <item>
+      <title>05 The Anointing</title>
+      <description>05 The Anointing</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C67_05%20The%20Anointing.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C67_05%20The%20Anointing.mp3</guid>
+    </item>
+
+    <item>
+      <title>06 Faithfulness to His Commandments</title>
+      <description>06 Faithfulness to His Commandments</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C67_06%20Faithfulness%20to%20His%20Commandments.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C67_06%20Faithfulness%20to%20His%20Commandments.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

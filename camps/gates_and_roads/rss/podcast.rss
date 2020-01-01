@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Gates and Roads</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Gates and Roads</description>
+    <googleplay:image href="https://www.machanehcast.com/camps/gates_and_roads/1504183144_GATES_AND_ROADS.jpg"/>
+    <language>en-us</language>
+    <link>https://www.machanehcast.com/camps/gates_and_roads/</link>
+    <image>
+        <url>
+            https://www.machanehcast.com/camps/gates_and_roads/1504183144_GATES_AND_ROADS.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>00 Intro - Gates and Roads</title>
+      <description>00 Intro - Gates and Roads</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:40 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C27_00%20Intro%20-%20Gates%20and%20Roads.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C27_00%20Intro%20-%20Gates%20and%20Roads.mp3</guid>
+    </item>
+
+    <item>
+      <title>01 Gates and Roads</title>
+      <description>01 Gates and Roads</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:39 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C27_01%20Gates%20and%20Roads.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C27_01%20Gates%20and%20Roads.mp3</guid>
+    </item>
+
+    <item>
+      <title>02 Primary Gates of HELL</title>
+      <description>02 Primary Gates of HELL</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:38 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C27_02%20Primary%20Gates%20of%20HELL.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C27_02%20Primary%20Gates%20of%20HELL.mp3</guid>
+    </item>
+
+    <item>
+      <title>03  Jeaslousy and Pride</title>
+      <description>03  Jeaslousy and Pride</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C27_03%20%20Jeaslousy%20and%20Pride.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C27_03%20%20Jeaslousy%20and%20Pride.mp3</guid>
+    </item>
+
+    <item>
+      <title>04 The Gate of the Honour of</title>
+      <description>04 The Gate of the Honour of</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C27_04%20The%20Gate%20of%20the%20Honour%20of.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C27_04%20The%20Gate%20of%20the%20Honour%20of.mp3</guid>
+    </item>
+
+    <item>
+      <title>05 The Gate of the Honour of</title>
+      <description>05 The Gate of the Honour of</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C27_05%20The%20Gate%20of%20the%20Honour%20of.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C27_05%20The%20Gate%20of%20the%20Honour%20of.mp3</guid>
+    </item>
+
+    <item>
+      <title>06 The Gate of the Honour of</title>
+      <description>06 The Gate of the Honour of</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C27_06%20The%20Gate%20of%20the%20Honour%20of.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C27_06%20The%20Gate%20of%20the%20Honour%20of.mp3</guid>
+    </item>
+
+    <item>
+      <title>07 The Gate of the Honour of</title>
+      <description>07 The Gate of the Honour of</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:33 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C27_07%20The%20Gate%20of%20the%20Honour%20of.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C27_07%20The%20Gate%20of%20the%20Honour%20of.mp3</guid>
+    </item>
+
+    <item>
+      <title>08 The Gate of the Honour of Man 5</title>
+      <description>08 The Gate of the Honour of Man 5</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:32 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C27_08%20The%20Gate%20of%20the%20Honour%20of%20Man%205.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C27_08%20The%20Gate%20of%20the%20Honour%20of%20Man%205.mp3</guid>
+    </item>
+
+    <item>
+      <title>09 Importance of being led by the Spirit</title>
+      <description>09 Importance of being led by the Spirit</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:31 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C27_09%20Importance%20of%20being%20led%20by%20the%20Spirit.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C27_09%20Importance%20of%20being%20led%20by%20the%20Spirit.mp3</guid>
+    </item>
+
+    <item>
+      <title>10 Importance of Being led by the Spirit 2</title>
+      <description>10 Importance of Being led by the Spirit 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:30 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C27_10%20Importance%20of%20Being%20led%20by%20the%20Spirit%202.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C27_10%20Importance%20of%20Being%20led%20by%20the%20Spirit%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>11 Renaming the Roads by Satan 1</title>
+      <description>11 Renaming the Roads by Satan 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:29 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C27_11%20Renaming%20the%20Roads%20by%20Satan%201.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C27_11%20Renaming%20the%20Roads%20by%20Satan%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>12 Renaming the Roads by Satan 2</title>
+      <description>12 Renaming the Roads by Satan 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:28 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C27_12%20Renaming%20the%20Roads%20by%20Satan%202.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C27_12%20Renaming%20the%20Roads%20by%20Satan%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>13 Instructions from Father to Son </title>
+      <description>13 Instructions from Father to Son </description>
+      <pubDate>Tue, 26 Mar 2019 12:16:27 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C27_13%20Instructions%20from%20Father%20to%20Son%20.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C27_13%20Instructions%20from%20Father%20to%20Son%20.mp3</guid>
+    </item>
+
+    <item>
+      <title>14 Concept of the Twelve</title>
+      <description>14 Concept of the Twelve</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:26 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C27_14%20Concept%20of%20the%20Twelve.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C27_14%20Concept%20of%20the%20Twelve.mp3</guid>
+    </item>
+
+    <item>
+      <title>15 Grace</title>
+      <description>15 Grace</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:25 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C27_15%20Grace.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C27_15%20Grace.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

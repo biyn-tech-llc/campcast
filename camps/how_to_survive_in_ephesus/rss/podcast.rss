@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>HOW TO SURVIVE IN EPHESUS</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>HOW TO SURVIVE IN EPHESUS</description>
+    <googleplay:image href="https://www.machanehcast.com/camps/how_to_survive_in_ephesus/1544747746_how_to_survive_in_ephesus.jpg"/>
+    <language>en-us</language>
+    <link>https://www.machanehcast.com/camps/how_to_survive_in_ephesus/</link>
+    <image>
+        <url>
+            https://www.machanehcast.com/camps/how_to_survive_in_ephesus/1544747746_how_to_survive_in_ephesus.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>00 Intro -  HOW TO SURVIVE IN EPHESUS</title>
+      <description>00 Intro -  HOW TO SURVIVE IN EPHESUS</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:40 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C24_00%20Intro%20-%20%20HOW%20TO%20SURVIVE%20IN%20EPHESUS.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C24_00%20Intro%20-%20%20HOW%20TO%20SURVIVE%20IN%20EPHESUS.mp3</guid>
+    </item>
+
+    <item>
+      <title>01 How to Survive in Ephesus I</title>
+      <description>01 How to Survive in Ephesus I</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:39 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C24_01%20How%20to%20Survive%20in%20Ephesus%20I.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C24_01%20How%20to%20Survive%20in%20Ephesus%20I.mp3</guid>
+    </item>
+
+    <item>
+      <title>03 Becoming a Son</title>
+      <description>03 Becoming a Son</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:38 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C24_03%20Becoming%20a%20Son.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C24_03%20Becoming%20a%20Son.mp3</guid>
+    </item>
+
+    <item>
+      <title>04 2 Types of Sons-Beloved Son</title>
+      <description>04 2 Types of Sons-Beloved Son</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C24_04%202%20Types%20of%20Sons-Beloved%20Son.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C24_04%202%20Types%20of%20Sons-Beloved%20Son.mp3</guid>
+    </item>
+
+    <item>
+      <title>05 The Voice of God in Your Heart</title>
+      <description>05 The Voice of God in Your Heart</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C24_05%20The%20Voice%20of%20God%20in%20Your%20Heart.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C24_05%20The%20Voice%20of%20God%20in%20Your%20Heart.mp3</guid>
+    </item>
+
+    <item>
+      <title>06 I Can Do All Things</title>
+      <description>06 I Can Do All Things</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C24_06%20I%20Can%20Do%20All%20Things.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C24_06%20I%20Can%20Do%20All%20Things.mp3</guid>
+    </item>
+
+    <item>
+      <title>07 Stages of Disloyalty-The Independent Spirit</title>
+      <description>07 Stages of Disloyalty-The Independent Spirit</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C24_07%20Stages%20of%20Disloyalty-The%20Independent%20Spirit.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C24_07%20Stages%20of%20Disloyalty-The%20Independent%20Spirit.mp3</guid>
+    </item>
+
+    <item>
+      <title>08 Stages of Disloyalty-Offences &amp; Criticism</title>
+      <description>08 Stages of Disloyalty-Offences &amp; Criticism</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:33 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C24_08%20Stages%20of%20Disloyalty-Offences%20&amp;%20Criticism.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C24_08%20Stages%20of%20Disloyalty-Offences%20&amp;%20Criticism.mp3</guid>
+    </item>
+
+    <item>
+      <title>09 Stages of Disloyalty-Delusions and Deceptions 1</title>
+      <description>09 Stages of Disloyalty-Delusions and Deceptions 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:32 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C24_09%20Stages%20of%20Disloyalty-Delusions%20and%20Deceptions%201.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C24_09%20Stages%20of%20Disloyalty-Delusions%20and%20Deceptions%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>10 Stages of Disloyalty-Delusions &amp; Deceptions 2</title>
+      <description>10 Stages of Disloyalty-Delusions &amp; Deceptions 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:31 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C24_10%20Stages%20of%20Disloyalty-Delusions%20&amp;%20Deceptions%202.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C24_10%20Stages%20of%20Disloyalty-Delusions%20&amp;%20Deceptions%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>11 Stages of Disloyalty - Del</title>
+      <description>11 Stages of Disloyalty - Del</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:30 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C24_11%20Stages%20of%20Disloyalty%20-%20Del.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C24_11%20Stages%20of%20Disloyalty%20-%20Del.mp3</guid>
+    </item>
+
+    <item>
+      <title>12 The purpose for obtaining mercy</title>
+      <description>12 The purpose for obtaining mercy</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:29 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C24_12%20The%20purpose%20for%20obtaining%20mercy.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C24_12%20The%20purpose%20for%20obtaining%20mercy.mp3</guid>
+    </item>
+
+    <item>
+      <title>13 Warfare by Prophecy</title>
+      <description>13 Warfare by Prophecy</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:28 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C24_13%20Warfare%20by%20Prophecy.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C24_13%20Warfare%20by%20Prophecy.mp3</guid>
+    </item>
+
+    <item>
+      <title>14 Prayer for those in Authority</title>
+      <description>14 Prayer for those in Authority</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:27 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C24_14%20Prayer%20for%20those%20in%20Authority.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C24_14%20Prayer%20for%20those%20in%20Authority.mp3</guid>
+    </item>
+
+    <item>
+      <title>15 Becoming a Spiritual Man</title>
+      <description>15 Becoming a Spiritual Man</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:26 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C24_15%20Becoming%20a%20Spiritual%20Man.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C24_15%20Becoming%20a%20Spiritual%20Man.mp3</guid>
+    </item>
+
+    <item>
+      <title>16 Spiritual Adornment for Women</title>
+      <description>16 Spiritual Adornment for Women</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:25 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C24_16%20Spiritual%20Adornment%20for%20Women.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C24_16%20Spiritual%20Adornment%20for%20Women.mp3</guid>
+    </item>
+
+    <item>
+      <title>17 Have Good Desires</title>
+      <description>17 Have Good Desires</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:24 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C24_17%20Have%20Good%20Desires.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C24_17%20Have%20Good%20Desires.mp3</guid>
+    </item>
+
+    <item>
+      <title>18 Meditate on these Things</title>
+      <description>18 Meditate on these Things</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:23 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C24_18%20Meditate%20on%20these%20Things.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C24_18%20Meditate%20on%20these%20Things.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

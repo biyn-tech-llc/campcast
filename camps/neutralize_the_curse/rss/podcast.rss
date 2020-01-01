@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Neutralize The Curse</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Neutralize The Curse</description>
+    <googleplay:image href="https://www.machanehcast.com/camps/neutralize_the_curse/neutralise.jpg"/>
+    <language>en-us</language>
+    <link>https://www.machanehcast.com/camps/neutralize_the_curse/</link>
+    <image>
+        <url>
+            https://www.machanehcast.com/camps/neutralize_the_curse/neutralise.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>01. Introduction - Neutralizing Curses</title>
+      <description>01. Introduction - Neutralizing Curses</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:40 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C112_01.%20Introduction%20-%20Neutralizing%20Curses.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C112_01.%20Introduction%20-%20Neutralizing%20Curses.mp3</guid>
+    </item>
+
+    <item>
+      <title>02. Custom Made Curses</title>
+      <description>02. Custom Made Curses</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:39 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C112_02.%20Custom%20Made%20Curses.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C112_02.%20Custom%20Made%20Curses.mp3</guid>
+    </item>
+
+    <item>
+      <title>03. Aida Minstration 1</title>
+      <description>03. Aida Minstration 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:38 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C112_03.%20Aida%20Minstration%201.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C112_03.%20Aida%20Minstration%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>04. Bishop Ogoe Recap 1</title>
+      <description>04. Bishop Ogoe Recap 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C112_04.%20Bishop%20Ogoe%20Recap%201.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C112_04.%20Bishop%20Ogoe%20Recap%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>05. Aida Minstration 3</title>
+      <description>05. Aida Minstration 3</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C112_05.%20Aida%20Minstration%203.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C112_05.%20Aida%20Minstration%203.mp3</guid>
+    </item>
+
+    <item>
+      <title>06. How You Can Stop A Curse</title>
+      <description>06. How You Can Stop A Curse</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C112_06.%20How%20You%20Can%20Stop%20A%20Curse.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C112_06.%20How%20You%20Can%20Stop%20A%20Curse.mp3</guid>
+    </item>
+
+    <item>
+      <title>07. Aida Minstration 2</title>
+      <description>07. Aida Minstration 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C112_07.%20Aida%20Minstration%202.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C112_07.%20Aida%20Minstration%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>08. You Can Be Redeemed From A Curse</title>
+      <description>08. You Can Be Redeemed From A Curse</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:33 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C112_08.%20You%20Can%20Be%20Redeemed%20From%20A%20Curse.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C112_08.%20You%20Can%20Be%20Redeemed%20From%20A%20Curse.mp3</guid>
+    </item>
+
+    <item>
+      <title>09. Bishop Ogoe Recap 2</title>
+      <description>09. Bishop Ogoe Recap 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:32 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C112_09.%20Bishop%20Ogoe%20Recap%202.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C112_09.%20Bishop%20Ogoe%20Recap%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>10. Aida Ministration 4</title>
+      <description>10. Aida Ministration 4</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:31 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C112_10.%20Aida%20Ministration%204.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C112_10.%20Aida%20Ministration%204.mp3</guid>
+    </item>
+
+    <item>
+      <title>11. How You Can Be Delivered From A Curse Through A Prophet</title>
+      <description>11. How You Can Be Delivered From A Curse Through A Prophet</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:30 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C112_11.%20How%20You%20Can%20Be%20Delivered%20From%20A%20Curse%20Through%20A%20Prophet.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C112_11.%20How%20You%20Can%20Be%20Delivered%20From%20A%20Curse%20Through%20A%20Prophet.mp3</guid>
+    </item>
+
+    <item>
+      <title>12. Aida and Bishop Dag Impartation</title>
+      <description>12. Aida and Bishop Dag Impartation</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:29 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C112_12.%20Aida%20and%20Bishop%20Dag%20Impartation.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C112_12.%20Aida%20and%20Bishop%20Dag%20Impartation.mp3</guid>
+    </item>
+
+    <item>
+      <title>13. Prosperity Through Prophecy</title>
+      <description>13. Prosperity Through Prophecy</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:28 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C112_13.%20Prosperity%20Through%20Prophecy.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C112_13.%20Prosperity%20Through%20Prophecy.mp3</guid>
+    </item>
+
+    <item>
+      <title>14. Aida Ministration 5</title>
+      <description>14. Aida Ministration 5</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:27 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C112_14.%20Aida%20Ministration%205.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C112_14.%20Aida%20Ministration%205.mp3</guid>
+    </item>
+
+    <item>
+      <title>15. The End Of Going In Circles (You Have To Fight)</title>
+      <description>15. The End Of Going In Circles (You Have To Fight)</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:26 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C112_15.%20The%20End%20Of%20Going%20In%20Circles%20(You%20Have%20To%20Fight).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C112_15.%20The%20End%20Of%20Going%20In%20Circles%20(You%20Have%20To%20Fight).mp3</guid>
+    </item>
+
+    <item>
+      <title>16. Revival In Your Middle Age</title>
+      <description>16. Revival In Your Middle Age</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:25 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C112_16.%20Revival%20In%20Your%20Middle%20Age.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C112_16.%20Revival%20In%20Your%20Middle%20Age.mp3</guid>
+    </item>
+
+    <item>
+      <title>17. Aida Ministration 6</title>
+      <description>17. Aida Ministration 6</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:24 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C112_17.%20Aida%20Ministration%206.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C112_17.%20Aida%20Ministration%206.mp3</guid>
+    </item>
+
+    <item>
+      <title>18. Bishop Ogoe Recap 3</title>
+      <description>18. Bishop Ogoe Recap 3</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:23 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C112_18.%20Bishop%20Ogoe%20Recap%203.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C112_18.%20Bishop%20Ogoe%20Recap%203.mp3</guid>
+    </item>
+
+    <item>
+      <title>20. Bishop Ogoe Recap 4</title>
+      <description>20. Bishop Ogoe Recap 4</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:22 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C112_20.%20Bishop%20Ogoe%20Recap%204.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C112_20.%20Bishop%20Ogoe%20Recap%204.mp3</guid>
+    </item>
+
+    <item>
+      <title>21. Bishop Ogoe Recap 5</title>
+      <description>21. Bishop Ogoe Recap 5</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:21 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C112_21.%20Bishop%20Ogoe%20Recap%205.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C112_21.%20Bishop%20Ogoe%20Recap%205.mp3</guid>
+    </item>
+
+    <item>
+      <title>22. Your Destiny Is Predetermined</title>
+      <description>22. Your Destiny Is Predetermined</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:20 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C112_22.%20Your%20Destiny%20Is%20Predetermined.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C112_22.%20Your%20Destiny%20Is%20Predetermined.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

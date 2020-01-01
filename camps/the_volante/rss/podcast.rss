@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The Volante</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>The Volante</description>
+    <googleplay:image href="https://www.machanehcast.com/camps/the_volante/THE_VOLANTE.jpg"/>
+    <language>en-us</language>
+    <link>https://www.machanehcast.com/camps/the_volante/</link>
+    <image>
+        <url>
+            https://www.machanehcast.com/camps/the_volante/THE_VOLANTE.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>00 Intro - The Volante</title>
+      <description>00 Intro - The Volante</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:40 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C70_00%20Intro%20-%20The%20Volante.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C70_00%20Intro%20-%20The%20Volante.mp3</guid>
+    </item>
+
+    <item>
+      <title>01 What it means to be a missionary - 1</title>
+      <description>01 What it means to be a missionary - 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:39 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C70_01%20What%20it%20means%20to%20be%20a%20missionary%20-%201.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C70_01%20What%20it%20means%20to%20be%20a%20missionary%20-%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>02 What it means to be a missionary - 2</title>
+      <description>02 What it means to be a missionary - 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:38 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C70_02%20What%20it%20means%20to%20be%20a%20missionary%20-%202.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C70_02%20What%20it%20means%20to%20be%20a%20missionary%20-%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>03 To be a missile</title>
+      <description>03 To be a missile</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C70_03%20To%20be%20a%20missile.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C70_03%20To%20be%20a%20missile.mp3</guid>
+    </item>
+
+    <item>
+      <title>04 The enemy of missionaries</title>
+      <description>04 The enemy of missionaries</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C70_04%20The%20enemy%20of%20missionaries.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C70_04%20The%20enemy%20of%20missionaries.mp3</guid>
+    </item>
+
+    <item>
+      <title>05 How money and riches prevent missions</title>
+      <description>05 How money and riches prevent missions</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C70_05%20How%20money%20and%20riches%20prevent%20missions.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C70_05%20How%20money%20and%20riches%20prevent%20missions.mp3</guid>
+    </item>
+
+    <item>
+      <title>06 The meaning of a snare</title>
+      <description>06 The meaning of a snare</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C70_06%20The%20meaning%20of%20a%20snare.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C70_06%20The%20meaning%20of%20a%20snare.mp3</guid>
+    </item>
+
+    <item>
+      <title>07 Severe testings that affect those going into missions</title>
+      <description>07 Severe testings that affect those going into missions</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:33 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C70_07%20Severe%20testings%20that%20affect%20those%20going%20into%20missions.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C70_07%20Severe%20testings%20that%20affect%20those%20going%20into%20missions.mp3</guid>
+    </item>
+
+    <item>
+      <title>08 The Volante</title>
+      <description>08 The Volante</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:32 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C70_08%20The%20Volante.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C70_08%20The%20Volante.mp3</guid>
+    </item>
+
+    <item>
+      <title>09 What you must understand about the lay ministry</title>
+      <description>09 What you must understand about the lay ministry</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:31 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C70_09%20What%20you%20must%20understand%20about%20the%20lay%20ministry.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C70_09%20What%20you%20must%20understand%20about%20the%20lay%20ministry.mp3</guid>
+    </item>
+
+    <item>
+      <title>10 How to flow in the lay ministry in specific geographic locations</title>
+      <description>10 How to flow in the lay ministry in specific geographic locations</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:30 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C70_10%20How%20to%20flow%20in%20the%20lay%20ministry%20in%20specific%20geographic%20locations.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C70_10%20How%20to%20flow%20in%20the%20lay%20ministry%20in%20specific%20geographic%20locations.mp3</guid>
+    </item>
+
+    <item>
+      <title>11 How to use the lay mini1try to avoid laziness in the church</title>
+      <description>11 How to use the lay mini1try to avoid laziness in the church</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:29 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C70_11%20How%20to%20use%20the%20lay%20mini1try%20to%20avoid%20laziness%20in%20the%20church.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C70_11%20How%20to%20use%20the%20lay%20mini1try%20to%20avoid%20laziness%20in%20the%20church.mp3</guid>
+    </item>
+
+    <item>
+      <title>12 Success keys for the Volante missionary</title>
+      <description>12 Success keys for the Volante missionary</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:28 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C70_12%20Success%20keys%20for%20the%20Volante%20missionary.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C70_12%20Success%20keys%20for%20the%20Volante%20missionary.mp3</guid>
+    </item>
+
+    <item>
+      <title>13 Success keys</title>
+      <description>13 Success keys</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:27 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C70_13%20Success%20keys.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C70_13%20Success%20keys.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

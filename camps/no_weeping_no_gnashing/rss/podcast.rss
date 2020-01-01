@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>No Weeping No Gnashing</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>No Weeping No Gnashing</description>
+    <googleplay:image href="https://www.machanehcast.com/camps/no_weeping_no_gnashing/No-Weeping-No-Gnashing-565x318.jpg"/>
+    <language>en-us</language>
+    <link>https://www.machanehcast.com/camps/no_weeping_no_gnashing/</link>
+    <image>
+        <url>
+            https://www.machanehcast.com/camps/no_weeping_no_gnashing/No-Weeping-No-Gnashing-565x318.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>00 Intro - No Weeping, No Gnashing</title>
+      <description>00 Intro - No Weeping, No Gnashing</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:40 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C118_00%20Intro%20-%20No%20Weeping,%20No%20Gnashing.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C118_00%20Intro%20-%20No%20Weeping,%20No%20Gnashing.mp3</guid>
+    </item>
+
+    <item>
+      <title>01 ReasonsWhyYouMustPreachTheGospel_by_Bishop_Richard</title>
+      <description>01 ReasonsWhyYouMustPreachTheGospel_by_Bishop_Richard</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:39 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C118_01%20ReasonsWhyYouMustPreachTheGospel_by_Bishop_Richard.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C118_01%20ReasonsWhyYouMustPreachTheGospel_by_Bishop_Richard.mp3</guid>
+    </item>
+
+    <item>
+      <title>02 WhyEverybodyNeedsAPreacher</title>
+      <description>02 WhyEverybodyNeedsAPreacher</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:38 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C118_02%20WhyEverybodyNeedsAPreacher.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C118_02%20WhyEverybodyNeedsAPreacher.mp3</guid>
+    </item>
+
+    <item>
+      <title>03 WhyEverybodyNeedsAPreacherPt2</title>
+      <description>03 WhyEverybodyNeedsAPreacherPt2</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C118_03%20WhyEverybodyNeedsAPreacherPt2.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C118_03%20WhyEverybodyNeedsAPreacherPt2.mp3</guid>
+    </item>
+
+    <item>
+      <title>04 ReasonsWhyItIisImortanttoBeAPreacher</title>
+      <description>04 ReasonsWhyItIisImortanttoBeAPreacher</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C118_04%20ReasonsWhyItIisImortanttoBeAPreacher.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C118_04%20ReasonsWhyItIisImortanttoBeAPreacher.mp3</guid>
+    </item>
+
+    <item>
+      <title>05 HowToBeBlessed</title>
+      <description>05 HowToBeBlessed</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C118_05%20HowToBeBlessed.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C118_05%20HowToBeBlessed.mp3</guid>
+    </item>
+
+    <item>
+      <title>06 Introduction</title>
+      <description>06 Introduction</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C118_06%20Introduction.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C118_06%20Introduction.mp3</guid>
+    </item>
+
+    <item>
+      <title>07 TheEternalPointOfRegret</title>
+      <description>07 TheEternalPointOfRegret</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:33 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C118_07%20TheEternalPointOfRegret.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C118_07%20TheEternalPointOfRegret.mp3</guid>
+    </item>
+
+    <item>
+      <title>08 TheEternalPointOfRegretForChristians</title>
+      <description>08 TheEternalPointOfRegretForChristians</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:32 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C118_08%20TheEternalPointOfRegretForChristians.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C118_08%20TheEternalPointOfRegretForChristians.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

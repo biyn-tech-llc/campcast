@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Mission America 'There must be Missions'</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Mission America 'There must be Missions'</description>
+    <googleplay:image href="https://www.machanehcast.com/camps/mission_america_there_must_be_missions/mission_america.jpg"/>
+    <language>en-us</language>
+    <link>https://www.machanehcast.com/camps/mission_america_there_must_be_missions/</link>
+    <image>
+        <url>
+            https://www.machanehcast.com/camps/mission_america_there_must_be_missions/mission_america.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>00 Intro - Mission America 'There must be Missions'</title>
+      <description>00 Intro - Mission America 'There must be Missions'</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:40 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C87_00%20Intro%20-%20Mission%20America%20'There%20must%20be%20Missions'.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C87_00%20Intro%20-%20Mission%20America%20'There%20must%20be%20Missions'.mp3</guid>
+    </item>
+
+    <item>
+      <title>01 There Must be Missions Not Break Aways</title>
+      <description>01 There Must be Missions Not Break Aways</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:39 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C87_01%20There%20Must%20be%20Missions%20Not%20Break%20Aways.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C87_01%20There%20Must%20be%20Missions%20Not%20Break%20Aways.mp3</guid>
+    </item>
+
+    <item>
+      <title>02 Biblical Proof That We Have A Ministry</title>
+      <description>02 Biblical Proof That We Have A Ministry</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:38 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C87_02%20Biblical%20Proof%20That%20We%20Have%20A%20Ministry.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C87_02%20Biblical%20Proof%20That%20We%20Have%20A%20Ministry.mp3</guid>
+    </item>
+
+    <item>
+      <title>03 Things You Must Do With The Ministry You Received Part 1</title>
+      <description>03 Things You Must Do With The Ministry You Received Part 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C87_03%20Things%20You%20Must%20Do%20With%20The%20Ministry%20You%20Received%20Part%201.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C87_03%20Things%20You%20Must%20Do%20With%20The%20Ministry%20You%20Received%20Part%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>04 Things You Must Do With The Ministry You Received Part 2</title>
+      <description>04 Things You Must Do With The Ministry You Received Part 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C87_04%20Things%20You%20Must%20Do%20With%20The%20Ministry%20You%20Received%20Part%202.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C87_04%20Things%20You%20Must%20Do%20With%20The%20Ministry%20You%20Received%20Part%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>05 Enemies Of Ministry (Hidden Enemies Of The Ministry)</title>
+      <description>05 Enemies Of Ministry (Hidden Enemies Of The Ministry)</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C87_05%20Enemies%20Of%20Ministry%20(Hidden%20Enemies%20Of%20The%20Ministry).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C87_05%20Enemies%20Of%20Ministry%20(Hidden%20Enemies%20Of%20The%20Ministry).mp3</guid>
+    </item>
+
+    <item>
+      <title>06 Please and Impress God Part 1</title>
+      <description>06 Please and Impress God Part 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C87_06%20Please%20and%20Impress%20God%20Part%201.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C87_06%20Please%20and%20Impress%20God%20Part%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>07 Please and Impress God Part 2</title>
+      <description>07 Please and Impress God Part 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:33 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C87_07%20Please%20and%20Impress%20God%20Part%202.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C87_07%20Please%20and%20Impress%20God%20Part%202.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The Privilege</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>The Privilege</description>
+    <googleplay:image href="https://www.machanehcast.com/camps/the_privilege/The_Priviledge.jpg"/>
+    <language>en-us</language>
+    <link>https://www.machanehcast.com/camps/the_privilege/</link>
+    <image>
+        <url>
+            https://www.machanehcast.com/camps/the_privilege/The_Priviledge.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>00 Intro Privilage</title>
+      <description>00 Intro Privilage</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:40 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C65_00%20Intro%20Privilage.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_00%20Intro%20Privilage.mp3</guid>
+    </item>
+
+    <item>
+      <title>01 The Privilege of Being a Shepherd</title>
+      <description>01 The Privilege of Being a Shepherd</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:39 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C65_01%20The%20Privilege%20of%20Being%20a%20Shepherd.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_01%20The%20Privilege%20of%20Being%20a%20Shepherd.mp3</guid>
+    </item>
+
+    <item>
+      <title>02 What it Means to be Called a Shepherd 1</title>
+      <description>02 What it Means to be Called a Shepherd 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:38 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C65_02%20What%20it%20Means%20to%20be%20Called%20a%20Shepherd%201.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_02%20What%20it%20Means%20to%20be%20Called%20a%20Shepherd%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>03 What it Means to be Called a Shepherd 2</title>
+      <description>03 What it Means to be Called a Shepherd 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C65_03%20What%20it%20Means%20to%20be%20Called%20a%20Shepherd%202.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_03%20What%20it%20Means%20to%20be%20Called%20a%20Shepherd%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>04 What it Means to Have the Privilege of Being a Shepherd</title>
+      <description>04 What it Means to Have the Privilege of Being a Shepherd</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C65_04%20What%20it%20Means%20to%20Have%20the%20Privilege%20of%20Being%20a%20Shepherd.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_04%20What%20it%20Means%20to%20Have%20the%20Privilege%20of%20Being%20a%20Shepherd.mp3</guid>
+    </item>
+
+    <item>
+      <title>05 Song Ministration</title>
+      <description>05 Song Ministration</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C65_05%20Song%20Ministration.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_05%20Song%20Ministration.mp3</guid>
+    </item>
+
+    <item>
+      <title>06 The Privilege of The High Ranking Job of Being a Shepherd</title>
+      <description>06 The Privilege of The High Ranking Job of Being a Shepherd</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C65_06%20The%20Privilege%20of%20The%20High%20Ranking%20Job%20of%20Being%20a%20Shepherd.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_06%20The%20Privilege%20of%20The%20High%20Ranking%20Job%20of%20Being%20a%20Shepherd.mp3</guid>
+    </item>
+
+    <item>
+      <title>07 7 Reasons Why Shepherding is a High Ranking Job</title>
+      <description>07 7 Reasons Why Shepherding is a High Ranking Job</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:33 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C65_07%207%20Reasons%20Why%20Shepherding%20is%20a%20High%20Ranking%20Job.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_07%207%20Reasons%20Why%20Shepherding%20is%20a%20High%20Ranking%20Job.mp3</guid>
+    </item>
+
+    <item>
+      <title>08 10 Things that it Means to Have a High Calling</title>
+      <description>08 10 Things that it Means to Have a High Calling</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:32 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C65_08%2010%20Things%20that%20it%20Means%20to%20Have%20a%20High%20Calling.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_08%2010%20Things%20that%20it%20Means%20to%20Have%20a%20High%20Calling.mp3</guid>
+    </item>
+
+    <item>
+      <title>09 35 Qualities of Becoming a Shepherd 1</title>
+      <description>09 35 Qualities of Becoming a Shepherd 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:31 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C65_09%2035%20Qualities%20of%20Becoming%20a%20Shepherd%201.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_09%2035%20Qualities%20of%20Becoming%20a%20Shepherd%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>10 35 Qualities of Beocming a Shepherd 2</title>
+      <description>10 35 Qualities of Beocming a Shepherd 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:30 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C65_10%2035%20Qualities%20of%20Beocming%20a%20Shepherd%202.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_10%2035%20Qualities%20of%20Beocming%20a%20Shepherd%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>11 35 Qualities of Becoming a Shepherd 3</title>
+      <description>11 35 Qualities of Becoming a Shepherd 3</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:29 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C65_11%2035%20Qualities%20of%20Becoming%20a%20Shepherd%203.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_11%2035%20Qualities%20of%20Becoming%20a%20Shepherd%203.mp3</guid>
+    </item>
+
+    <item>
+      <title>12 35 Qualities of Becoming a Shepherd 4</title>
+      <description>12 35 Qualities of Becoming a Shepherd 4</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:28 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C65_12%2035%20Qualities%20of%20Becoming%20a%20Shepherd%204.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_12%2035%20Qualities%20of%20Becoming%20a%20Shepherd%204.mp3</guid>
+    </item>
+
+    <item>
+      <title>13 35 Qualities of Becoming a Shepherd 5</title>
+      <description>13 35 Qualities of Becoming a Shepherd 5</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:27 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C65_13%2035%20Qualities%20of%20Becoming%20a%20Shepherd%205.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_13%2035%20Qualities%20of%20Becoming%20a%20Shepherd%205.mp3</guid>
+    </item>
+
+    <item>
+      <title>14 35 Qualities of Becoming a Shepherd 6</title>
+      <description>14 35 Qualities of Becoming a Shepherd 6</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:26 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C65_14%2035%20Qualities%20of%20Becoming%20a%20Shepherd%206.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_14%2035%20Qualities%20of%20Becoming%20a%20Shepherd%206.mp3</guid>
+    </item>
+
+    <item>
+      <title>15 29 Ways to Preach Well 1</title>
+      <description>15 29 Ways to Preach Well 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:25 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C65_15%2029%20Ways%20to%20Preach%20Well%201.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_15%2029%20Ways%20to%20Preach%20Well%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>16 29 Ways to Preach Well 2</title>
+      <description>16 29 Ways to Preach Well 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:24 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C65_16%2029%20Ways%20to%20Preach%20Well%202.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_16%2029%20Ways%20to%20Preach%20Well%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>17 12 Reasons Why Judas Came Into the World 1</title>
+      <description>17 12 Reasons Why Judas Came Into the World 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:23 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C65_17%2012%20Reasons%20Why%20Judas%20Came%20Into%20the%20World%201.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_17%2012%20Reasons%20Why%20Judas%20Came%20Into%20the%20World%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>18 12 Reasons Why Judas Came Into the World 2</title>
+      <description>18 12 Reasons Why Judas Came Into the World 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:22 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C65_18%2012%20Reasons%20Why%20Judas%20Came%20Into%20the%20World%202.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_18%2012%20Reasons%20Why%20Judas%20Came%20Into%20the%20World%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>19 15 Reasons Why You Must Take Shepherding to the Highest</title>
+      <description>19 15 Reasons Why You Must Take Shepherding to the Highest</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:21 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C65_19%2015%20Reasons%20Why%20You%20Must%20Take%20Shepherding%20to%20the%20Highest.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C65_19%2015%20Reasons%20Why%20You%20Must%20Take%20Shepherding%20to%20the%20Highest.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

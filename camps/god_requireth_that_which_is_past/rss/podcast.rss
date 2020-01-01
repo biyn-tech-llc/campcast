@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>God Requireth That Which Is Past</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>God Requireth That Which Is Past</description>
+    <googleplay:image href="https://www.machanehcast.com/camps/god_requireth_that_which_is_past/God-Requireth-That-Which-Is-Past.jpg"/>
+    <language>en-us</language>
+    <link>https://www.machanehcast.com/camps/god_requireth_that_which_is_past/</link>
+    <image>
+        <url>
+            https://www.machanehcast.com/camps/god_requireth_that_which_is_past/God-Requireth-That-Which-Is-Past.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>00 Intro</title>
+      <description>00 Intro</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:40 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C92_00%20Intro.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C92_00%20Intro.mp3</guid>
+    </item>
+
+    <item>
+      <title>01 Prayer_Session-Ps_Paul</title>
+      <description>01 Prayer_Session-Ps_Paul</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:39 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C92_01%20Prayer_Session-Ps_Paul.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C92_01%20Prayer_Session-Ps_Paul.mp3</guid>
+    </item>
+
+    <item>
+      <title>02 Sharing_Time</title>
+      <description>02 Sharing_Time</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:38 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C92_02%20Sharing_Time.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C92_02%20Sharing_Time.mp3</guid>
+    </item>
+
+    <item>
+      <title>03 God_Requireth_That_Which_Is_Past</title>
+      <description>03 God_Requireth_That_Which_Is_Past</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C92_03%20God_Requireth_That_Which_Is_Past.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C92_03%20God_Requireth_That_Which_Is_Past.mp3</guid>
+    </item>
+
+    <item>
+      <title>04 Becoming_Anointed</title>
+      <description>04 Becoming_Anointed</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C92_04%20Becoming_Anointed.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C92_04%20Becoming_Anointed.mp3</guid>
+    </item>
+
+    <item>
+      <title>05 The_Anointing_(Q_and_A)</title>
+      <description>05 The_Anointing_(Q_and_A)</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C92_05%20The_Anointing_(Q_and_A).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C92_05%20The_Anointing_(Q_and_A).mp3</guid>
+    </item>
+
+    <item>
+      <title>06 The_Anointing_(Q_and_A_Continued)</title>
+      <description>06 The_Anointing_(Q_and_A_Continued)</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C92_06%20The_Anointing_(Q_and_A_Continued).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C92_06%20The_Anointing_(Q_and_A_Continued).mp3</guid>
+    </item>
+
+    <item>
+      <title>07 Prayer_and_Musical_Interlude</title>
+      <description>07 Prayer_and_Musical_Interlude</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:33 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C92_07%20Prayer_and_Musical_Interlude.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C92_07%20Prayer_and_Musical_Interlude.mp3</guid>
+    </item>
+
+    <item>
+      <title>08 That_Which_has_Been_is_Now</title>
+      <description>08 That_Which_has_Been_is_Now</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:32 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C92_08%20That_Which_has_Been_is_Now.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C92_08%20That_Which_has_Been_is_Now.mp3</guid>
+    </item>
+
+    <item>
+      <title>09 The_Anointing_and_The_Vessel_(Q_and_A)</title>
+      <description>09 The_Anointing_and_The_Vessel_(Q_and_A)</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:31 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C92_09%20The_Anointing_and_The_Vessel_(Q_and_A).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C92_09%20The_Anointing_and_The_Vessel_(Q_and_A).mp3</guid>
+    </item>
+
+    <item>
+      <title>10 Prayer_Session-Ps_Frank</title>
+      <description>10 Prayer_Session-Ps_Frank</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:30 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C92_10%20Prayer_Session-Ps_Frank.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C92_10%20Prayer_Session-Ps_Frank.mp3</guid>
+    </item>
+
+    <item>
+      <title>11 What_Affects_The_Anointing_(Q_and_A)</title>
+      <description>11 What_Affects_The_Anointing_(Q_and_A)</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:29 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C92_11%20What_Affects_The_Anointing_(Q_and_A).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C92_11%20What_Affects_The_Anointing_(Q_and_A).mp3</guid>
+    </item>
+
+    <item>
+      <title>12 How_Can_I_Receive_an_Anointing_(Q_and_A)</title>
+      <description>12 How_Can_I_Receive_an_Anointing_(Q_and_A)</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:28 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C92_12%20How_Can_I_Receive_an_Anointing_(Q_and_A).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C92_12%20How_Can_I_Receive_an_Anointing_(Q_and_A).mp3</guid>
+    </item>
+
+    <item>
+      <title>13 The_Anointing_and_Copying_(Q_and_A)</title>
+      <description>13 The_Anointing_and_Copying_(Q_and_A)</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:27 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C92_13%20The_Anointing_and_Copying_(Q_and_A).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C92_13%20The_Anointing_and_Copying_(Q_and_A).mp3</guid>
+    </item>
+
+    <item>
+      <title>14 Sharing_Time-LP_Lulu</title>
+      <description>14 Sharing_Time-LP_Lulu</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:26 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C92_14%20Sharing_Time-LP_Lulu.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C92_14%20Sharing_Time-LP_Lulu.mp3</guid>
+    </item>
+
+    <item>
+      <title>15 How_Can_I_Keep_The_Anointing_I_Have_Received</title>
+      <description>15 How_Can_I_Keep_The_Anointing_I_Have_Received</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:25 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C92_15%20How_Can_I_Keep_The_Anointing_I_Have_Received.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C92_15%20How_Can_I_Keep_The_Anointing_I_Have_Received.mp3</guid>
+    </item>
+
+    <item>
+      <title>16 Walking_Worthy</title>
+      <description>16 Walking_Worthy</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:24 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C92_16%20Walking_Worthy.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C92_16%20Walking_Worthy.mp3</guid>
+    </item>
+
+    <item>
+      <title>17 How_to_Walk_Worthy_(Thank_You_for_Choosing_Me)</title>
+      <description>17 How_to_Walk_Worthy_(Thank_You_for_Choosing_Me)</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:23 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C92_17%20How_to_Walk_Worthy_(Thank_You_for_Choosing_Me).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C92_17%20How_to_Walk_Worthy_(Thank_You_for_Choosing_Me).mp3</guid>
+    </item>
+
+    <item>
+      <title>18 How_to_Walk_Worthy_(What_will_You_Do_with_the_Anointing)</title>
+      <description>18 How_to_Walk_Worthy_(What_will_You_Do_with_the_Anointing)</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:22 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C92_18%20How_to_Walk_Worthy_(What_will_You_Do_with_the_Anointing).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C92_18%20How_to_Walk_Worthy_(What_will_You_Do_with_the_Anointing).mp3</guid>
+    </item>
+
+    <item>
+      <title>19 How_Step_Deeper_into_the_Anointig_(The_Seven_Spirits_of_God)</title>
+      <description>19 How_Step_Deeper_into_the_Anointig_(The_Seven_Spirits_of_God)</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:21 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C92_19%20How_Step_Deeper_into_the_Anointig_(The_Seven_Spirits_of_God).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C92_19%20How_Step_Deeper_into_the_Anointig_(The_Seven_Spirits_of_God).mp3</guid>
+    </item>
+
+    <item>
+      <title>20 Prayer_and_Musical_Interlude</title>
+      <description>20 Prayer_and_Musical_Interlude</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:20 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C92_20%20Prayer_and_Musical_Interlude.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C92_20%20Prayer_and_Musical_Interlude.mp3</guid>
+    </item>
+
+    <item>
+      <title>21 How_to_Flow_in_the_Anointing</title>
+      <description>21 How_to_Flow_in_the_Anointing</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:19 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C92_21%20How_to_Flow_in_the_Anointing.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C92_21%20How_to_Flow_in_the_Anointing.mp3</guid>
+    </item>
+
+    <item>
+      <title>22 Good_Has_Anointed_You_to_Do_Good</title>
+      <description>22 Good_Has_Anointed_You_to_Do_Good</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:18 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C92_22%20Good_Has_Anointed_You_to_Do_Good.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C92_22%20Good_Has_Anointed_You_to_Do_Good.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>MISSIONS AND MISSIONARIES</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>MISSIONS AND MISSIONARIES</description>
+    <googleplay:image href="https://www.machanehcast.com/camps/missions_and_missionaries/missions_and_missionaries.jpg"/>
+    <language>en-us</language>
+    <link>https://www.machanehcast.com/camps/missions_and_missionaries/</link>
+    <image>
+        <url>
+            https://www.machanehcast.com/camps/missions_and_missionaries/missions_and_missionaries.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>00 Intro - MISSIONS AND MISSIONARIES</title>
+      <description>00 Intro - MISSIONS AND MISSIONARIES</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:40 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C32_00%20Intro%20-%20MISSIONS%20AND%20MISSIONARIES.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C32_00%20Intro%20-%20MISSIONS%20AND%20MISSIONARIES.mp3</guid>
+    </item>
+
+    <item>
+      <title>00 Intro - OTHERS</title>
+      <description>00 Intro - OTHERS</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:39 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C32_00%20Intro%20-%20OTHERS.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C32_00%20Intro%20-%20OTHERS.mp3</guid>
+    </item>
+
+    <item>
+      <title>01 Interaction</title>
+      <description>01 Interaction</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:38 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C32_01%20Interaction.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C32_01%20Interaction.mp3</guid>
+    </item>
+
+    <item>
+      <title>01 Preparing for Your Call 1</title>
+      <description>01 Preparing for Your Call 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C32_01%20Preparing%20for%20Your%20Call%201.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C32_01%20Preparing%20for%20Your%20Call%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>02 Others</title>
+      <description>02 Others</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C32_02%20Others.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C32_02%20Others.mp3</guid>
+    </item>
+
+    <item>
+      <title>02 Preparing for Your Call 2</title>
+      <description>02 Preparing for Your Call 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C32_02%20Preparing%20for%20Your%20Call%202.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C32_02%20Preparing%20for%20Your%20Call%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>03 Admiration</title>
+      <description>03 Admiration</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C32_03%20Admiration.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C32_03%20Admiration.mp3</guid>
+    </item>
+
+    <item>
+      <title>03 Seven things you must know ab</title>
+      <description>03 Seven things you must know ab</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:33 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C32_03%20Seven%20things%20you%20must%20know%20ab.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C32_03%20Seven%20things%20you%20must%20know%20ab.mp3</guid>
+    </item>
+
+    <item>
+      <title>04 Suffer</title>
+      <description>04 Suffer</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:32 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C32_04%20Suffer.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C32_04%20Suffer.mp3</guid>
+    </item>
+
+    <item>
+      <title>04 Things that Jesus did for Others</title>
+      <description>04 Things that Jesus did for Others</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:31 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C32_04%20Things%20that%20Jesus%20did%20for%20Others.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C32_04%20Things%20that%20Jesus%20did%20for%20Others.mp3</guid>
+    </item>
+
+    <item>
+      <title>05 How God makes you into Fishers of Men</title>
+      <description>05 How God makes you into Fishers of Men</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:30 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C32_05%20How%20God%20makes%20you%20into%20Fishers%20of%20Men.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C32_05%20How%20God%20makes%20you%20into%20Fishers%20of%20Men.mp3</guid>
+    </item>
+
+    <item>
+      <title>05 Three pillars of selfishness </title>
+      <description>05 Three pillars of selfishness </description>
+      <pubDate>Tue, 26 Mar 2019 12:16:29 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C32_05%20Three%20pillars%20of%20selfishness%20.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C32_05%20Three%20pillars%20of%20selfishness%20.mp3</guid>
+    </item>
+
+    <item>
+      <title>06 A Word of Prophecy for Women</title>
+      <description>06 A Word of Prophecy for Women</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:28 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C32_06%20A%20Word%20of%20Prophecy%20for%20Women.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C32_06%20A%20Word%20of%20Prophecy%20for%20Women.mp3</guid>
+    </item>
+
+    <item>
+      <title>07 Questions and Answers</title>
+      <description>07 Questions and Answers</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:27 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C32_07%20Questions%20and%20Answers.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C32_07%20Questions%20and%20Answers.mp3</guid>
+    </item>
+
+    <item>
+      <title>07 Self consciousness</title>
+      <description>07 Self consciousness</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:26 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C32_07%20Self%20consciousness.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C32_07%20Self%20consciousness.mp3</guid>
+    </item>
+
+    <item>
+      <title>09 Self promotion</title>
+      <description>09 Self promotion</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:25 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C32_09%20Self%20promotion.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C32_09%20Self%20promotion.mp3</guid>
+    </item>
+
+    <item>
+      <title>10 4 dimensions of self preservation</title>
+      <description>10 4 dimensions of self preservation</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:24 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C32_10%204%20dimensions%20of%20self%20preservation.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C32_10%204%20dimensions%20of%20self%20preservation.mp3</guid>
+    </item>
+
+    <item>
+      <title>11 Songs of praise</title>
+      <description>11 Songs of praise</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:23 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C32_11%20Songs%20of%20praise.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C32_11%20Songs%20of%20praise.mp3</guid>
+    </item>
+
+    <item>
+      <title>12 Special message to the ladies</title>
+      <description>12 Special message to the ladies</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:22 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C32_12%20Special%20message%20to%20the%20ladies.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C32_12%20Special%20message%20to%20the%20ladies.mp3</guid>
+    </item>
+
+    <item>
+      <title>13 Ministration</title>
+      <description>13 Ministration</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:21 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C32_13%20Ministration.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C32_13%20Ministration.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

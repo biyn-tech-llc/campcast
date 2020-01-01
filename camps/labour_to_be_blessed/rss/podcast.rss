@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Labour To Be Blessed</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Labour To Be Blessed</description>
+    <googleplay:image href="https://www.machanehcast.com/camps/labour_to_be_blessed/labour_to_be_blessed.jpg"/>
+    <language>en-us</language>
+    <link>https://www.machanehcast.com/camps/labour_to_be_blessed/</link>
+    <image>
+        <url>
+            https://www.machanehcast.com/camps/labour_to_be_blessed/labour_to_be_blessed.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+  </channel>
+</rss>
