@@ -1,3 +1,7 @@
+function jqid( myid ) {
+  return "#" + myid.replace( /(:|\.|\[|\]|,|=|@|\/)/g, "\\$1" );	 
+}
+
 function fallbackCopyTextToClipboard(text, element_id) {
   var textArea = document.createElement("textarea");
   textArea.value = text;
@@ -43,10 +47,10 @@ function copyTextToClipboard(text, element_id) {
     clearTimeout(timeout);
   //if (!navigator.clipboard) {
     fallbackCopyTextToClipboard(text, element_id);
-    console.log($('#' + element_id).length + ' elements found');
-    $('#' + element_id).tooltip({title: 'Podcast link copied. Go subscribe by URL in your podcast app', trigger: 'manual', placement: 'top'})
-    $('#' + element_id).tooltip('show');
-    timeout = setTimeout(function(){$('#' + element_id).tooltip('hide')}, 3000);
+    console.log($(jqid(element_id)).length + ' elements found');
+    $(jqid(element_id)).tooltip({title: 'Podcast link copied. Go subscribe by URL in your podcast app', trigger: 'manual', placement: 'top'})
+    $(jqid(element_id)).tooltip('show');
+    timeout = setTimeout(function(){$(jqid(element_id)).tooltip('hide')}, 3000);
     return;
 //  }
 //  navigator.clipboard.writeText(text).then(function() {
@@ -58,7 +62,7 @@ function copyTextToClipboard(text, element_id) {
 
 function mouseOut(element_id) {
     clearTimeout(timeout);
-    $('#' + element_id).tooltip('hide')
+    $(jqid(element_id)).tooltip('hide')
 }
 
 
