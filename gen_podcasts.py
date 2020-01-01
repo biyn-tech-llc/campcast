@@ -395,7 +395,17 @@ function setClass(els, className, fnName) {
 // so it initializes the width.
 closeNav();
 
-</script>
+
+</pt>
+// CODELAB: Register service worker.
+if ("serviceWorker" in navigator) {
+    window.addEventListener("load", () => {
+      navigator.serviceWorker.register("/service-worker.js").then(reg => {
+          console.log("Service worker registered.", reg);
+      });
+    });
+}
+</script>script>
 
 </body>
 </html>
