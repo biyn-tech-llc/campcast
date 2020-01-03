@@ -1,10 +1,11 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 import subprocess
 import os
 import re
 import requests
 import time
+from datetime import datetime
 from PIL import Image
 from io import BytesIO
 
@@ -427,10 +428,12 @@ fig = '''
     </figure>
 '''
 max_cols = 8
-col_len = len(camps) / max_cols + (1 if len(camps) % max_cols else 0)
+col_len = int(len(camps) / max_cols + (1 if len(camps) % max_cols else 0))
+print(col_len)
 list_page = list_page_header
 camp_number = 1
 basewidth = 420
+sw_cachefiles = []
 for camp in camps:
     name = camp[0]
     expr = camp[1]
@@ -458,9 +461,9 @@ for camp in camps:
             image_line = subprocess.check_output(cmd.split())
             image_file = re.search(r'(?<=href=").*jpg(?=">)', str(image_line)).group(0)
             image = IMAGES_URL + image_file
-            print image
-            response = requests.get(image)
+            response = requests.get(image.replace("\\'","'"))
             if response.status_code != 200:
+                print ('not found: ' + image)
                 image = LINK_URL + 'DAG.jpg'
         except subprocess.CalledProcessError as e:
             print (e) 
@@ -472,11 +475,13 @@ for camp in camps:
         wpercent = (basewidth/float(img.size[0]))
         hsize = int((float(img.size[1])*float(wpercent)))
         img = img.resize((basewidth,hsize), Image.ANTIALIAS)
-        image_path = os.path.join(folder, image_file).replace('%20', '_').replace('/_','/').replace('%3f','').replace('\'','').replace('&','')
+        image_path = os.path.join(folder, image_file).replace('%20', '_').replace('/_','/').replace('%3f','').replace('\'','').replace('&','').replace('\\','')
         if not os.path.exists(folder):
             os.makedirs(folder)
         img.save(image_path)
         image = LINK_URL + image_path   
+        #remember image path for service worker cache
+        sw_cachefiles.append('"/' + image_path + '"')
 
     podcast = pod_header.replace('___TITLE___', name) \
                 .replace('___LINK___', LINK_URL + folder) \
@@ -504,11 +509,17 @@ for camp in camps:
     print (pod_dir)
     podfile = os.path.join(pod_dir, "podcast.rss")
     #print podfile 
-    with open(os.path.join(pod_dir, "podcast.rss"), "w") as rss_file:
+    with open(podfile, "w") as rss_file:
         rss_file.write(podcast)
-    with open(os.path.join(folder, 'index.html'), 'w') as html_file:
+    #remember rss file for service worker cache
+    sw_cachefiles.append('"/' + podfile + '"')
+
+    html_path = os.path.join(folder, 'index.html') 
+    with open(html_path, 'w') as html_file:
         html_file.write(pod_page.replace('___PODCASTRSS___', LINK_URL + podfile) \
             .replace('___TITLE___', name))
+    #remember index.html for service worker cache
+    sw_cachefiles.append('"/' + html_path + '"')
     
     # column opening tag
     if (camp_number % col_len) == 1:
@@ -529,3 +540,28 @@ for camp in camps:
 list_page += list_page_footer 
 with open ("index.html", "w") as top_html:
     top_html.write(list_page)
+
+# service worker
+with open (os.path.join('templates', 'service-worker.js'), 'r') as swjs:
+    swlines = swjs.readlines()
+
+import glob
+cache_dirs = [
+    'enjoyhint',        
+    'images',        
+    'style'        
+]
+for dir in cache_dirs:
+    dlist = glob.glob(dir + '/**', recursive=True)
+    for afile in dlist:
+        if os.path.isfile(afile):
+            sw_cachefiles.append('"/' + afile + '"')
+
+with open('service-worker.js', 'w') as swjs:
+    for line in swlines:
+        if '___SW_CACHE_VERSION___' in line:
+            swjs.write(re.sub(r'___SW_CACHE_VERSION___', datetime.now().strftime('%Y%m%d%H%M'), line))
+        elif '___SW_CACHE_FILES___' in line:
+            swjs.write(re.sub(r'___SW_CACHE_FILES___', ',\n  '.join(sw_cachefiles), line))
+        else:
+            swjs.write(line)
