@@ -17,8 +17,8 @@
     </image>
 
     <item>
-      <title>00 Intro. Choose Me</title>
-      <description>00 Intro. Choose Me</description>
+      <title>C130_00 Intro. Choose Me</title>
+      <description>C130_00 Intro. Choose Me</description>
       <pubDate>Tue, 26 Mar 2019 12:16:40 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C130_00%20Intro.%20Choose%20Me.mp3"
                  type="audio/mpeg"/>
@@ -27,8 +27,8 @@
     </item>
 
     <item>
-      <title>01. The Parable of The Seed</title>
-      <description>01. The Parable of The Seed</description>
+      <title>C130_01. The Parable of The Seed</title>
+      <description>C130_01. The Parable of The Seed</description>
       <pubDate>Tue, 26 Mar 2019 12:16:39 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C130_01.%20The%20Parable%20of%20The%20Seed.mp3"
                  type="audio/mpeg"/>
@@ -37,9 +37,19 @@
     </item>
 
     <item>
-      <title>03. What Does It Mean For God To Choose Or Use You</title>
-      <description>03. What Does It Mean For God To Choose Or Use You</description>
+      <title>C130_02. Choose Me, Use Me - Introduction</title>
+      <description>C130_02. Choose Me, Use Me - Introduction</description>
       <pubDate>Tue, 26 Mar 2019 12:16:38 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C130_02.%20Choose%20Me,%20Use%20Me%20-%20Introduction.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C130_02.%20Choose%20Me,%20Use%20Me%20-%20Introduction.mp3</guid>
+    </item>
+
+    <item>
+      <title>C130_03. What Does It Mean For God To Choose Or Use You</title>
+      <description>C130_03. What Does It Mean For God To Choose Or Use You</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C130_03.%20What%20Does%20It%20Mean%20For%20God%20To%20Choose%20Or%20Use%20You.mp3"
                  type="audio/mpeg"/>
       <!--itunes:duration>30:00</itunes:duration-->
@@ -47,9 +57,9 @@
     </item>
 
     <item>
-      <title>04. Those Who Are Chosen</title>
-      <description>04. Those Who Are Chosen</description>
-      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
+      <title>C130_04. Those Who Are Chosen</title>
+      <description>C130_04. Those Who Are Chosen</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C130_04.%20Those%20Who%20Are%20Chosen.mp3"
                  type="audio/mpeg"/>
       <!--itunes:duration>30:00</itunes:duration-->
@@ -57,9 +67,9 @@
     </item>
 
     <item>
-      <title>05. What is Faith</title>
-      <description>05. What is Faith</description>
-      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
+      <title>C130_05. What is Faith</title>
+      <description>C130_05. What is Faith</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C130_05.%20What%20is%20Faith.mp3"
                  type="audio/mpeg"/>
       <!--itunes:duration>30:00</itunes:duration-->
@@ -67,9 +77,9 @@
     </item>
 
     <item>
-      <title>06. Those Who Are Humble</title>
-      <description>06. Those Who Are Humble</description>
-      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
+      <title>C130_06. Those Who Are Humble</title>
+      <description>C130_06. Those Who Are Humble</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C130_06.%20Those%20Who%20Are%20Humble.mp3"
                  type="audio/mpeg"/>
       <!--itunes:duration>30:00</itunes:duration-->
@@ -77,9 +87,9 @@
     </item>
 
     <item>
-      <title>07. Why Should God Choose You</title>
-      <description>07. Why Should God Choose You</description>
-      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
+      <title>C130_07. Why Should God Choose You</title>
+      <description>C130_07. Why Should God Choose You</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:33 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C130_07.%20Why%20Should%20God%20Choose%20You.mp3"
                  type="audio/mpeg"/>
       <!--itunes:duration>30:00</itunes:duration-->
@@ -87,9 +97,9 @@
     </item>
 
     <item>
-      <title>08. Grow To Honour Your Prophet</title>
-      <description>08. Grow To Honour Your Prophet</description>
-      <pubDate>Tue, 26 Mar 2019 12:16:33 GMT</pubDate>
+      <title>C130_08. Grow To Honour Your Prophet</title>
+      <description>C130_08. Grow To Honour Your Prophet</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:32 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C130_08.%20Grow%20To%20Honour%20Your%20Prophet.mp3"
                  type="audio/mpeg"/>
       <!--itunes:duration>30:00</itunes:duration-->
@@ -97,9 +107,9 @@
     </item>
 
     <item>
-      <title>09. Camp Testimony</title>
-      <description>09. Camp Testimony</description>
-      <pubDate>Tue, 26 Mar 2019 12:16:32 GMT</pubDate>
+      <title>C130_09. Camp Testimony</title>
+      <description>C130_09. Camp Testimony</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:31 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C130_09.%20Camp%20Testimony.mp3"
                  type="audio/mpeg"/>
       <!--itunes:duration>30:00</itunes:duration-->
@@ -107,9 +117,9 @@
     </item>
 
     <item>
-      <title>10. Closing Session</title>
-      <description>10. Closing Session</description>
-      <pubDate>Tue, 26 Mar 2019 12:16:31 GMT</pubDate>
+      <title>C130_10. Closing Session</title>
+      <description>C130_10. Closing Session</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:30 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C130_10.%20Closing%20Session.mp3"
                  type="audio/mpeg"/>
       <!--itunes:duration>30:00</itunes:duration-->

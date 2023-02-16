@@ -67,19 +67,9 @@
     </item>
 
     <item>
-      <title>5. Exit Signs</title>
-      <description>5. Exit Signs</description>
-      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
-      <enclosure url="http://daghewardmillsaudio.org/songs/C99_5.%20Exit%20Signs.mp3"
-                 type="audio/mpeg"/>
-      <!--itunes:duration>30:00</itunes:duration-->
-      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C99_5.%20Exit%20Signs.mp3</guid>
-    </item>
-
-    <item>
       <title>6. How To Deal with Pharaoh</title>
       <description>6. How To Deal with Pharaoh</description>
-      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
+      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
       <enclosure url="http://daghewardmillsaudio.org/songs/C99_6.%20How%20To%20Deal%20with%20Pharaoh.mp3"
                  type="audio/mpeg"/>
       <!--itunes:duration>30:00</itunes:duration-->

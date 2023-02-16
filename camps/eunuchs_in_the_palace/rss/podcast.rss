@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Eunuchs In The Palace</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Eunuchs In The Palace</description>
+    <googleplay:image href="https://www.machanehcast.com/camps/eunuchs_in_the_palace/eunuchs_in_the_palace-min.jpg"/>
+    <language>en-us</language>
+    <link>https://www.machanehcast.com/camps/eunuchs_in_the_palace/</link>
+    <image>
+        <url>
+            https://www.machanehcast.com/camps/eunuchs_in_the_palace/eunuchs_in_the_palace-min.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>01. Opening Prayer</title>
+      <description>01. Opening Prayer</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:40 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C133_01.%20Opening%20Prayer.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C133_01.%20Opening%20Prayer.mp3</guid>
+    </item>
+
+    <item>
+      <title>02. The Great Profession of a Shepherd</title>
+      <description>02. The Great Profession of a Shepherd</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:39 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C133_02.%20The%20Great%20Profession%20of%20a%20Shepherd.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C133_02.%20The%20Great%20Profession%20of%20a%20Shepherd.mp3</guid>
+    </item>
+
+    <item>
+      <title>03. Prayer by Bishop Joshua Heward-Mills</title>
+      <description>03. Prayer by Bishop Joshua Heward-Mills</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:38 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C133_03.%20Prayer%20by%20Bishop%20Joshua%20Heward-Mills.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C133_03.%20Prayer%20by%20Bishop%20Joshua%20Heward-Mills.mp3</guid>
+    </item>
+
+    <item>
+      <title>04. Recap by Bishop Ogoe</title>
+      <description>04. Recap by Bishop Ogoe</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C133_04.%20Recap%20by%20Bishop%20Ogoe.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C133_04.%20Recap%20by%20Bishop%20Ogoe.mp3</guid>
+    </item>
+
+    <item>
+      <title>05. The 12 Effects of Being an Eunuch</title>
+      <description>05. The 12 Effects of Being an Eunuch</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C133_05.%20The%2012%20Effects%20of%20Being%20an%20Eunuch.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C133_05.%20The%2012%20Effects%20of%20Being%20an%20Eunuch.mp3</guid>
+    </item>
+
+    <item>
+      <title>06. Sacrifices and Questions of an Eunuch</title>
+      <description>06. Sacrifices and Questions of an Eunuch</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C133_06.%20Sacrifices%20and%20Questions%20of%20an%20Eunuch.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C133_06.%20Sacrifices%20and%20Questions%20of%20an%20Eunuch.mp3</guid>
+    </item>
+
+    <item>
+      <title>07. Prayers with Bishop Ogoe</title>
+      <description>07. Prayers with Bishop Ogoe</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C133_07.%20Prayers%20with%20Bishop%20Ogoe.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C133_07.%20Prayers%20with%20Bishop%20Ogoe.mp3</guid>
+    </item>
+
+    <item>
+      <title>08. Spiritual Castration</title>
+      <description>08. Spiritual Castration</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:33 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C133_08.%20Spiritual%20Castration.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C133_08.%20Spiritual%20Castration.mp3</guid>
+    </item>
+
+    <item>
+      <title>09. Prayers by Bishop Frank and Recap by Bishop Ogoe</title>
+      <description>09. Prayers by Bishop Frank and Recap by Bishop Ogoe</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:32 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C133_09.%20Prayers%20by%20Bishop%20Frank%20and%20Recap%20by%20Bishop%20Ogoe.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C133_09.%20Prayers%20by%20Bishop%20Frank%20and%20Recap%20by%20Bishop%20Ogoe.mp3</guid>
+    </item>
+
+    <item>
+      <title>10. The Anointing</title>
+      <description>10. The Anointing</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:31 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C133_10.%20The%20Anointing.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C133_10.%20The%20Anointing.mp3</guid>
+    </item>
+
+    <item>
+      <title>11. Steps into His Presence</title>
+      <description>11. Steps into His Presence</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:30 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C133_11.%20Steps%20into%20His%20Presence.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C133_11.%20Steps%20into%20His%20Presence.mp3</guid>
+    </item>
+
+    <item>
+      <title>12. Prayers with Bishop Frank</title>
+      <description>12. Prayers with Bishop Frank</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:29 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C133_12.%20Prayers%20with%20Bishop%20Frank.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C133_12.%20Prayers%20with%20Bishop%20Frank.mp3</guid>
+    </item>
+
+    <item>
+      <title>13. Patterns of God_s Presence (The Environment God Dwell_s In-White Linen and Scarlet)</title>
+      <description>13. Patterns of God_s Presence (The Environment God Dwell_s In-White Linen and Scarlet)</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:28 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C133_13.%20Patterns%20of%20God_s%20Presence%20(The%20Environment%20God%20Dwell_s%20In-White%20Linen%20and%20Scarlet).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C133_13.%20Patterns%20of%20God_s%20Presence%20(The%20Environment%20God%20Dwell_s%20In-White%20Linen%20and%20Scarlet).mp3</guid>
+    </item>
+
+    <item>
+      <title>14. Patterns of God_s Presence (The Environment God Dwell_s In-Purple and Blue)</title>
+      <description>14. Patterns of God_s Presence (The Environment God Dwell_s In-Purple and Blue)</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:27 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C133_14.%20Patterns%20of%20God_s%20Presence%20(The%20Environment%20God%20Dwell_s%20In-Purple%20and%20Blue).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C133_14.%20Patterns%20of%20God_s%20Presence%20(The%20Environment%20God%20Dwell_s%20In-Purple%20and%20Blue).mp3</guid>
+    </item>
+
+    <item>
+      <title>15. Patterns of God_s Presence (The Environment God Dwell_s In-Gold)</title>
+      <description>15. Patterns of God_s Presence (The Environment God Dwell_s In-Gold)</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:26 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C133_15.%20Patterns%20of%20God_s%20Presence%20(The%20Environment%20God%20Dwell_s%20In-Gold).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C133_15.%20Patterns%20of%20God_s%20Presence%20(The%20Environment%20God%20Dwell_s%20In-Gold).mp3</guid>
+    </item>
+
+    <item>
+      <title>16. Worship with Bishop Frank</title>
+      <description>16. Worship with Bishop Frank</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:25 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C133_16.%20Worship%20with%20Bishop%20Frank.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C133_16.%20Worship%20with%20Bishop%20Frank.mp3</guid>
+    </item>
+
+    <item>
+      <title>17. Patterns of God_s Presence (Brass and God_s Presence)</title>
+      <description>17. Patterns of God_s Presence (Brass and God_s Presence)</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:24 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C133_17.%20Patterns%20of%20God_s%20Presence%20(Brass%20and%20God_s%20Presence).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C133_17.%20Patterns%20of%20God_s%20Presence%20(Brass%20and%20God_s%20Presence).mp3</guid>
+    </item>
+
+    <item>
+      <title>18. Patterns of God_s Presence (Silver, Shittim Wood, Badger_s Skin and God_s Presence)</title>
+      <description>18. Patterns of God_s Presence (Silver, Shittim Wood, Badger_s Skin and God_s Presence)</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:23 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C133_18.%20Patterns%20of%20God_s%20Presence%20(Silver,%20Shittim%20Wood,%20Badger_s%20Skin%20and%20God_s%20Presence).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C133_18.%20Patterns%20of%20God_s%20Presence%20(Silver,%20Shittim%20Wood,%20Badger_s%20Skin%20and%20God_s%20Presence).mp3</guid>
+    </item>
+
+    <item>
+      <title>19. Patterns of God_s Presence (Goat_s Hair, Ram Skin Dyed Red and God_s Presence)</title>
+      <description>19. Patterns of God_s Presence (Goat_s Hair, Ram Skin Dyed Red and God_s Presence)</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:22 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C133_19.%20Patterns%20of%20God_s%20Presence%20(Goat_s%20Hair,%20Ram%20Skin%20Dyed%20Red%20and%20God_s%20Presence).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C133_19.%20Patterns%20of%20God_s%20Presence%20(Goat_s%20Hair,%20Ram%20Skin%20Dyed%20Red%20and%20God_s%20Presence).mp3</guid>
+    </item>
+
+    <item>
+      <title>20. Prayer and Worship Time</title>
+      <description>20. Prayer and Worship Time</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:21 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C133_20.%20Prayer%20and%20Worship%20Time.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C133_20.%20Prayer%20and%20Worship%20Time.mp3</guid>
+    </item>
+
+    <item>
+      <title>21. Spiritual Castrations (Metabolic and Congenital Eunuchs)</title>
+      <description>21. Spiritual Castrations (Metabolic and Congenital Eunuchs)</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:20 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C133_21.%20Spiritual%20Castrations%20(Metabolic%20and%20Congenital%20Eunuchs).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C133_21.%20Spiritual%20Castrations%20(Metabolic%20and%20Congenital%20Eunuchs).mp3</guid>
+    </item>
+
+    <item>
+      <title>22. Why Loyalty is Important (Fire Based Castrations)</title>
+      <description>22. Why Loyalty is Important (Fire Based Castrations)</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:19 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C133_22.%20Why%20Loyalty%20is%20Important%20(Fire%20Based%20Castrations).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C133_22.%20Why%20Loyalty%20is%20Important%20(Fire%20Based%20Castrations).mp3</guid>
+    </item>
+
+    <item>
+      <title>23. Recap by Bishop Ogoe</title>
+      <description>23. Recap by Bishop Ogoe</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:18 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C133_23.%20Recap%20by%20Bishop%20Ogoe.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C133_23.%20Recap%20by%20Bishop%20Ogoe.mp3</guid>
+    </item>
+
+    <item>
+      <title>24. Recap by Bishop Joshua</title>
+      <description>24. Recap by Bishop Joshua</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:17 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C133_24.%20Recap%20by%20Bishop%20Joshua.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C133_24.%20Recap%20by%20Bishop%20Joshua.mp3</guid>
+    </item>
+
+    <item>
+      <title>25. Stages of Becoming Lucifer</title>
+      <description>25. Stages of Becoming Lucifer</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:16 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C133_25.%20Stages%20of%20Becoming%20Lucifer.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C133_25.%20Stages%20of%20Becoming%20Lucifer.mp3</guid>
+    </item>
+
+    <item>
+      <title>26. Stages of Becoming Lucifer Part 2</title>
+      <description>26. Stages of Becoming Lucifer Part 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:15 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C133_26.%20Stages%20of%20Becoming%20Lucifer%20Part%202.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C133_26.%20Stages%20of%20Becoming%20Lucifer%20Part%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>27. Worship time with Bishop Frank</title>
+      <description>27. Worship time with Bishop Frank</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:14 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C133_27.%20Worship%20time%20with%20Bishop%20Frank.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C133_27.%20Worship%20time%20with%20Bishop%20Frank.mp3</guid>
+    </item>
+
+    <item>
+      <title>28. Book Launch</title>
+      <description>28. Book Launch</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:13 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C133_28.%20Book%20Launch.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C133_28.%20Book%20Launch.mp3</guid>
+    </item>
+
+    <item>
+      <title>29. Spiritual Castrations</title>
+      <description>29. Spiritual Castrations</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:12 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C133_29.%20Spiritual%20Castrations.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C133_29.%20Spiritual%20Castrations.mp3</guid>
+    </item>
+
+    <item>
+      <title>30. Levels of Obedience</title>
+      <description>30. Levels of Obedience</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:11 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C133_30.%20Levels%20of%20Obedience.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C133_30.%20Levels%20of%20Obedience.mp3</guid>
+    </item>
+
+    <item>
+      <title>31. Fruitfulness</title>
+      <description>31. Fruitfulness</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:10 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C133_31.%20Fruitfulness.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C133_31.%20Fruitfulness.mp3</guid>
+    </item>
+
+    <item>
+      <title>32. Prayers with Bishop Frank</title>
+      <description>32. Prayers with Bishop Frank</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:09 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C133_32.%20Prayers%20with%20Bishop%20Frank.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C133_32.%20Prayers%20with%20Bishop%20Frank.mp3</guid>
+    </item>
+
+    <item>
+      <title>33. The Revenge of the Eunuch</title>
+      <description>33. The Revenge of the Eunuch</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:08 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C133_33.%20The%20Revenge%20of%20the%20Eunuch.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C133_33.%20The%20Revenge%20of%20the%20Eunuch.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Use It Or Lose It</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Use It Or Lose It</description>
+    <googleplay:image href="https://www.machanehcast.com/DAG.jpg"/>
+    <language>en-us</language>
+    <link>https://www.machanehcast.com/camps/use_it_or_lose_it/</link>
+    <image>
+        <url>
+            https://www.machanehcast.com/DAG.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>01 Camp Introduction with Bishop Ogoe</title>
+      <description>01 Camp Introduction with Bishop Ogoe</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:40 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C135_01%20Camp%20Introduction%20with%20Bishop%20Ogoe.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C135_01%20Camp%20Introduction%20with%20Bishop%20Ogoe.mp3</guid>
+    </item>
+
+    <item>
+      <title>02 Use It Or Lose It</title>
+      <description>02 Use It Or Lose It</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:39 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C135_02%20Use%20It%20Or%20Lose%20It.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C135_02%20Use%20It%20Or%20Lose%20It.mp3</guid>
+    </item>
+
+    <item>
+      <title>03 He Gave Gifts Unto Men</title>
+      <description>03 He Gave Gifts Unto Men</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:38 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C135_03%20He%20Gave%20Gifts%20Unto%20Men.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C135_03%20He%20Gave%20Gifts%20Unto%20Men.mp3</guid>
+    </item>
+
+    <item>
+      <title>04 Keys to Developing Your Apostolic Ministry - Dont Compare Yourself</title>
+      <description>04 Keys to Developing Your Apostolic Ministry - Dont Compare Yourself</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C135_04%20Keys%20to%20Developing%20Your%20Apostolic%20Ministry%20-%20Dont%20Compare%20Yourself.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C135_04%20Keys%20to%20Developing%20Your%20Apostolic%20Ministry%20-%20Dont%20Compare%20Yourself.mp3</guid>
+    </item>
+
+    <item>
+      <title>05 Keys to Developing Your Apostolic Ministry - Know Your Territory</title>
+      <description>05 Keys to Developing Your Apostolic Ministry - Know Your Territory</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C135_05%20Keys%20to%20Developing%20Your%20Apostolic%20Ministry%20-%20Know%20Your%20Territory.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C135_05%20Keys%20to%20Developing%20Your%20Apostolic%20Ministry%20-%20Know%20Your%20Territory.mp3</guid>
+    </item>
+
+    <item>
+      <title>06 HAAQI</title>
+      <description>06 HAAQI</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C135_06%20HAAQI.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C135_06%20HAAQI.mp3</guid>
+    </item>
+
+    <item>
+      <title>07 Keys to Developing Your Apostolic Ministry - Marital Commitment</title>
+      <description>07 Keys to Developing Your Apostolic Ministry - Marital Commitment</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C135_07%20Keys%20to%20Developing%20Your%20Apostolic%20Ministry%20-%20Marital%20Commitment.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C135_07%20Keys%20to%20Developing%20Your%20Apostolic%20Ministry%20-%20Marital%20Commitment.mp3</guid>
+    </item>
+
+    <item>
+      <title>08 Keys to Developing Your Apostolic Ministry - Holiness</title>
+      <description>08 Keys to Developing Your Apostolic Ministry - Holiness</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:33 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C135_08%20Keys%20to%20Developing%20Your%20Apostolic%20Ministry%20-%20Holiness.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C135_08%20Keys%20to%20Developing%20Your%20Apostolic%20Ministry%20-%20Holiness.mp3</guid>
+    </item>
+
+    <item>
+      <title>09 How to Defeat Devils</title>
+      <description>09 How to Defeat Devils</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:32 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C135_09%20How%20to%20Defeat%20Devils.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C135_09%20How%20to%20Defeat%20Devils.mp3</guid>
+    </item>
+
+    <item>
+      <title>10 Keys to Developing Your Apostolic Ministry - The Simplicity</title>
+      <description>10 Keys to Developing Your Apostolic Ministry - The Simplicity</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:31 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C135_10%20Keys%20to%20Developing%20Your%20Apostolic%20Ministry%20-%20The%20Simplicity.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C135_10%20Keys%20to%20Developing%20Your%20Apostolic%20Ministry%20-%20The%20Simplicity.mp3</guid>
+    </item>
+
+    <item>
+      <title>11 Keys to Developing Your Apostolic Ministry - Maintains Strongly the message of the Gospel</title>
+      <description>11 Keys to Developing Your Apostolic Ministry - Maintains Strongly the message of the Gospel</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:30 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C135_11%20Keys%20to%20Developing%20Your%20Apostolic%20Ministry%20-%20Maintains%20Strongly%20the%20message%20of%20the%20Gospel.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C135_11%20Keys%20to%20Developing%20Your%20Apostolic%20Ministry%20-%20Maintains%20Strongly%20the%20message%20of%20the%20Gospel.mp3</guid>
+    </item>
+
+    <item>
+      <title>12 HAAQI %232</title>
+      <description>12 HAAQI %232</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:29 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C135_12%20HAAQI%20%232.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C135_12%20HAAQI%20%232.mp3</guid>
+    </item>
+
+    <item>
+      <title>13 Keys to Developing Your Apostolic Ministry - Knowledge</title>
+      <description>13 Keys to Developing Your Apostolic Ministry - Knowledge</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:28 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C135_13%20Keys%20to%20Developing%20Your%20Apostolic%20Ministry%20-%20Knowledge.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C135_13%20Keys%20to%20Developing%20Your%20Apostolic%20Ministry%20-%20Knowledge.mp3</guid>
+    </item>
+
+    <item>
+      <title>14 Keys to Developing Your Apostolic Ministry - Humility</title>
+      <description>14 Keys to Developing Your Apostolic Ministry - Humility</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:27 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C135_14%20Keys%20to%20Developing%20Your%20Apostolic%20Ministry%20-%20Humility.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C135_14%20Keys%20to%20Developing%20Your%20Apostolic%20Ministry%20-%20Humility.mp3</guid>
+    </item>
+
+    <item>
+      <title>15 Recap with Bishop Ogoe</title>
+      <description>15 Recap with Bishop Ogoe</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:26 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C135_15%20Recap%20with%20Bishop%20Ogoe.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C135_15%20Recap%20with%20Bishop%20Ogoe.mp3</guid>
+    </item>
+
+    <item>
+      <title>16 War Against Masqueraders</title>
+      <description>16 War Against Masqueraders</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:25 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C135_16%20War%20Against%20Masqueraders.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C135_16%20War%20Against%20Masqueraders.mp3</guid>
+    </item>
+
+    <item>
+      <title>17 Prayer With Bishop Ogoe</title>
+      <description>17 Prayer With Bishop Ogoe</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:24 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C135_17%20Prayer%20With%20Bishop%20Ogoe.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C135_17%20Prayer%20With%20Bishop%20Ogoe.mp3</guid>
+    </item>
+
+    <item>
+      <title>18 War Agaisnt Masqueraders pt.2 </title>
+      <description>18 War Agaisnt Masqueraders pt.2 </description>
+      <pubDate>Tue, 26 Mar 2019 12:16:23 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C135_18%20War%20Agaisnt%20Masqueraders%20pt.2%20.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C135_18%20War%20Agaisnt%20Masqueraders%20pt.2%20.mp3</guid>
+    </item>
+
+    <item>
+      <title>19 Prayer with Bishop Ogoe</title>
+      <description>19 Prayer with Bishop Ogoe</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:22 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C135_19%20Prayer%20with%20Bishop%20Ogoe.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C135_19%20Prayer%20with%20Bishop%20Ogoe.mp3</guid>
+    </item>
+
+    <item>
+      <title>20 Keys to Developing Your Apostolic Ministry - Hard Work</title>
+      <description>20 Keys to Developing Your Apostolic Ministry - Hard Work</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:21 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C135_20%20Keys%20to%20Developing%20Your%20Apostolic%20Ministry%20-%20Hard%20Work.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C135_20%20Keys%20to%20Developing%20Your%20Apostolic%20Ministry%20-%20Hard%20Work.mp3</guid>
+    </item>
+
+    <item>
+      <title>21 Keys to Developing Your Pastoral Ministry</title>
+      <description>21 Keys to Developing Your Pastoral Ministry</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:20 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C135_21%20Keys%20to%20Developing%20Your%20Pastoral%20Ministry.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C135_21%20Keys%20to%20Developing%20Your%20Pastoral%20Ministry.mp3</guid>
+    </item>
+
+    <item>
+      <title>22 Prayer With Bishop Ogoe</title>
+      <description>22 Prayer With Bishop Ogoe</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:19 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C135_22%20Prayer%20With%20Bishop%20Ogoe.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C135_22%20Prayer%20With%20Bishop%20Ogoe.mp3</guid>
+    </item>
+
+    <item>
+      <title>23 Keys To Developing Your Evangelistic Ministry</title>
+      <description>23 Keys To Developing Your Evangelistic Ministry</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:18 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C135_23%20Keys%20To%20Developing%20Your%20Evangelistic%20Ministry.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C135_23%20Keys%20To%20Developing%20Your%20Evangelistic%20Ministry.mp3</guid>
+    </item>
+
+    <item>
+      <title>24 Prayer with Bishop Ogoe</title>
+      <description>24 Prayer with Bishop Ogoe</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:17 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C135_24%20Prayer%20with%20Bishop%20Ogoe.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C135_24%20Prayer%20with%20Bishop%20Ogoe.mp3</guid>
+    </item>
+
+    <item>
+      <title>25 Developing Your Prophetic and Teaching Ministry</title>
+      <description>25 Developing Your Prophetic and Teaching Ministry</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:16 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C135_25%20Developing%20Your%20Prophetic%20and%20Teaching%20Ministry.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C135_25%20Developing%20Your%20Prophetic%20and%20Teaching%20Ministry.mp3</guid>
+    </item>
+
+    <item>
+      <title>26 Prayer And Ministration</title>
+      <description>26 Prayer And Ministration</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:15 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C135_26%20Prayer%20And%20Ministration.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C135_26%20Prayer%20And%20Ministration.mp3</guid>
+    </item>
+
+  </channel>
+</rss>
