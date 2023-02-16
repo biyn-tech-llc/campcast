@@ -1,6 +1,6 @@
 "use strict";
 
-const CACHE_NAME = 'static_machaneh_cache_v202302151901';
+const CACHE_NAME = 'static_machaneh_cache_v202302151926';
 
 const CACHE_FILES = [
   "/",

@@ -133,7 +133,7 @@ camps = [
     ('And Ye Shall Compass The City', 'C123_', 'and%20ye%20shall.jpg', '2018-10-31.05'),
     ('No City Shall Be Too Strong For You 2018', 'C123_', 'no%20city%20shall%20be%20too%20strong%20for%20you.jpg', '2018-10-31.07'),
     #('Life In The Church', 'C124_'), #repeat of C19_
-    ('Season of Withdrawal','C130_','1550854868_season%20of%20withdrawal.jpg','',b'1.%20Prophets%20or%20Spirituals.mp3 \
+    ('Season of Withdrawal','','1550854868_season%20of%20withdrawal.jpg','',b'1.%20Prophets%20or%20Spirituals.mp3 \
                                                                               2.%20Prophets%20or%20Spirituals_Prayer%20Session.mp3 \
                                                                               3.%20The%20Fall%20of%20Lucifer.mp3 \
                                                                               4.%20The%20Fall%20of%20Lucifer_Prayer%20Session%20.mp3 \
@@ -217,7 +217,7 @@ camps = [
                                                                                            C130_39.%20Brothers%20Be%20Strong.mp3 \
                                                                                            C130_40.%20Sister%20Be%20Spiritual.mp3 \
                                                                                            C130_41.%20The%20Prophecies%20Of%20Your%20Destiny.mp3'),
-    ('Choose Me Use Me','C130_', '130.%20Choose_me_use_me.jpg', '', b'C130_00%20Intro.%20Choose%20Me.mp3 \
+    ('Choose Me Use Me','', '130.%20Choose_me_use_me.jpg', '', b'C130_00%20Intro.%20Choose%20Me.mp3 \
                                                                  C130_01.%20The%20Parable%20of%20The%20Seed.mp3 \
                                                                  C130_02.%20Choose%20Me,%20Use%20Me%20-%20Introduction.mp3 \
                                                                  C130_03.%20What%20Does%20It%20Mean%20For%20God%20To%20Choose%20Or%20Use%20You.mp3 \
