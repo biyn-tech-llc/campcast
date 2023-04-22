@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>He Sent Young Men</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>He Sent Young Men</description>
+    <googleplay:image href="https://www.machanehcast.com/camps/he_sent_young_men/HeSentYoungMenCTAC.jpeg"/>
+    <language>en-us</language>
+    <link>https://www.machanehcast.com/camps/he_sent_young_men/</link>
+    <image>
+        <url>
+            https://www.machanehcast.com/camps/he_sent_young_men/HeSentYoungMenCTAC.jpeg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>1. He Sent Young Men</title>
+      <description>1. He Sent Young Men</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:40 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C138_1.%20He%20Sent%20Young%20Men.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C138_1.%20He%20Sent%20Young%20Men.mp3</guid>
+    </item>
+
+    <item>
+      <title>2. Twenty Five To Fifty</title>
+      <description>2. Twenty Five To Fifty</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:39 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C138_2.%20Twenty%20Five%20To%20Fifty.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C138_2.%20Twenty%20Five%20To%20Fifty.mp3</guid>
+    </item>
+
+    <item>
+      <title>3. Keys To Youthfulness</title>
+      <description>3. Keys To Youthfulness</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:38 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C138_3.%20Keys%20To%20Youthfulness.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C138_3.%20Keys%20To%20Youthfulness.mp3</guid>
+    </item>
+
+    <item>
+      <title>4. What Young people Bring Into The Ministry</title>
+      <description>4. What Young people Bring Into The Ministry</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C138_4.%20What%20Young%20people%20Bring%20Into%20The%20Ministry.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C138_4.%20What%20Young%20people%20Bring%20Into%20The%20Ministry.mp3</guid>
+    </item>
+
+    <item>
+      <title>5. Youthfulness, Wrinkle-Free Ministry As A Good Example</title>
+      <description>5. Youthfulness, Wrinkle-Free Ministry As A Good Example</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C138_5.%20Youthfulness,%20Wrinkle-Free%20Ministry%20As%20A%20Good%20Example.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C138_5.%20Youthfulness,%20Wrinkle-Free%20Ministry%20As%20A%20Good%20Example.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

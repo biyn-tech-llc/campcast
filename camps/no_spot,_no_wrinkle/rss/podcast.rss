@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>No Spot, No Wrinkle</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>No Spot, No Wrinkle</description>
+    <googleplay:image href="https://www.machanehcast.com/camps/no_spot,_no_wrinkle/No_Spot,_No_Wrinkle_QFC.jpeg"/>
+    <language>en-us</language>
+    <link>https://www.machanehcast.com/camps/no_spot,_no_wrinkle/</link>
+    <image>
+        <url>
+            https://www.machanehcast.com/camps/no_spot,_no_wrinkle/No_Spot,_No_Wrinkle_QFC.jpeg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>01. No Spots No Wrinkles</title>
+      <description>01. No Spots No Wrinkles</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:40 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C140_01.%20No%20Spots%20No%20Wrinkles.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C140_01.%20No%20Spots%20No%20Wrinkles.mp3</guid>
+    </item>
+
+    <item>
+      <title>02. Why Jesus wants a church without spots and wrinkle</title>
+      <description>02. Why Jesus wants a church without spots and wrinkle</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:39 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C140_02.%20Why%20Jesus%20wants%20a%20church%20without%20spots%20and%20wrinkle.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C140_02.%20Why%20Jesus%20wants%20a%20church%20without%20spots%20and%20wrinkle.mp3</guid>
+    </item>
+
+    <item>
+      <title>03. Keys to Flowing without wrinkles</title>
+      <description>03. Keys to Flowing without wrinkles</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:38 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C140_03.%20Keys%20to%20Flowing%20without%20wrinkles.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C140_03.%20Keys%20to%20Flowing%20without%20wrinkles.mp3</guid>
+    </item>
+
+    <item>
+      <title>04. The Surprise That Comes From The Young</title>
+      <description>04. The Surprise That Comes From The Young</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C140_04.%20The%20Surprise%20That%20Comes%20From%20The%20Young.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C140_04.%20The%20Surprise%20That%20Comes%20From%20The%20Young.mp3</guid>
+    </item>
+
+    <item>
+      <title>05. Comparism Between Young Solomon And Old Solomon</title>
+      <description>05. Comparism Between Young Solomon And Old Solomon</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C140_05.%20Comparism%20Between%20Young%20Solomon%20And%20Old%20Solomon.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C140_05.%20Comparism%20Between%20Young%20Solomon%20And%20Old%20Solomon.mp3</guid>
+    </item>
+
+    <item>
+      <title>06. What God Uses Young People To Do</title>
+      <description>06. What God Uses Young People To Do</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C140_06.%20What%20God%20Uses%20Young%20People%20To%20Do.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C140_06.%20What%20God%20Uses%20Young%20People%20To%20Do.mp3</guid>
+    </item>
+
+    <item>
+      <title>07. How To Avoid Spots and Wrinkles</title>
+      <description>07. How To Avoid Spots and Wrinkles</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C140_07.%20How%20To%20Avoid%20Spots%20and%20Wrinkles.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C140_07.%20How%20To%20Avoid%20Spots%20and%20Wrinkles.mp3</guid>
+    </item>
+
+    <item>
+      <title>08. The Kind Of Young People God Has No Joy In</title>
+      <description>08. The Kind Of Young People God Has No Joy In</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:33 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C140_08.%20The%20Kind%20Of%20Young%20People%20God%20Has%20No%20Joy%20In.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C140_08.%20The%20Kind%20Of%20Young%20People%20God%20Has%20No%20Joy%20In.mp3</guid>
+    </item>
+
+    <item>
+      <title>09. Why God Choses the young</title>
+      <description>09. Why God Choses the young</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:32 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C140_09.%20Why%20God%20Choses%20the%20young.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C140_09.%20Why%20God%20Choses%20the%20young.mp3</guid>
+    </item>
+
+    <item>
+      <title>10. Consequence of having spots and wrinkles</title>
+      <description>10. Consequence of having spots and wrinkles</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:31 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C140_10.%20Consequence%20of%20having%20spots%20and%20wrinkles.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C140_10.%20Consequence%20of%20having%20spots%20and%20wrinkles.mp3</guid>
+    </item>
+
+    <item>
+      <title>11. Song Ministration</title>
+      <description>11. Song Ministration</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:30 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C140_11.%20Song%20Ministration.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C140_11.%20Song%20Ministration.mp3</guid>
+    </item>
+
+    <item>
+      <title>12. Dangers of Spots and Wrinkles</title>
+      <description>12. Dangers of Spots and Wrinkles</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:29 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C140_12.%20Dangers%20of%20Spots%20and%20Wrinkles.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C140_12.%20Dangers%20of%20Spots%20and%20Wrinkles.mp3</guid>
+    </item>
+
+    <item>
+      <title>13. Song Ministration</title>
+      <description>13. Song Ministration</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:28 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C140_13.%20Song%20Ministration.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C140_13.%20Song%20Ministration.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

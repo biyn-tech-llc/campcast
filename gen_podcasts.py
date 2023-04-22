@@ -8,12 +8,13 @@ import time
 from datetime import datetime
 from PIL import Image
 from io import BytesIO
+import get_image_retry as retry
 
 
 camps = [
     ('Building a Multiple Mega Church', 'C1_'),
     ('Loyalty and the Mega Church', 'C2_'),
-    ('Strive Lawfully For A Mega Church',   'C3_'),
+    ('Strive Lawfully For A Mega Church',   'C3_', 'STRIVE%20LAWFULLY%20FOR%20A%20MEGACHURCH.jpg'),
     ('Double Mega Missionary Church',       'C4_'),
     ('Going Deeper and Doing More', 'C5_'),
     ('Love and The Mega Church', 'C6_'),
@@ -78,7 +79,7 @@ camps = [
     ('Warnings of purpose', 'C69_'),
     ('The Volante', 'C70_'),
     ('Awake O Sleeper', 'C71_'),
-    ('Lord I know you need somebody', 'C72_'),
+    ('Lord I know you need somebody', 'C72_','lord%20i%20know%20you%20need%20somebody.jpg'),
     ('Inexorability in the Mission', 'C73_'),
     ("God's Banquet", 'C74_'),
     ('Seigneur Ait Pitie', 'C75_'),
@@ -229,7 +230,15 @@ camps = [
                                                                  C130_09.%20Camp%20Testimony.mp3 \
                                                                  C130_10.%20Closing%20Session.mp3'),
     ('Eunuchs In The Palace', 'C133_', 'eunuchs_in_the_palace-min.jpg'),
-    ('Use It Or Lose It', 'C135_'),
+    ('Use It Or Lose It', 'C135_', 'Cover%20Art%205d03961e-1c56-41ef-9e0d-f57f82943933.jpg'),
+    ('Enlargement Shall Arise','C136_', 'Enlargement%20Shall%20Arise.jpeg'),
+    ('AMOMOS','C137_','AmomosMKD.jpeg'),
+    ('He Sent Young Men','C138_','HeSentYoungMenCTAC.jpeg'),
+    ('The Glorious Church','C139_','The%20Glorious%20Church.jpeg'),
+    ('No Spot, No Wrinkle','C140_','No%20Spot,%20No%20Wrinkle%20QFC.jpeg'),
+    ('The Power Of A Mustard Seed','C141_','PowerOfaMustardSeedNZ.jpeg'),
+    ('Subduing The Nations', 'C142_', 'SubduingTheNationsFiji.jpeg'),
+    ('We Are Not Ashamed Of The Gospel','C144_','NOTASHAMEDOFTHEGOSPELm.jpg'),
 ]
 FILES_URL="http://daghewardmillsaudio.org/songs/"
 LINK_URL="https://www.machanehcast.com/"
@@ -487,6 +496,7 @@ basewidth = 420
 sw_cachefiles = []
 for camp in camps:
     name = camp[0]
+    print(f"processing camp: {name}")
     expr = camp[1]
     ssns = None
     if len(camp) > 4:
@@ -499,25 +509,43 @@ for camp in camps:
         ssns = subprocess.check_output(cmd.split())
     #print "sessions are: " + ssns
     #image_file = 'DAG.jpg'
+
+    # set headers - might help with getting blocked
+    headers = {
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9", 
+      "Accept-Encoding": "gzip, deflate", 
+      "Accept-Language": "en-GB,en-US;q=0.9,en;q=0.8", 
+      "Dnt": "1", 
+      "Host": "httpbin.org", 
+      "Upgrade-Insecure-Requests": "1", 
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36", 
+   }
+    #sleep a half sec
+    time.sleep(0.6)
+
     response = None
     image = LINK_URL + 'DAG.jpg'
     if len(camp) >= 3:
         image_file = camp[2]
         image = IMAGES_URL + image_file
         print(image)
-        response = requests.get(image, headers={"User-Agent": "XY"})
+        # response = requests.get(image, headers=headers, stream = True,timeout=15)
+        response = retry.get_image_retry(image,10)
     else:
         cmd = "grep -i -m 1 " + name.replace(' ', '.*') + " images.html"
         try:
             image_line = subprocess.check_output(cmd.split())
             image_file = re.search(r'(?<=href=").*jpg(?=">)', str(image_line)).group(0)
             image = IMAGES_URL + image_file
-            response = requests.get(image.replace("\\'","'"), headers={"User-Agent": "XY"})
-            if response.status_code != 200:
-                print ('not found: ' + image)
-                image = LINK_URL + 'DAG.jpg'
+            fixd_image_url = image.replace("\\'","'")
+            print(f"getting image {image} as {fixd_image_url}")
+            # response = requests.get(fixd_image_url, headers=headers, stream = True,timeout=15)
+            response = retry.get_image_retry(fixd_image_url, 10)
         except subprocess.CalledProcessError as e:
             print (e) 
+    if not response or response.status_code != 200:
+        print ('not found: ' + image)
+        image = LINK_URL + 'DAG.jpg'
 
     folder = os.path.join('camps', name.lower().replace(' ', '_').replace("'","").replace('?', '').replace('!',''))
 
@@ -525,7 +553,7 @@ for camp in camps:
         img = Image.open(BytesIO(response.content))
         wpercent = (basewidth/float(img.size[0]))
         hsize = int((float(img.size[1])*float(wpercent)))
-        img = img.resize((basewidth,hsize), Image.ANTIALIAS)
+        img = img.resize((basewidth,hsize), Image.LANCZOS)
         image_path = os.path.join(folder, image_file).replace('%20', '_').replace('/_','/').replace('%3f','').replace('\'','').replace('&','').replace('\\','')
         if not os.path.exists(folder):
             os.makedirs(folder)
@@ -533,7 +561,7 @@ for camp in camps:
         image = LINK_URL + image_path   
         #remember image path for service worker cache
         sw_cachefiles.append('"/' + image_path + '"')
-
+    print(f"done with image - now the rss")
     podcast = pod_header.replace('___TITLE___', name) \
                 .replace('___LINK___', LINK_URL + folder) \
                 .replace('___IMAGE___', image)

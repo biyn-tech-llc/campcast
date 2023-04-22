@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Subduing The Nations</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Subduing The Nations</description>
+    <googleplay:image href="https://www.machanehcast.com/camps/subduing_the_nations/SubduingTheNationsFiji.jpeg"/>
+    <language>en-us</language>
+    <link>https://www.machanehcast.com/camps/subduing_the_nations/</link>
+    <image>
+        <url>
+            https://www.machanehcast.com/camps/subduing_the_nations/SubduingTheNationsFiji.jpeg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>01 Bear Your Yoke in Your Youth</title>
+      <description>01 Bear Your Yoke in Your Youth</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:40 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C142_01%20Bear%20Your%20Yoke%20in%20Your%20Youth.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C142_01%20Bear%20Your%20Yoke%20in%20Your%20Youth.mp3</guid>
+    </item>
+
+    <item>
+      <title>02 Faith is Obedience</title>
+      <description>02 Faith is Obedience</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:39 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C142_02%20Faith%20is%20Obedience.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C142_02%20Faith%20is%20Obedience.mp3</guid>
+    </item>
+
+    <item>
+      <title>03 Subdue Nations by Becoming a Shepherd</title>
+      <description>03 Subdue Nations by Becoming a Shepherd</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:38 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C142_03%20Subdue%20Nations%20by%20Becoming%20a%20Shepherd.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C142_03%20Subdue%20Nations%20by%20Becoming%20a%20Shepherd.mp3</guid>
+    </item>
+
+    <item>
+      <title>04 Reasons Why People Don't Become Men of Faith</title>
+      <description>04 Reasons Why People Don't Become Men of Faith</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C142_04%20Reasons%20Why%20People%20Don't%20Become%20Men%20of%20Faith.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C142_04%20Reasons%20Why%20People%20Don't%20Become%20Men%20of%20Faith.mp3</guid>
+    </item>
+
+    <item>
+      <title>05 Become a Shepherd with a Set of Skills</title>
+      <description>05 Become a Shepherd with a Set of Skills</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C142_05%20Become%20a%20Shepherd%20with%20a%20Set%20of%20Skills.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C142_05%20Become%20a%20Shepherd%20with%20a%20Set%20of%20Skills.mp3</guid>
+    </item>
+
+    <item>
+      <title>06 The Heart of a Shepherd</title>
+      <description>06 The Heart of a Shepherd</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C142_06%20The%20Heart%20of%20a%20Shepherd.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C142_06%20The%20Heart%20of%20a%20Shepherd.mp3</guid>
+    </item>
+
+    <item>
+      <title>07 The Heart of a Sheperd 2</title>
+      <description>07 The Heart of a Sheperd 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C142_07%20The%20Heart%20of%20a%20Sheperd%202.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C142_07%20The%20Heart%20of%20a%20Sheperd%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>08 The Requirements of a Shepherd</title>
+      <description>08 The Requirements of a Shepherd</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:33 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C142_08%20The%20Requirements%20of%20a%20Shepherd.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C142_08%20The%20Requirements%20of%20a%20Shepherd.mp3</guid>
+    </item>
+
+    <item>
+      <title>09 Steps to Madness in a Shepherd</title>
+      <description>09 Steps to Madness in a Shepherd</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:32 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C142_09%20Steps%20to%20Madness%20in%20a%20Shepherd.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C142_09%20Steps%20to%20Madness%20in%20a%20Shepherd.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

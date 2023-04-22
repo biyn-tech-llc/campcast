@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The Power Of A Mustard Seed</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>The Power Of A Mustard Seed</description>
+    <googleplay:image href="https://www.machanehcast.com/camps/the_power_of_a_mustard_seed/PowerOfaMustardSeedNZ.jpeg"/>
+    <language>en-us</language>
+    <link>https://www.machanehcast.com/camps/the_power_of_a_mustard_seed/</link>
+    <image>
+        <url>
+            https://www.machanehcast.com/camps/the_power_of_a_mustard_seed/PowerOfaMustardSeedNZ.jpeg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>01 The Power of a Mustard Seed</title>
+      <description>01 The Power of a Mustard Seed</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:40 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C141_01%20The%20Power%20of%20a%20Mustard%20Seed.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C141_01%20The%20Power%20of%20a%20Mustard%20Seed.mp3</guid>
+    </item>
+
+    <item>
+      <title>02 The Mustard Seed Of Prayer</title>
+      <description>02 The Mustard Seed Of Prayer</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:39 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C141_02%20The%20Mustard%20Seed%20Of%20Prayer.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C141_02%20The%20Mustard%20Seed%20Of%20Prayer.mp3</guid>
+    </item>
+
+    <item>
+      <title>03 The Mustard Seed Of A Song</title>
+      <description>03 The Mustard Seed Of A Song</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:38 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C141_03%20The%20Mustard%20Seed%20Of%20A%20Song.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C141_03%20The%20Mustard%20Seed%20Of%20A%20Song.mp3</guid>
+    </item>
+
+    <item>
+      <title>04 Rules in the Kingdom of God</title>
+      <description>04 Rules in the Kingdom of God</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C141_04%20Rules%20in%20the%20Kingdom%20of%20God.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C141_04%20Rules%20in%20the%20Kingdom%20of%20God.mp3</guid>
+    </item>
+
+    <item>
+      <title>05 Enemies Of The Mustard Seed</title>
+      <description>05 Enemies Of The Mustard Seed</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C141_05%20Enemies%20Of%20The%20Mustard%20Seed.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C141_05%20Enemies%20Of%20The%20Mustard%20Seed.mp3</guid>
+    </item>
+
+    <item>
+      <title>06 Recap with Bishop Joel</title>
+      <description>06 Recap with Bishop Joel</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C141_06%20Recap%20with%20Bishop%20Joel.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C141_06%20Recap%20with%20Bishop%20Joel.mp3</guid>
+    </item>
+
+    <item>
+      <title>07 When It Is Grown</title>
+      <description>07 When It Is Grown</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C141_07%20When%20It%20Is%20Grown.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C141_07%20When%20It%20Is%20Grown.mp3</guid>
+    </item>
+
+    <item>
+      <title>08 Types of Missions (Birds)</title>
+      <description>08 Types of Missions (Birds)</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:33 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C141_08%20Types%20of%20Missions%20(Birds).mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C141_08%20Types%20of%20Missions%20(Birds).mp3</guid>
+    </item>
+
+    <item>
+      <title>09 The Anointing</title>
+      <description>09 The Anointing</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:32 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C141_09%20The%20Anointing.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C141_09%20The%20Anointing.mp3</guid>
+    </item>
+
+    <item>
+      <title>10 Types of Missions (Birds) Cont.</title>
+      <description>10 Types of Missions (Birds) Cont.</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:31 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C141_10%20Types%20of%20Missions%20(Birds)%20Cont..mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C141_10%20Types%20of%20Missions%20(Birds)%20Cont..mp3</guid>
+    </item>
+
+    <item>
+      <title>11 The Art of Shepherding</title>
+      <description>11 The Art of Shepherding</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:30 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C141_11%20The%20Art%20of%20Shepherding.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C141_11%20The%20Art%20of%20Shepherding.mp3</guid>
+    </item>
+
+    <item>
+      <title>12 The Art of Shepherding Cont.</title>
+      <description>12 The Art of Shepherding Cont.</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:29 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C141_12%20The%20Art%20of%20Shepherding%20Cont..mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C141_12%20The%20Art%20of%20Shepherding%20Cont..mp3</guid>
+    </item>
+
+    <item>
+      <title>13 Birds Of The Air</title>
+      <description>13 Birds Of The Air</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:28 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C141_13%20Birds%20Of%20The%20Air.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C141_13%20Birds%20Of%20The%20Air.mp3</guid>
+    </item>
+
+    <item>
+      <title>14 Prayer and Ministration</title>
+      <description>14 Prayer and Ministration</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:27 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C141_14%20Prayer%20and%20Ministration.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C141_14%20Prayer%20and%20Ministration.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

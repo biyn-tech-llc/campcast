@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>We Are Not Ashamed Of The Gospel</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>We Are Not Ashamed Of The Gospel</description>
+    <googleplay:image href="https://www.machanehcast.com/camps/we_are_not_ashamed_of_the_gospel/NOTASHAMEDOFTHEGOSPELm.jpg"/>
+    <language>en-us</language>
+    <link>https://www.machanehcast.com/camps/we_are_not_ashamed_of_the_gospel/</link>
+    <image>
+        <url>
+            https://www.machanehcast.com/camps/we_are_not_ashamed_of_the_gospel/NOTASHAMEDOFTHEGOSPELm.jpg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>01. Prayer Session 1</title>
+      <description>01. Prayer Session 1</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:40 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C144_01.%20Prayer%20Session%201.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C144_01.%20Prayer%20Session%201.mp3</guid>
+    </item>
+
+    <item>
+      <title>02. Keys of Healing</title>
+      <description>02. Keys of Healing</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:39 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C144_02.%20Keys%20of%20Healing.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C144_02.%20Keys%20of%20Healing.mp3</guid>
+    </item>
+
+    <item>
+      <title>03.. Prayer Session 2</title>
+      <description>03.. Prayer Session 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:38 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C144_03..%20Prayer%20Session%202.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C144_03..%20Prayer%20Session%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>04. We Are Not Ashamed -  Romans 1, 2 &amp; 3</title>
+      <description>04. We Are Not Ashamed -  Romans 1, 2 &amp; 3</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C144_04.%20We%20Are%20Not%20Ashamed%20-%20%20Romans%201,%202%20&amp;%203.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C144_04.%20We%20Are%20Not%20Ashamed%20-%20%20Romans%201,%202%20&amp;%203.mp3</guid>
+    </item>
+
+    <item>
+      <title>05. We Are Not Ashamed - Romans 4, 5, 6 &amp; 7</title>
+      <description>05. We Are Not Ashamed - Romans 4, 5, 6 &amp; 7</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C144_05.%20We%20Are%20Not%20Ashamed%20-%20Romans%204,%205,%206%20&amp;%207.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C144_05.%20We%20Are%20Not%20Ashamed%20-%20Romans%204,%205,%206%20&amp;%207.mp3</guid>
+    </item>
+
+    <item>
+      <title>06. Prayer by Pastor Andrew</title>
+      <description>06. Prayer by Pastor Andrew</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C144_06.%20Prayer%20by%20Pastor%20Andrew.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C144_06.%20Prayer%20by%20Pastor%20Andrew.mp3</guid>
+    </item>
+
+    <item>
+      <title>07. Prayer Session with Prophet</title>
+      <description>07. Prayer Session with Prophet</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C144_07.%20Prayer%20Session%20with%20Prophet.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C144_07.%20Prayer%20Session%20with%20Prophet.mp3</guid>
+    </item>
+
+    <item>
+      <title>08. We Are Not Ashamed - Romans 8</title>
+      <description>08. We Are Not Ashamed - Romans 8</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:33 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C144_08.%20We%20Are%20Not%20Ashamed%20-%20Romans%208.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C144_08.%20We%20Are%20Not%20Ashamed%20-%20Romans%208.mp3</guid>
+    </item>
+
+    <item>
+      <title>09. Prayer Session 3</title>
+      <description>09. Prayer Session 3</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:32 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C144_09.%20Prayer%20Session%203.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C144_09.%20Prayer%20Session%203.mp3</guid>
+    </item>
+
+    <item>
+      <title>10. Prayer Session 4</title>
+      <description>10. Prayer Session 4</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:31 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C144_10.%20Prayer%20Session%204.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C144_10.%20Prayer%20Session%204.mp3</guid>
+    </item>
+
+    <item>
+      <title>11. 25 Things That We Are Not Ashamed because We Are Not Ashamed of The Gospel</title>
+      <description>11. 25 Things That We Are Not Ashamed because We Are Not Ashamed of The Gospel</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:30 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C144_11.%2025%20Things%20That%20We%20Are%20Not%20Ashamed%20because%20We%20Are%20Not%20Ashamed%20of%20The%20Gospel.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C144_11.%2025%20Things%20That%20We%20Are%20Not%20Ashamed%20because%20We%20Are%20Not%20Ashamed%20of%20The%20Gospel.mp3</guid>
+    </item>
+
+    <item>
+      <title>12. Prayer Session 5</title>
+      <description>12. Prayer Session 5</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:29 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C144_12.%20Prayer%20Session%205.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C144_12.%20Prayer%20Session%205.mp3</guid>
+    </item>
+
+    <item>
+      <title>13. 25 Things That We Are Not Ashamed Because We Are Not Ashamed of The Gospel Pt. 2</title>
+      <description>13. 25 Things That We Are Not Ashamed Because We Are Not Ashamed of The Gospel Pt. 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:28 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C144_13.%2025%20Things%20That%20We%20Are%20Not%20Ashamed%20Because%20We%20Are%20Not%20Ashamed%20of%20The%20Gospel%20Pt.%202.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C144_13.%2025%20Things%20That%20We%20Are%20Not%20Ashamed%20Because%20We%20Are%20Not%20Ashamed%20of%20The%20Gospel%20Pt.%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>14. Prayer Session 6</title>
+      <description>14. Prayer Session 6</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:27 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C144_14.%20Prayer%20Session%206.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C144_14.%20Prayer%20Session%206.mp3</guid>
+    </item>
+
+    <item>
+      <title>15. 25 Things That We Are Not Ashamed Because We Are Not Ashamed of The Gospel Pt. 3</title>
+      <description>15. 25 Things That We Are Not Ashamed Because We Are Not Ashamed of The Gospel Pt. 3</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:26 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C144_15.%2025%20Things%20That%20We%20Are%20Not%20Ashamed%20Because%20We%20Are%20Not%20Ashamed%20of%20The%20Gospel%20Pt.%203.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C144_15.%2025%20Things%20That%20We%20Are%20Not%20Ashamed%20Because%20We%20Are%20Not%20Ashamed%20of%20The%20Gospel%20Pt.%203.mp3</guid>
+    </item>
+
+    <item>
+      <title>16. Prayer &amp; Recap by Bishop Richard</title>
+      <description>16. Prayer &amp; Recap by Bishop Richard</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:25 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C144_16.%20Prayer%20&amp;%20Recap%20by%20Bishop%20Richard.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C144_16.%20Prayer%20&amp;%20Recap%20by%20Bishop%20Richard.mp3</guid>
+    </item>
+
+    <item>
+      <title>17. Those Who Are Mad</title>
+      <description>17. Those Who Are Mad</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:24 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C144_17.%20Those%20Who%20Are%20Mad.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C144_17.%20Those%20Who%20Are%20Mad.mp3</guid>
+    </item>
+
+    <item>
+      <title>18. Prayer Session 7</title>
+      <description>18. Prayer Session 7</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:23 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C144_18.%20Prayer%20Session%207.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C144_18.%20Prayer%20Session%207.mp3</guid>
+    </item>
+
+    <item>
+      <title>19. Those Who Are Mad Pt. 2</title>
+      <description>19. Those Who Are Mad Pt. 2</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:22 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C144_19.%20Those%20Who%20Are%20Mad%20Pt.%202.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C144_19.%20Those%20Who%20Are%20Mad%20Pt.%202.mp3</guid>
+    </item>
+
+    <item>
+      <title>20. Prayer Session 8</title>
+      <description>20. Prayer Session 8</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:21 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C144_20.%20Prayer%20Session%208.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C144_20.%20Prayer%20Session%208.mp3</guid>
+    </item>
+
+    <item>
+      <title>21. Those Who Are Mad Pt. 3</title>
+      <description>21. Those Who Are Mad Pt. 3</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:20 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C144_21.%20Those%20Who%20Are%20Mad%20Pt.%203.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C144_21.%20Those%20Who%20Are%20Mad%20Pt.%203.mp3</guid>
+    </item>
+
+    <item>
+      <title>22. Prayer Session with Prophet</title>
+      <description>22. Prayer Session with Prophet</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:19 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C144_22.%20Prayer%20Session%20with%20Prophet.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C144_22.%20Prayer%20Session%20with%20Prophet.mp3</guid>
+    </item>
+
+    <item>
+      <title>23. Those Who Are Mad Pt. 4 - Dementia</title>
+      <description>23. Those Who Are Mad Pt. 4 - Dementia</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:18 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C144_23.%20Those%20Who%20Are%20Mad%20Pt.%204%20-%20Dementia.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C144_23.%20Those%20Who%20Are%20Mad%20Pt.%204%20-%20Dementia.mp3</guid>
+    </item>
+
+    <item>
+      <title>24. We Are Not Ashamed - Romans 10</title>
+      <description>24. We Are Not Ashamed - Romans 10</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:17 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C144_24.%20We%20Are%20Not%20Ashamed%20-%20Romans%2010.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C144_24.%20We%20Are%20Not%20Ashamed%20-%20Romans%2010.mp3</guid>
+    </item>
+
+    <item>
+      <title>25. Prayer Session 9</title>
+      <description>25. Prayer Session 9</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:16 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C144_25.%20Prayer%20Session%209.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C144_25.%20Prayer%20Session%209.mp3</guid>
+    </item>
+
+    <item>
+      <title>26. Launch of the Seven Songs Concert</title>
+      <description>26. Launch of the Seven Songs Concert</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:15 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C144_26.%20Launch%20of%20the%20Seven%20Songs%20Concert.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C144_26.%20Launch%20of%20the%20Seven%20Songs%20Concert.mp3</guid>
+    </item>
+
+    <item>
+      <title>27. We Are Not Ashamed - Romans 12 &amp; Prayer with Minstration</title>
+      <description>27. We Are Not Ashamed - Romans 12 &amp; Prayer with Minstration</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:14 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C144_27.%20We%20Are%20Not%20Ashamed%20-%20Romans%2012%20&amp;%20Prayer%20with%20Minstration.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C144_27.%20We%20Are%20Not%20Ashamed%20-%20Romans%2012%20&amp;%20Prayer%20with%20Minstration.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

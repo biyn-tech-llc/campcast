@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Enlargement Shall Arise</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Enlargement Shall Arise</description>
+    <googleplay:image href="https://www.machanehcast.com/camps/enlargement_shall_arise/Enlargement_Shall_Arise.jpeg"/>
+    <language>en-us</language>
+    <link>https://www.machanehcast.com/camps/enlargement_shall_arise/</link>
+    <image>
+        <url>
+            https://www.machanehcast.com/camps/enlargement_shall_arise/Enlargement_Shall_Arise.jpeg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>1. Enlargement Shall Arise</title>
+      <description>1. Enlargement Shall Arise</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:40 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C136_1.%20Enlargement%20Shall%20Arise.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C136_1.%20Enlargement%20Shall%20Arise.mp3</guid>
+    </item>
+
+    <item>
+      <title>2. The Campaign for Church Enlargement</title>
+      <description>2. The Campaign for Church Enlargement</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:39 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C136_2.%20The%20Campaign%20for%20Church%20Enlargement.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C136_2.%20The%20Campaign%20for%20Church%20Enlargement.mp3</guid>
+    </item>
+
+    <item>
+      <title>3. State of the Flock Campaign</title>
+      <description>3. State of the Flock Campaign</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:38 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C136_3.%20State%20of%20the%20Flock%20Campaign.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C136_3.%20State%20of%20the%20Flock%20Campaign.mp3</guid>
+    </item>
+
+    <item>
+      <title>4. Servants Armed and Trained</title>
+      <description>4. Servants Armed and Trained</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C136_4.%20Servants%20Armed%20and%20Trained.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C136_4.%20Servants%20Armed%20and%20Trained.mp3</guid>
+    </item>
+
+    <item>
+      <title>5. Hearing and Seeing Campaign</title>
+      <description>5. Hearing and Seeing Campaign</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C136_5.%20Hearing%20and%20Seeing%20Campaign.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C136_5.%20Hearing%20and%20Seeing%20Campaign.mp3</guid>
+    </item>
+
+    <item>
+      <title>6. Honour Your Prophet Campaign</title>
+      <description>6. Honour Your Prophet Campaign</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C136_6.%20Honour%20Your%20Prophet%20Campaign.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C136_6.%20Honour%20Your%20Prophet%20Campaign.mp3</guid>
+    </item>
+
+    <item>
+      <title>7. Bacenta Proliferation and Gathering Bus Campaigns</title>
+      <description>7. Bacenta Proliferation and Gathering Bus Campaigns</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C136_7.%20Bacenta%20Proliferation%20and%20Gathering%20Bus%20Campaigns.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C136_7.%20Bacenta%20Proliferation%20and%20Gathering%20Bus%20Campaigns.mp3</guid>
+    </item>
+
+    <item>
+      <title>8. Why Loyalty is Important</title>
+      <description>8. Why Loyalty is Important</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:33 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C136_8.%20Why%20Loyalty%20is%20Important.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C136_8.%20Why%20Loyalty%20is%20Important.mp3</guid>
+    </item>
+
+    <item>
+      <title>9. Understanding Campaign and Swollen Sunday Campaign</title>
+      <description>9. Understanding Campaign and Swollen Sunday Campaign</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:32 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C136_9.%20Understanding%20Campaign%20and%20Swollen%20Sunday%20Campaign.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C136_9.%20Understanding%20Campaign%20and%20Swollen%20Sunday%20Campaign.mp3</guid>
+    </item>
+
+    <item>
+      <title>10. Sheep Seeking and Sunday Management Campaigns</title>
+      <description>10. Sheep Seeking and Sunday Management Campaigns</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:31 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C136_10.%20Sheep%20Seeking%20and%20Sunday%20Management%20Campaigns.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C136_10.%20Sheep%20Seeking%20and%20Sunday%20Management%20Campaigns.mp3</guid>
+    </item>
+
+    <item>
+      <title>11. Testimony and Telepastoring Campaigns</title>
+      <description>11. Testimony and Telepastoring Campaigns</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:30 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C136_11.%20Testimony%20and%20Telepastoring%20Campaigns.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C136_11.%20Testimony%20and%20Telepastoring%20Campaigns.mp3</guid>
+    </item>
+
+    <item>
+      <title>12. Intimate Counselling Campaign</title>
+      <description>12. Intimate Counselling Campaign</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:29 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C136_12.%20Intimate%20Counselling%20Campaign.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C136_12.%20Intimate%20Counselling%20Campaign.mp3</guid>
+    </item>
+
+  </channel>
+</rss>

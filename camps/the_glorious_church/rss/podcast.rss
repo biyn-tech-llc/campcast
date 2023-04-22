@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The Glorious Church</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>The Glorious Church</description>
+    <googleplay:image href="https://www.machanehcast.com/camps/the_glorious_church/The_Glorious_Church.jpeg"/>
+    <language>en-us</language>
+    <link>https://www.machanehcast.com/camps/the_glorious_church/</link>
+    <image>
+        <url>
+            https://www.machanehcast.com/camps/the_glorious_church/The_Glorious_Church.jpeg
+        </url>
+        <width>192</width>
+        <height>144</height>
+    </image>
+
+    <item>
+      <title>01. THE GLORIOUS CHURCH - AA DEN CAMP</title>
+      <description>01. THE GLORIOUS CHURCH - AA DEN CAMP</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:40 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C139_01.%20THE%20GLORIOUS%20CHURCH%20-%20AA%20DEN%20CAMP.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C139_01.%20THE%20GLORIOUS%20CHURCH%20-%20AA%20DEN%20CAMP.mp3</guid>
+    </item>
+
+    <item>
+      <title>02. THE SPIRIT OF HOLINESS - AA DEN CAMP</title>
+      <description>02. THE SPIRIT OF HOLINESS - AA DEN CAMP</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:39 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C139_02.%20THE%20SPIRIT%20OF%20HOLINESS%20-%20AA%20DEN%20CAMP.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C139_02.%20THE%20SPIRIT%20OF%20HOLINESS%20-%20AA%20DEN%20CAMP.mp3</guid>
+    </item>
+
+    <item>
+      <title>03. WHY YOUTHFULNESS-YOUNG SOLOMON VS OLD SOLOMON</title>
+      <description>03. WHY YOUTHFULNESS-YOUNG SOLOMON VS OLD SOLOMON</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:38 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C139_03.%20WHY%20YOUTHFULNESS-YOUNG%20SOLOMON%20VS%20OLD%20SOLOMON.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C139_03.%20WHY%20YOUTHFULNESS-YOUNG%20SOLOMON%20VS%20OLD%20SOLOMON.mp3</guid>
+    </item>
+
+    <item>
+      <title>04. WHY DOES JESUS CHOOSE A YOUNG PERSON - AA DEN CAMP</title>
+      <description>04. WHY DOES JESUS CHOOSE A YOUNG PERSON - AA DEN CAMP</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:37 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C139_04.%20WHY%20DOES%20JESUS%20CHOOSE%20A%20YOUNG%20PERSON%20-%20AA%20DEN%20CAMP.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C139_04.%20WHY%20DOES%20JESUS%20CHOOSE%20A%20YOUNG%20PERSON%20-%20AA%20DEN%20CAMP.mp3</guid>
+    </item>
+
+    <item>
+      <title>05. THE SURPRISE OF THE YOUNG MEN - AA DEN CAMP</title>
+      <description>05. THE SURPRISE OF THE YOUNG MEN - AA DEN CAMP</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:36 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C139_05.%20THE%20SURPRISE%20OF%20THE%20YOUNG%20MEN%20-%20AA%20DEN%20CAMP.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C139_05.%20THE%20SURPRISE%20OF%20THE%20YOUNG%20MEN%20-%20AA%20DEN%20CAMP.mp3</guid>
+    </item>
+
+    <item>
+      <title>06. THE MINISTRY OF JESUS - AA DEN CAMP</title>
+      <description>06. THE MINISTRY OF JESUS - AA DEN CAMP</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:35 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C139_06.%20THE%20MINISTRY%20OF%20JESUS%20-%20AA%20DEN%20CAMP.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C139_06.%20THE%20MINISTRY%20OF%20JESUS%20-%20AA%20DEN%20CAMP.mp3</guid>
+    </item>
+
+    <item>
+      <title>07. THESE ARE SPOTS - AA DEN CAMP</title>
+      <description>07. THESE ARE SPOTS - AA DEN CAMP</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:34 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C139_07.%20THESE%20ARE%20SPOTS%20-%20AA%20DEN%20CAMP.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C139_07.%20THESE%20ARE%20SPOTS%20-%20AA%20DEN%20CAMP.mp3</guid>
+    </item>
+
+    <item>
+      <title>08. HOW THE ANOINTING LOOKS FOR YOUNG PEOPLE - AA DEN CAMP</title>
+      <description>08. HOW THE ANOINTING LOOKS FOR YOUNG PEOPLE - AA DEN CAMP</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:33 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C139_08.%20HOW%20THE%20ANOINTING%20LOOKS%20FOR%20YOUNG%20PEOPLE%20-%20AA%20DEN%20CAMP.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C139_08.%20HOW%20THE%20ANOINTING%20LOOKS%20FOR%20YOUNG%20PEOPLE%20-%20AA%20DEN%20CAMP.mp3</guid>
+    </item>
+
+    <item>
+      <title>09. IT IS THE YOUNG THAT APPRECIATE THE ANOINTED AND HIS ANOINTING</title>
+      <description>09. IT IS THE YOUNG THAT APPRECIATE THE ANOINTED AND HIS ANOINTING</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:32 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C139_09.%20IT%20IS%20THE%20YOUNG%20THAT%20APPRECIATE%20THE%20ANOINTED%20AND%20HIS%20ANOINTING.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C139_09.%20IT%20IS%20THE%20YOUNG%20THAT%20APPRECIATE%20THE%20ANOINTED%20AND%20HIS%20ANOINTING.mp3</guid>
+    </item>
+
+    <item>
+      <title>10. WHAT CAN MAKE A YOUNG PERSON DOUBLY DANGEROUS - AA DEN CAMP</title>
+      <description>10. WHAT CAN MAKE A YOUNG PERSON DOUBLY DANGEROUS - AA DEN CAMP</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:31 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C139_10.%20WHAT%20CAN%20MAKE%20A%20YOUNG%20PERSON%20DOUBLY%20DANGEROUS%20-%20AA%20DEN%20CAMP.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C139_10.%20WHAT%20CAN%20MAKE%20A%20YOUNG%20PERSON%20DOUBLY%20DANGEROUS%20-%20AA%20DEN%20CAMP.mp3</guid>
+    </item>
+
+    <item>
+      <title>11. TAKE HEED UNTO YOURSELF - AA DEN CAMP</title>
+      <description>11. TAKE HEED UNTO YOURSELF - AA DEN CAMP</description>
+      <pubDate>Tue, 26 Mar 2019 12:16:30 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C139_11.%20TAKE%20HEED%20UNTO%20YOURSELF%20-%20AA%20DEN%20CAMP.mp3"
+                 type="audio/mpeg"/>
+      <!--itunes:duration>30:00</itunes:duration-->
+      <guid isPermaLink="false">http://daghewardmillsaudio.org/songs/C139_11.%20TAKE%20HEED%20UNTO%20YOURSELF%20-%20AA%20DEN%20CAMP.mp3</guid>
+    </item>
+
+  </channel>
+</rss>
